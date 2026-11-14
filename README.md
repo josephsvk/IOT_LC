@@ -108,13 +108,13 @@ No license has been specified. All rights reserved unless a license is added.
 
 ![Individual PCB layers — page 2](docs/images/pcb-layers-002.png)
 
-**Page 3**
+**3D view from above**
 
-![Individual PCB layers — page 3](docs/images/pcb-layers-003.png)
+![Individual PCB layers — 3d view from above](docs/images/pcb-layers-003.png)
 
-**Page 4**
+**3D view from below**
 
-![Individual PCB layers — page 4](docs/images/pcb-layers-004.png)
+![Individual PCB layers — 3d view from below](docs/images/pcb-layers-004.png)
 
 [View vector PDF](docs/pdf/pcb-layers.pdf)
 <!-- AUTO-DOCS-END -->

@@ -41,14 +41,39 @@ def render(pdf, page, prefix):
     return target.relative_to(ROOT).as_posix()
 
 
-def section(lines, filename, title):
+def render_3d(side, page):
+    config = (ROOT / '.kicad-automation.conf').read_text(encoding='utf-8')
+    match = re.search(r'^PROJECT_NAME=(.+)$', config, re.M)
+    if not match:
+        raise ValueError('PROJECT_NAME missing from .kicad-automation.conf')
+    board = ROOT / f'{match.group(1).strip()}.kicad_pcb'
+    if not board.is_file():
+        raise FileNotFoundError(f'PCB board not found: {board}')
+    target = IMAGES / f'pcb-layers-{page:03d}.png'
+    subprocess.run([
+        'kicad-cli', 'pcb', 'render', '--quality', 'high',
+        '--preset', 'follow_plot_settings', '--width', '2200', '--height', '1500',
+        '--side', side, '--background', 'opaque', '--floor',
+        '--output', str(target), str(board),
+    ], check=True)
+    return target.relative_to(ROOT).as_posix()
+
+
+def section(lines, filename, title, page_overrides=None):
     pdf = PDF / filename
     count = pages(pdf)
     prefix = pdf.stem
     lines.extend([f'### {title}', ''])
     for page in range(1, count + 1):
-        img = render(pdf, page, prefix)
-        lines.extend([f'**Page {page}**', '', f'![{title} — page {page}]({img})', ''])
+        override = (page_overrides or {}).get(page)
+        if override:
+            label, side = override
+            img = render_3d(side, page)
+            caption = label
+        else:
+            img = render(pdf, page, prefix)
+            caption = f'Page {page}'
+        lines.extend([f'**{caption}**', '', f'![{title} — {caption.lower()}]({img})', ''])
     lines.extend([f'[View vector PDF]({pdf.relative_to(ROOT).as_posix()})', ''])
 
 
@@ -61,7 +86,10 @@ def main():
     lines.extend(['## PCB documentation', ''])
     section(lines, 'pcb-front.pdf', 'PCB front')
     section(lines, 'pcb-back.pdf', 'PCB back')
-    section(lines, 'pcb-layers.pdf', 'Individual PCB layers')
+    section(lines, 'pcb-layers.pdf', 'Individual PCB layers', {
+        3: ('3D view from above', 'top'),
+        4: ('3D view from below', 'bottom'),
+    })
     generated = f'{START}\n' + '\n'.join(lines).rstrip() + f'\n{END}'
     if README.exists():
         data = README.read_text(encoding='utf-8')
