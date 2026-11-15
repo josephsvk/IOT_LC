@@ -24261,6 +24261,12 @@
 				)
 			)
 		)
+    (property "MPN" "TLVM14406RCHR" (at 492.76 327.66 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "Texas Instruments" (at 492.76 327.66 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "13"
 			(uuid "f6ca0668-aef3-46c8-b021-0e4e8d494554")
 		)
@@ -24709,7 +24715,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF22R0V"
+		(property "Value" "22 Ω"
 			(at 550.164 98.298 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25532,7 +25538,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF22R0V"
+		(property "Value" "22 Ω"
 			(at 542.29 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26064,7 +26070,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3GEY0R00V"
+		(property "Value" "0 Ω"
 			(at 497.078 181.102 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26568,6 +26574,12 @@
 				)
 			)
 		)
+    (property "MPN" "WP4060GD" (at 318.516 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "Kingbright" (at 318.516 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "2"
 			(uuid "c58427a2-3b6e-4fd2-a8b7-7e788b3f2b41")
 		)
@@ -27474,6 +27486,12 @@
 				)
 			)
 		)
+    (property "MPN" "WP4060GD" (at 394.716 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "Kingbright" (at 394.716 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "2"
 			(uuid "f0a5230a-271f-4c32-8b9e-1dbb9f53b4d0")
 		)
@@ -27511,7 +27529,7 @@
 				)
 			)
 		)
-		(property "Value" "C0603C104K4RACTU"
+		(property "Value" "100 nF"
 			(at 283.718 64.008 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28027,7 +28045,7 @@
 				)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 480.06 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28282,7 +28300,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 548.64 312.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29177,7 +29195,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 548.64 278.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29555,7 +29573,7 @@
 				)
 			)
 		)
-		(property "Value" "CC1206KKX7R8BB105"
+		(property "Value" "1 µF"
 			(at 548.64 307.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29811,7 +29829,7 @@
 				)
 			)
 		)
-		(property "Value" "CRCW060360R4FKEA"
+		(property "Value" "60.4 Ω"
 			(at 521.208 165.862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30006,7 +30024,7 @@
 				)
 			)
 		)
-		(property "Value" "CC1206KKX7R8BB105"
+		(property "Value" "1 µF"
 			(at 529.59 346.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30262,7 +30280,7 @@
 				)
 			)
 		)
-		(property "Value" "C2012X7R1A106K125AC"
+		(property "Value" "10 µF"
 			(at 260.858 62.738 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30692,6 +30710,12 @@
 				)
 			)
 		)
+    (property "MPN" "WP4060GD" (at 275.336 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "Kingbright" (at 275.336 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "2"
 			(uuid "9e03a78d-7396-45fa-b84d-bb3a87f58e46")
 		)
@@ -30782,6 +30806,12 @@
 				)
 			)
 		)
+    (property "MPN" "WP4060GD" (at 368.046 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "Kingbright" (at 368.046 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "2"
 			(uuid "01bcbc55-ebdb-4036-a2b2-a7fb7d9c0663")
 		)
@@ -31323,7 +31353,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3GEY0R00V"
+		(property "Value" "0 Ω"
 			(at 497.078 155.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31436,7 +31466,7 @@
 				)
 			)
 		)
-		(property "Value" "AC0805FR-7W2K2L"
+		(property "Value" "2.2 kΩ"
 			(at 193.04 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31680,7 +31710,7 @@
 				)
 			)
 		)
-		(property "Value" "FCC0603B105K160CT"
+		(property "Value" "1 µF"
 			(at 272.288 64.008 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33289,7 +33319,7 @@
 				)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 480.06 265.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34268,7 +34298,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ3EKF1542V"
+		(property "Value" "15.4 kΩ"
 			(at 463.55 342.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34524,7 +34554,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 548.64 322.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36412,7 +36442,7 @@
 				)
 			)
 		)
-		(property "Value" "test"
+		(property "Value" "10 kΩ"
 			(at 177.8 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36668,7 +36698,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C1206C105K5RACTU"
+		(property "Value" "1 µF"
 			(at 187.452 36.068 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37284,7 +37314,7 @@
 				)
 			)
 		)
-		(property "Value" "CC0603KRX7R9BB472"
+		(property "Value" "4.7 nF"
 			(at 522.478 149.352 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37485,7 +37515,7 @@
 				)
 			)
 		)
-		(property "Value" "CC1206KKX7R8BB105"
+		(property "Value" "1 µF"
 			(at 548.64 340.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38454,7 +38484,7 @@
 				)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 501.65 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38968,7 +38998,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF1002V"
+		(property "Value" "10 kΩ"
 			(at 449.58 321.31 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40086,7 +40116,7 @@
 				)
 			)
 		)
-		(property "Value" "C0603C104K4RACTU"
+		(property "Value" "100 nF"
 			(at 488.188 144.272 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40200,7 +40230,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TMOV20RP275E"
+		(property "Value" "275 V AC MOV"
 			(at 335.28 342.8999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40510,6 +40540,12 @@
 				)
 			)
 		)
+    (property "MPN" "WP4060GD" (at 343.916 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "Kingbright" (at 343.916 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "2"
 			(uuid "e078b45b-dd3e-414d-a7e5-17b841860f5a")
 		)
@@ -40629,7 +40665,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJPA3F5101V"
+		(property "Value" "5.1 kΩ"
 			(at 440.944 50.038 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40742,7 +40778,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ3EKF1202V"
+		(property "Value" "12 kΩ"
 			(at 431.8 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40856,7 +40892,7 @@
 				)
 			)
 		)
-		(property "Value" "ERA-3AEB103V"
+		(property "Value" "10 kΩ"
 			(at 450.088 167.132 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41113,7 +41149,7 @@
 				)
 			)
 		)
-		(property "Value" "ERA-3AEB103V"
+		(property "Value" "10 kΩ"
 			(at 208.28 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41722,7 +41758,7 @@
 				)
 			)
 		)
-		(property "Value" "CRCW060360R4FKEA"
+		(property "Value" "60.4 Ω"
 			(at 498.348 165.862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42327,7 +42363,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJPA3F5101V"
+		(property "Value" "5.1 kΩ"
 			(at 524.764 57.658 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42440,7 +42476,7 @@
 				)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 502.92 265.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42696,7 +42732,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 548.64 289.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43004,6 +43040,12 @@
 				)
 			)
 		)
+    (property "MPN" "IRM-20-24" (at 361.95 339.09 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "MEAN WELL" (at 361.95 339.09 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "1"
 			(uuid "3a03d931-c7df-4efe-8459-65ff85a98a9b")
 		)
@@ -43047,7 +43089,7 @@
 				)
 			)
 		)
-		(property "Value" "NRSZ101M50V10X12.5F"
+		(property "Value" "100 µF"
 			(at 461.899 287.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43243,6 +43285,12 @@
 				)
 			)
 		)
+    (property "MPN" "NRSZ101M50V10X12.5F" (at 461.01 292.1 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "NIC Components" (at 461.01 292.1 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "2"
 			(uuid "031bc7d1-08d2-4ff4-95c3-c869bbcb42d7")
 		)
@@ -44023,6 +44071,12 @@
 				)
 			)
 		)
+    (property "MPN" "WP4060GD" (at 298.196 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
+    (property "Manufacturer" "Kingbright" (at 298.196 152.146 0)
+      (effects (font (size 1.27 1.27)) (hide yes))
+    )
 		(pin "2"
 			(uuid "dac68cc2-2b33-4810-ac61-40d63ae4a0d3")
 		)
@@ -44508,7 +44562,7 @@
 				)
 			)
 		)
-		(property "Value" "AC0805FR-7W2K2L"
+		(property "Value" "2.2 kΩ"
 			(at 193.04 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44622,7 +44676,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ERA-3APB153V"
+		(property "Value" "15 kΩ"
 			(at 440.69 104.1399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45109,7 +45163,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "CC0805JKX7R9BB105"
+		(property "Value" "1 µF"
 			(at 381 342.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
