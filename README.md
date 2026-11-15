@@ -70,14 +70,6 @@ No license has been specified. All rights reserved unless a license is added.
 
 ![Complete active hierarchical schematic — page 1](docs/images/schematic-001.png)
 
-**Page 2**
-
-![Complete active hierarchical schematic — page 2](docs/images/schematic-002.png)
-
-**Page 3**
-
-![Complete active hierarchical schematic — page 3](docs/images/schematic-003.png)
-
 ## PCB documentation
 
 ### PCB front
