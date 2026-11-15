@@ -21,7 +21,7 @@
 					)
 				)
 			)
-			(property "Value" "0603ZC104KAT2A"
+			(property "Value" "100 nF"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -212,7 +212,7 @@
 					)
 				)
 			)
-			(property "Value" "AF0603FR-07100KL"
+			(property "Value" "100 kΩ"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -366,7 +366,7 @@
 					)
 				)
 			)
-			(property "Value" "CC0402KRX7R6BB104"
+			(property "Value" "100 nF"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -557,7 +557,7 @@
 					)
 				)
 			)
-			(property "Value" "CC0402KRX7R8BB332"
+			(property "Value" "3.3 nF"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -748,7 +748,7 @@
 					)
 				)
 			)
-			(property "Value" "CL31B226MPHNNNE"
+			(property "Value" "22 µF"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1119,7 +1119,7 @@
 					)
 				)
 			)
-			(property "Value" "GRM21BR71A106MA73L"
+			(property "Value" "10 µF"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2257,7 +2257,7 @@
 				)
 			)
 		)
-		(property "Value" "CC0402KRX7R6BB104"
+		(property "Value" "100 nF"
 			(at 118.11 20.32 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2401,7 +2401,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM21BR71A106MA73L"
+		(property "Value" "10 µF"
 			(at 118.11 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2651,7 +2651,7 @@
 				)
 			)
 		)
-		(property "Value" "CC0402KRX7R8BB332"
+		(property "Value" "3.3 nF"
 			(at 118.11 55.88 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2773,7 +2773,7 @@
 				)
 			)
 		)
-		(property "Value" "0603ZC104KAT2A"
+		(property "Value" "100 nF"
 			(at 210.82 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2895,7 +2895,7 @@
 				)
 			)
 		)
-		(property "Value" "AF0603FR-07100KL"
+		(property "Value" "100 kΩ"
 			(at 181.61 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3139,7 +3139,7 @@
 				)
 			)
 		)
-		(property "Value" "CL31B226MPHNNNE"
+		(property "Value" "22 µF"
 			(at 210.82 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)

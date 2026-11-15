@@ -283,7 +283,7 @@
 					)
 				)
 			)
-			(property "Value" "C0603C103K5RACTU"
+			(property "Value" "10 nF"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -474,7 +474,7 @@
 					)
 				)
 			)
-			(property "Value" "C0805C104K5RACTU_C3018562"
+			(property "Value" "100 nF"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2573,7 +2573,7 @@
 					)
 				)
 			)
-			(property "Value" "DE1E3RA102MA4BN01F"
+			(property "Value" "1 nF"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -10837,7 +10837,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "47K"
+		(property "Value" "47 kΩ"
 			(at 265.43 213.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11594,7 +11594,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5,6K"
+		(property "Value" "5.6 kΩ"
 			(at 288.29 213.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12022,7 +12022,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5,6K"
+		(property "Value" "5.6 kΩ"
 			(at 384.81 213.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12980,7 +12980,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5,6K"
+		(property "Value" "5.6 kΩ"
 			(at 334.01 213.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13708,7 +13708,7 @@
 				)
 			)
 		)
-		(property "Value" "C0603C103K5RACTU"
+		(property "Value" "10 nF"
 			(at 209.296 153.416 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15627,7 +15627,7 @@
 				)
 			)
 		)
-		(property "Value" "C0603C103K5RACTU"
+		(property "Value" "10 nF"
 			(at 209.55 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16050,7 +16050,7 @@
 				)
 			)
 		)
-		(property "Value" "C0603C103K5RACTU"
+		(property "Value" "10 nF"
 			(at 209.296 121.666 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17007,7 +17007,7 @@
 				)
 			)
 		)
-		(property "Value" "C0603C103K5RACTU"
+		(property "Value" "10 nF"
 			(at 209.55 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17721,7 +17721,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C0805C104K5RACTU_C3018562"
+		(property "Value" "100 nF"
 			(at 121.92 146.0499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18931,7 +18931,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "47K"
+		(property "Value" "47 kΩ"
 			(at 308.61 213.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19443,7 +19443,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "47K"
+		(property "Value" "47 kΩ"
 			(at 358.14 213.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19935,7 +19935,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DE1E3RA102MA4BN01F"
+		(property "Value" "1 nF"
 			(at 40.894 127.254 0)
 			(show_name no)
 			(do_not_autoplace no)

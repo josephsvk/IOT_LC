@@ -1219,7 +1219,7 @@
 				)
 			)
 		)
-		(property "Value" "NRSZ101M50V10X12.5F"
+		(property "Value" "100 µF"
 			(at 1.25 6.25 90)
 			(layer "F.Fab")
 			(uuid "2a96f007-e9ba-46b5-8e0a-6ffa420ca32e")
@@ -9670,7 +9670,7 @@
 				)
 			)
 		)
-		(property "Value" "DE1E3RA102MA4BN01F"
+		(property "Value" "1 nF"
 			(at 0 4 90)
 			(layer "F.Fab")
 			(uuid "6fc91ffa-816c-4179-99d8-dfd23e25be96")
@@ -17685,7 +17685,7 @@
 				)
 			)
 		)
-		(property "Value" "TMOV20RP275E"
+		(property "Value" "275 V AC MOV"
 			(at 0 6.25 0)
 			(layer "F.Fab")
 			(uuid "24425c36-7a33-4852-905f-f0028d28ddfc")
@@ -18890,7 +18890,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "3d9f0e01-11c4-4904-8b13-79438f5d25e9")
@@ -19374,7 +19374,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "2034945c-0fcc-43f9-8294-60eab8e11fec")
@@ -19858,7 +19858,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CC1206KKX7R8BB105"
+		(property "Value" "1 µF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "2a1b2a74-3237-4cf6-9b2b-b9047389b9a8")
@@ -22436,7 +22436,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C0603C103K5RACTU"
+		(property "Value" "10 nF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "80b73ce7-febd-41cf-aa47-4efddd0896e3")
@@ -24270,7 +24270,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "47K"
+		(property "Value" "47 kΩ"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "d1e78dd7-9ea5-4a7d-83b3-df72abd1f7d1")
@@ -25191,7 +25191,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "47K"
+		(property "Value" "47 kΩ"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "0d03a289-996b-4407-bc3a-9f7ac871259b")
@@ -25398,7 +25398,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C0603C104K4RACTU"
+		(property "Value" "100 nF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "9c0409b2-10bf-49e6-893c-5d46b1a51224")
@@ -26638,7 +26638,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C2012X7R1A106K125AC"
+		(property "Value" "10 µF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "5647994b-51af-488a-8cc1-063cc065edc8")
@@ -29060,7 +29060,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C0805C104K5RACTU_C3018562"
+		(property "Value" "100 nF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "4afe539a-2812-45d7-baec-27560c1051ec")
@@ -29984,7 +29984,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C0603C103K5RACTU"
+		(property "Value" "10 nF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "e5f58dfa-dc38-48cf-9a35-f254f800b2c1")
@@ -30468,7 +30468,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CC1206KKX7R8BB105"
+		(property "Value" "1 µF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "11b3fe42-ef2e-474e-a826-4de569d1a791")
@@ -30952,7 +30952,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "7dbc7883-46c8-4bd6-899f-ab7469239333")
@@ -32630,7 +32630,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5,6K"
+		(property "Value" "5.6 kΩ"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "d864419d-e686-452d-8fc5-ce7f4da37780")
@@ -33291,7 +33291,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CC1206KKX7R8BB105"
+		(property "Value" "1 µF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "8ae15032-bbfa-42b0-9360-24dd97ce0861")
@@ -36078,7 +36078,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "47K"
+		(property "Value" "47 kΩ"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "5dfb28b4-8b89-49db-9a0f-83e50df85125")
@@ -38321,7 +38321,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C0603C104K4RACTU"
+		(property "Value" "100 nF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "401ba25f-b475-47a0-978c-e69effaeb9d6")
@@ -42364,7 +42364,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5,6K"
+		(property "Value" "5.6 kΩ"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "d1cf5f84-3d34-4bb7-a4bd-d0ea28f1ace7")
@@ -43451,7 +43451,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C1206C105K5RACTU"
+		(property "Value" "1 µF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "7e1869a4-9c70-4c17-b46f-dc5382f0c33a")
@@ -45087,7 +45087,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CC0603KRX7R9BB472"
+		(property "Value" "4.7 nF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "cf2f234a-5788-448c-b0fc-ea229db510cc")
@@ -45857,7 +45857,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "8d337965-5156-45a3-a38a-a8e01c4d2e64")
@@ -46599,7 +46599,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CC0805JKX7R9BB105"
+		(property "Value" "1 µF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "03b79188-eefe-450b-bb1e-abc4de5e0770")
@@ -47083,7 +47083,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C0603C103K5RACTU"
+		(property "Value" "10 nF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "409bb2d2-e21f-41b7-bdd3-dfe228ddb6a4")
@@ -48708,7 +48708,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "C0603C103K5RACTU"
+		(property "Value" "10 nF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "c3569c26-62d0-46f6-8d3f-401f2c73a2de")
@@ -49482,7 +49482,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "FCC0603B105K160CT"
+		(property "Value" "1 µF"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "a9a17d09-50dd-48f9-989f-1937bac922a7")
@@ -49968,7 +49968,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "5,6K"
+		(property "Value" "5.6 kΩ"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "21b888ce-1811-409f-98c1-b65aad77b616")

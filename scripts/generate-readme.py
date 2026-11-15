@@ -52,7 +52,7 @@ def render_3d(side, page):
     target = IMAGES / f'pcb-layers-{page:03d}.png'
     subprocess.run([
         'kicad-cli', 'pcb', 'render', '--quality', 'high',
-        '--preset', 'follow_plot_settings', '--width', '2200', '--height', '1500',
+        '--preset', 'follow_pcb_editor', '--width', '2200', '--height', '1500',
         '--side', side, '--background', 'opaque', '--floor',
         '--output', str(target), str(board),
     ], check=True)

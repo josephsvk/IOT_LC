@@ -236,7 +236,7 @@
 					)
 				)
 			)
-			(property "Value" "GRM31CR71H225KA88L"
+			(property "Value" "2.2 µF"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -427,7 +427,7 @@
 					)
 				)
 			)
-			(property "Value" "GRM32ER71E226ME15L"
+			(property "Value" "22 µF"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -618,7 +618,7 @@
 					)
 				)
 			)
-			(property "Value" "RC0603FR-07100KL"
+			(property "Value" "100 kΩ"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -772,7 +772,7 @@
 					)
 				)
 			)
-			(property "Value" "RC0603FR-0713K7L"
+			(property "Value" "13.7 kΩ"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -926,7 +926,7 @@
 					)
 				)
 			)
-			(property "Value" "C0805C104K5RACTU_C3018562"
+			(property "Value" "100 nF"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1830,7 +1830,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226ME15L"
+		(property "Value" "22 µF"
 			(at 232.41 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1952,7 +1952,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM31CR71H225KA88L"
+		(property "Value" "2.2 µF"
 			(at 118.11 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2197,7 +2197,7 @@
 				)
 			)
 		)
-		(property "Value" "C0805C104K5RACTU_C3018562"
+		(property "Value" "100 nF"
 			(at 118.11 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2319,7 +2319,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226ME15L"
+		(property "Value" "22 µF"
 			(at 232.41 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2441,7 +2441,7 @@
 				)
 			)
 		)
-		(property "Value" "C0805C104K5RACTU_C3018562"
+		(property "Value" "100 nF"
 			(at 185.42 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2563,7 +2563,7 @@
 				)
 			)
 		)
-		(property "Value" "RC0603FR-07100KL"
+		(property "Value" "100 kΩ"
 			(at 185.42 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2807,7 +2807,7 @@
 				)
 			)
 		)
-		(property "Value" "RC0603FR-0713K7L"
+		(property "Value" "13.7 kΩ"
 			(at 185.42 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
