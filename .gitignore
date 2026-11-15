@@ -26,6 +26,7 @@ production/
 # Operating system
 .DS_Store
 Thumbs.db
+.~lock.*#
 
 # Python
 __pycache__/

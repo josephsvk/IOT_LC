@@ -25882,7 +25882,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "d8dbb16b-14f3-4817-a929-c7c386ef12ca")
@@ -32326,7 +32326,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "48d46dd9-17c0-4e62-b3d7-af45eb12e38a")
@@ -36801,7 +36801,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "20613b2e-4c5b-4a3a-b665-eaee92c81d4d")
@@ -38623,7 +38623,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "f08c3321-59ed-4668-bf0c-e092da1c6bd5")

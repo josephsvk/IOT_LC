@@ -41,7 +41,7 @@ def render(pdf, page, prefix):
     return target.relative_to(ROOT).as_posix()
 
 
-def render_3d(side, page):
+def render_3d(side, filename):
     config = (ROOT / '.kicad-automation.conf').read_text(encoding='utf-8')
     match = re.search(r'^PROJECT_NAME=(.+)$', config, re.M)
     if not match:
@@ -49,7 +49,7 @@ def render_3d(side, page):
     board = ROOT / f'{match.group(1).strip()}.kicad_pcb'
     if not board.is_file():
         raise FileNotFoundError(f'PCB board not found: {board}')
-    target = IMAGES / f'pcb-layers-{page:03d}.png'
+    target = IMAGES / filename
     subprocess.run([
         'kicad-cli', 'pcb', 'render', '--quality', 'high',
         '--preset', 'follow_pcb_editor', '--width', '2200', '--height', '1500',
@@ -67,8 +67,8 @@ def section(lines, filename, title, page_overrides=None):
     for page in range(1, count + 1):
         override = (page_overrides or {}).get(page)
         if override:
-            label, side = override
-            img = render_3d(side, page)
+            label, side, filename = override
+            img = render_3d(side, filename)
             caption = label
         else:
             img = render(pdf, page, prefix)
@@ -86,9 +86,9 @@ def main():
     lines.extend(['## PCB documentation', ''])
     section(lines, 'pcb-front.pdf', 'PCB front')
     section(lines, 'pcb-back.pdf', 'PCB back')
-    section(lines, 'pcb-layers.pdf', 'Individual PCB layers', {
-        3: ('3D view from above', 'top'),
-        4: ('3D view from below', 'bottom'),
+    section(lines, 'pcb-layers.pdf', 'PCB layers and 3D views', {
+        3: ('3D view from above', 'top', 'pcb-3d-top.png'),
+        4: ('3D view from below', 'bottom', 'pcb-3d-bottom.png'),
     })
     generated = f'{START}\n' + '\n'.join(lines).rstrip() + f'\n{END}'
     if README.exists():

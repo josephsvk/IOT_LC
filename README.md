@@ -98,23 +98,23 @@ No license has been specified. All rights reserved unless a license is added.
 
 [View vector PDF](docs/pdf/pcb-back.pdf)
 
-### Individual PCB layers
+### PCB layers and 3D views
 
 **Page 1**
 
-![Individual PCB layers — page 1](docs/images/pcb-layers-001.png)
+![PCB layers and 3D views — page 1](docs/images/pcb-layers-001.png)
 
 **Page 2**
 
-![Individual PCB layers — page 2](docs/images/pcb-layers-002.png)
+![PCB layers and 3D views — page 2](docs/images/pcb-layers-002.png)
 
 **3D view from above**
 
-![Individual PCB layers — 3d view from above](docs/images/pcb-layers-003.png)
+![PCB layers and 3D views — 3d view from above](docs/images/pcb-3d-top.png)
 
 **3D view from below**
 
-![Individual PCB layers — 3d view from below](docs/images/pcb-layers-004.png)
+![PCB layers and 3D views — 3d view from below](docs/images/pcb-3d-bottom.png)
 
 [View vector PDF](docs/pdf/pcb-layers.pdf)
 <!-- AUTO-DOCS-END -->

@@ -17,10 +17,11 @@ for cmd in git sha256sum python3 pdfinfo; do
     command -v "$cmd" >/dev/null || { echo "Missing: $cmd" >&2; exit 1; }
 done
 # Use only existing files; tracked deletions should not break hashing.
-# Each path and content is included in the digest. Outputs/docs are excluded.
+# Each design input and export script is included. KiCad's derived .kicad_pro
+# metadata (such as used_designators) is excluded because CLI exports rewrite it.
 calculate_source_hash() {
   git ls-files --cached --others --exclude-standard -z -- \
-    '*.kicad_sch' '*.kicad_pcb' '*.kicad_pro' '*.kicad_dru' \
+    '*.kicad_sch' '*.kicad_pcb' '*.kicad_dru' \
     '*.kicad_sym' '*.kicad_mod' '*.kicad_wks' \
     '.kicad-automation.conf' 'scripts/export-pdf.sh' \
     'scripts/generate-readme.py' 'scripts/check-docs.py' \

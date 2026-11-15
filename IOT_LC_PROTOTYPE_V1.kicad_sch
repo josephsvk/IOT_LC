@@ -4100,7 +4100,7 @@
 		(uuid "0a39a94a-e5aa-4ae7-b676-3c765aa16888")
 	)
 	(rectangle
-		(start 175.26 35.306)
+		(start 175.26 33.02)
 		(end 232.156 65.786)
 		(stroke
 			(width 0)

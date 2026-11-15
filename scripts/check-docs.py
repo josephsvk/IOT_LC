@@ -9,6 +9,10 @@ PDF = ROOT / 'docs/pdf'
 IMG = ROOT / 'docs/images'
 README = ROOT / 'README.md'
 NAMES = ('schematic', 'pcb-front', 'pcb-back', 'pcb-layers')
+PREVIEW_OVERRIDES = {
+    ('pcb-layers', 3): 'pcb-3d-top.png',
+    ('pcb-layers', 4): 'pcb-3d-bottom.png',
+}
 errors = []
 for name in NAMES:
     path = PDF / f'{name}.pdf'
@@ -22,7 +26,8 @@ for name in NAMES:
         continue
     count = int(match.group(1))
     for n in range(1, count + 1):
-        image = IMG / f'{name}-{n:03d}.png'
+        image_name = PREVIEW_OVERRIDES.get((name, n), f'{name}-{n:03d}.png')
+        image = IMG / image_name
         if not image.is_file() or image.stat().st_size == 0:
             errors.append(f'Missing preview: {image}')
     print(f'{name}.pdf: {count} page(s)')
