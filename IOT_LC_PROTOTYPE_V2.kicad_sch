@@ -22137,7 +22137,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PhotoMOS polovodičové relé, 1× spínací kontakt (1 Form A), záťaž do 30 V"
 			(at 186.944 233.426 0)
 			(hide yes)
 			(show_name no)
@@ -22476,7 +22476,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Jednokanálový neinvertujúci buffer AHCT s trojstavovým výstupom a TTL kompatibilným vstupom"
 			(at 483.87 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -23074,7 +23074,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Trojpólová dosková svorka Phoenix Contact PTSA, rozstup 3,5 mm, zasúvacie pripojenie"
 			(at 309.88 339.09 0)
 			(hide yes)
 			(show_name no)
@@ -23344,7 +23344,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PhotoMOS polovodičové relé, 1× spínací kontakt (1 Form A), záťaž do 30 V"
 			(at 186.944 153.416 0)
 			(hide yes)
 			(show_name no)
@@ -24485,7 +24485,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Doskový držiak tavnej poistky 5×20 mm"
 			(at 327.66 327.66 0)
 			(hide yes)
 			(show_name no)
@@ -24741,7 +24741,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 22 Ω, tolerancia ±1 %"
 			(at 550.164 102.108 0)
 			(hide yes)
 			(show_name no)
@@ -25564,7 +25564,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 22 Ω, tolerancia ±1 %"
 			(at 542.29 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -27798,7 +27798,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Izolovaný AC/DC menič 15 W s výstupom 24 V"
 			(at 361.95 361.95 0)
 			(hide yes)
 			(show_name no)
@@ -28314,7 +28314,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Keramický MLCC kondenzátor 22 µF, X7R"
 			(at 548.64 316.23 0)
 			(hide yes)
 			(show_name no)
@@ -28427,7 +28427,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dvojkanálová ochrana USB dátových liniek pred ESD a prechodovými prepätiami"
 			(at 492.76 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -28953,7 +28953,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Jednosmerná TVS dióda 26 V, výkonová trieda SMCJ"
 			(at 377.19 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -29209,7 +29209,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Keramický MLCC kondenzátor 22 µF, X7R"
 			(at 548.64 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -30552,7 +30552,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Štvorpólová dosková svorka Phoenix Contact PTSA, rozstup 2,5 mm, zasúvacie pripojenie"
 			(at 318.77 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -31242,7 +31242,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Obojsmerná TVS dióda 26 V v puzdre SMB"
 			(at 207.264 153.416 0)
 			(hide yes)
 			(show_name no)
@@ -31581,7 +31581,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Poloduplexný RS-485 transceiver do 12 Mbps s automatickým riadením smeru"
 			(at 471.678 170.942 0)
 			(hide yes)
 			(show_name no)
@@ -32226,7 +32226,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Osempólová dosková svorka Phoenix Contact PTSA, rozstup 2,5 mm, zasúvacie pripojenie"
 			(at 225.044 209.296 0)
 			(hide yes)
 			(show_name no)
@@ -33579,7 +33579,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Obojsmerná TVS dióda 26 V v puzdre SMB"
 			(at 207.264 192.786 0)
 			(hide yes)
 			(show_name no)
@@ -34034,7 +34034,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Jednosmerná TVS dióda 5 V v puzdre SMF"
 			(at 467.36 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -34556,7 +34556,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Keramický MLCC kondenzátor 22 µF, X7R"
 			(at 548.64 326.39 0)
 			(hide yes)
 			(show_name no)
@@ -34669,7 +34669,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "USB-C zásuvka GCT pre USB 2.0, pravouhlé SMT vyhotovenie"
 			(at 482.854 58.928 0)
 			(hide yes)
 			(show_name no)
@@ -34981,7 +34981,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Pravouhlé bočné tlačidlo TE Connectivity, momentový kontakt SPST-NO"
 			(at 207.01 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -35755,7 +35755,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dvojradová 2×10 zásuvková lišta Samtec, priechodné montážne vyhotovenie"
 			(at 320.04 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -36959,7 +36959,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Obojsmerná TVS dióda 26 V v puzdre SMB"
 			(at 207.264 272.796 0)
 			(hide yes)
 			(show_name no)
@@ -37149,7 +37149,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dvojradová 2×10 zásuvková lišta Samtec, priechodné montážne vyhotovenie"
 			(at 320.04 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -39258,7 +39258,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Trojpólová dosková svorka Phoenix Contact PTSA, rozstup 2,5 mm, zasúvacie pripojenie"
 			(at 530.86 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -39517,7 +39517,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PhotoMOS polovodičové relé, 1× spínací kontakt (1 Form A), záťaž do 30 V"
 			(at 186.944 192.786 0)
 			(hide yes)
 			(show_name no)
@@ -39856,7 +39856,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PhotoMOS polovodičové relé, 1× spínací kontakt (1 Form A), záťaž do 30 V"
 			(at 186.944 272.796 0)
 			(hide yes)
 			(show_name no)
@@ -40661,7 +40661,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 5,1 kΩ, tolerancia ±1 %"
 			(at 440.944 53.848 0)
 			(hide yes)
 			(show_name no)
@@ -40774,7 +40774,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 12 kΩ, tolerancia ±1 %"
 			(at 431.8 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -41403,7 +41403,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Osempólová dosková svorka Phoenix Contact PTSA, rozstup 2,5 mm, zasúvacie pripojenie"
 			(at 101.6 198.882 0)
 			(hide yes)
 			(show_name no)
@@ -42359,7 +42359,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 5,1 kΩ, tolerancia ±1 %"
 			(at 524.764 61.468 0)
 			(hide yes)
 			(show_name no)
@@ -42728,7 +42728,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Keramický MLCC kondenzátor 22 µF, X7R"
 			(at 548.64 293.37 0)
 			(hide yes)
 			(show_name no)
@@ -43313,7 +43313,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Pravouhlé bočné tlačidlo TE Connectivity, momentový kontakt SPST-NO"
 			(at 179.07 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -44094,7 +44094,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Obojsmerná TVS dióda 26 V v puzdre SMB"
 			(at 207.264 233.426 0)
 			(hide yes)
 			(show_name no)
@@ -44611,7 +44611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdd69160-2b97-4fb1-9c40-482f4e420e13")
-		(property "Reference" "U108"
+		(property "Reference" "R143"
 			(at 440.69 101.5999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44655,7 +44655,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Presný SMD rezistor 15 kΩ, tolerancia ±0,1 %"
 			(at 438.15 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -44708,7 +44708,7 @@
 		(instances
 			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "U108")
+					(reference "R143")
 					(unit 1)
 				)
 			)
@@ -44768,7 +44768,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ESP32-S3 modul s 16 MB Flash a 8 MB PSRAM, verzia 1U pre externú anténu"
 			(at 344.678 67.818 0)
 			(hide yes)
 			(show_name no)

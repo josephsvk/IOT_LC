@@ -4674,7 +4674,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Keramický MLCC kondenzátor 22 µF, X7R"
 			(at 259.08 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -5024,7 +5024,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Izolovaný AC/DC menič 15 W s výstupom 24 V"
 			(at 87.63 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6310,7 +6310,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Trojpólová dosková svorka Phoenix Contact PTSA, rozstup 3,5 mm, zasúvacie pripojenie"
 			(at 35.56 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -7452,7 +7452,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Keramický MLCC kondenzátor 22 µF, X7R"
 			(at 259.08 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7567,7 +7567,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Jednosmerná TVS dióda 26 V, výkonová trieda SMCJ"
 			(at 102.87 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -7823,7 +7823,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Keramický MLCC kondenzátor 22 µF, X7R"
 			(at 259.08 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -7936,7 +7936,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Keramický MLCC kondenzátor 22 µF, X7R"
 			(at 238.76 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8539,7 +8539,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Doskový držiak tavnej poistky 5×20 mm"
 			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -9509,7 +9509,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Keramický MLCC kondenzátor 22 µF, X7R"
 			(at 259.08 87.63 0)
 			(hide yes)
 			(show_name no)

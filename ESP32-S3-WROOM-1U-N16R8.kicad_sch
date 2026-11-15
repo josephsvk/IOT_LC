@@ -8005,7 +8005,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "USB-C zásuvka GCT pre USB 2.0, pravouhlé SMT vyhotovenie"
 			(at 83.82 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -8163,7 +8163,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 5,1 kΩ, tolerancia ±1 %"
 			(at 41.91 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8532,7 +8532,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dvojkanálová ochrana USB dátových liniek pred ESD a prechodovými prepätiami"
 			(at 88.9 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -9673,7 +9673,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 22 Ω, tolerancia ±1 %"
 			(at 151.13 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -10156,7 +10156,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ESP32-S3 modul s 16 MB Flash a 8 MB PSRAM, verzia 1U pre externú anténu"
 			(at 118.11 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10975,7 +10975,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 12 kΩ, tolerancia ±1 %"
 			(at 36.83 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -11088,7 +11088,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 5,1 kΩ, tolerancia ±1 %"
 			(at 125.73 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -11457,7 +11457,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Pravouhlé bočné tlačidlo TE Connectivity, momentový kontakt SPST-NO"
 			(at 256.54 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12616,7 +12616,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Pravouhlé bočné tlačidlo TE Connectivity, momentový kontakt SPST-NO"
 			(at 237.49 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -12878,7 +12878,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD rezistor 22 Ω, tolerancia ±1 %"
 			(at 148.59 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13068,7 +13068,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Poloduplexný RS-485 transceiver do 12 Mbps s automatickým riadením smeru"
 			(at 222.25 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -13280,7 +13280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8527a5d-c066-4c84-b8a5-211c974a1ca4")
-		(property "Reference" "U403"
+		(property "Reference" "R403"
 			(at 45.72 181.6099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13324,7 +13324,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Presný SMD rezistor 15 kΩ, tolerancia ±0,1 %"
 			(at 43.18 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -13377,7 +13377,7 @@
 		(instances
 			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421/bc496626-fca4-4ed5-94a3-a9c9981429b3"
-					(reference "U403")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -13437,7 +13437,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Jednosmerná TVS dióda 5 V v puzdre SMF"
 			(at 41.91 162.56 0)
 			(hide yes)
 			(show_name no)

@@ -21908,7 +21908,7 @@
 		(layer "B.Cu")
 		(uuid "171ed870-70dd-439c-a409-7a33b95b9dbe")
 		(at 132.275 59.475 -90)
-		(property "Reference" "U403"
+		(property "Reference" "R403"
 			(at 3.5 -0.2 90)
 			(layer "B.SilkS")
 			(uuid "b2ee6b02-423a-41f5-9e96-41bbfe7c63f8")
