@@ -125,6 +125,14 @@
         [
           "starved_thermal|119500000|127607500|0bf26ccb-3fb1-4ec4-8bc2-98446797d902|7c5f3609-1cc7-4e0c-b24f-50b13b903681|B.Cu",
           "It doesn't make sense"
+        ],
+        [
+          "starved_thermal|123320000|54660000|0bf26ccb-3fb1-4ec4-8bc2-98446797d902|c118dd9c-4065-4555-a940-658cc1c2d93b|B.Cu",
+          "neopodstatnene "
+        ],
+        [
+          "starved_thermal|123320000|54660000|0bf26ccb-3fb1-4ec4-8bc2-98446797d902|c118dd9c-4065-4555-a940-658cc1c2d93b|F.Cu",
+          "neopodstatnene "
         ]
       ],
       "meta": {
