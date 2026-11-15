@@ -23,6 +23,10 @@ _autosave-*
 production/
 *.kicad_pcb.zip
 
+# Generated documentation exports kept locally
+docs/models/
+docs/pdf/*.pdf
+
 # Operating system
 .DS_Store
 Thumbs.db

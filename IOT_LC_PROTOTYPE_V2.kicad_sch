@@ -8937,7 +8937,7 @@
 			(uuid "1c9f36e5-5913-49a8-a74f-72592edf0920")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "U104")
 					(unit 1)
@@ -9202,7 +9202,7 @@
 			(uuid "769fed63-6007-4134-b195-5752e096b6ae")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "U103")
 					(unit 1)
@@ -9458,7 +9458,7 @@
 			(uuid "402ee7da-4f6e-477e-b326-7a25f35ed27d")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R118")
 					(unit 1)
@@ -9535,7 +9535,7 @@
 			(uuid "495f09f7-38a0-4105-9c93-d087a9c390dc")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP111")
 					(unit 1)
@@ -9797,7 +9797,7 @@
 			(uuid "fd68187f-c163-4e16-be50-0de880eb1799")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "U101")
 					(unit 1)
@@ -10062,7 +10062,7 @@
 			(uuid "a1e37c1d-b1be-4406-b3b5-cfb1ac6b474c")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R112")
 					(unit 1)
@@ -10140,7 +10140,7 @@
 			(uuid "a7416019-8397-4307-8430-102ae8766857")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP102")
 					(unit 1)
@@ -10217,7 +10217,7 @@
 			(uuid "c87275d8-4f6b-453f-8301-d21897a7c73e")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP120")
 					(unit 1)
@@ -10294,7 +10294,7 @@
 			(uuid "fc9c3887-5138-418f-b4d5-a09984578a39")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP109")
 					(unit 1)
@@ -10550,7 +10550,7 @@
 			(uuid "331c785c-e051-47c2-85fb-731b06741370")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R109")
 					(unit 1)
@@ -10806,7 +10806,7 @@
 			(uuid "e8ed3159-6a8f-4d03-b508-c4d1e7e467d5")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R103")
 					(unit 1)
@@ -10888,7 +10888,7 @@
 			(uuid "6e0bcccf-f090-4180-a931-d9f91426d624")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R119")
 					(unit 1)
@@ -10965,7 +10965,7 @@
 			(uuid "bf22585e-98af-46f5-89bb-82ed2fb077a4")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP116")
 					(unit 1)
@@ -11042,7 +11042,7 @@
 			(uuid "92933f61-ce42-45b5-963f-8a1a61484569")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP110")
 					(unit 1)
@@ -11307,7 +11307,7 @@
 			(uuid "c822104c-98c3-4c0b-9d78-4b0c2457706e")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R113")
 					(unit 1)
@@ -11563,7 +11563,7 @@
 			(uuid "1f48a453-f538-4e91-818f-81b1890ed85a")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R102")
 					(unit 1)
@@ -11645,7 +11645,7 @@
 			(uuid "9e0757d5-d643-47e0-b913-438f410525fe")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R120")
 					(unit 1)
@@ -11735,7 +11735,7 @@
 			(uuid "ad5d161e-1725-4f34-9746-837708046aba")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D107")
 					(unit 1)
@@ -11991,7 +11991,7 @@
 			(uuid "279b5577-e5e9-4a2f-8860-7e828e936935")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R104")
 					(unit 1)
@@ -12073,7 +12073,7 @@
 			(uuid "ede7687d-5075-4c4e-990c-d08a9c3ecf71")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R125")
 					(unit 1)
@@ -12329,7 +12329,7 @@
 			(uuid "6ecb119b-c73b-4c7a-a70a-e17df2a980b6")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R101")
 					(unit 1)
@@ -12419,7 +12419,7 @@
 			(uuid "cc1868a3-4325-40c1-9dad-ec715fee43f4")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D110")
 					(unit 1)
@@ -12684,7 +12684,7 @@
 			(uuid "ee8aff17-b0a0-4aa0-a80f-dfd28b0d7486")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R117")
 					(unit 1)
@@ -12949,7 +12949,7 @@
 			(uuid "bf6184df-d2a4-45bd-bc33-7a73b2d8573d")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R115")
 					(unit 1)
@@ -13031,7 +13031,7 @@
 			(uuid "946be695-b27b-4fd2-9a1b-6b5824cc9740")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R123")
 					(unit 1)
@@ -13108,7 +13108,7 @@
 			(uuid "8d4ca34e-1ca1-474e-b342-23e43465606f")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP118")
 					(unit 1)
@@ -13185,7 +13185,7 @@
 			(uuid "855b41e9-7b17-41ce-ab8f-011ec9c99276")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP121")
 					(unit 1)
@@ -13306,7 +13306,7 @@
 			(uuid "7e083eef-d1a5-477e-95f0-bbec3594f694")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "CN105")
 					(unit 1)
@@ -13396,7 +13396,7 @@
 			(uuid "7e45c2a9-ef80-4b63-ade3-cc3794ec00c5")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D105")
 					(unit 1)
@@ -13486,7 +13486,7 @@
 			(uuid "535d7edf-fc70-4edb-a8b5-98c97e08858d")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D109")
 					(unit 1)
@@ -13563,7 +13563,7 @@
 			(uuid "9c77cc9b-5023-4baa-bb57-a0f5d3dec0e9")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP108")
 					(unit 1)
@@ -13678,7 +13678,7 @@
 			(uuid "e36333f3-8979-4a28-a05d-bf52fc9df46a")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D101")
 					(unit 1)
@@ -13934,7 +13934,7 @@
 			(uuid "0a8a201f-12ac-4314-ab35-f72413a39e99")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "C105")
 					(unit 1)
@@ -14210,7 +14210,7 @@
 			(uuid "fa82c2fa-76b3-4343-8fe3-e41478fa680d")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "CN102")
 					(unit 1)
@@ -14475,7 +14475,7 @@
 			(uuid "c784677e-fde1-4288-85c9-f1697796604c")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R111")
 					(unit 1)
@@ -14731,7 +14731,7 @@
 			(uuid "dd7bafb9-7358-4748-b189-b02b68aabeef")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R108")
 					(unit 1)
@@ -14846,7 +14846,7 @@
 			(uuid "2b17e926-c1ea-42d8-a5a8-65c02bbe493c")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D102")
 					(unit 1)
@@ -14923,7 +14923,7 @@
 			(uuid "91684054-be27-4274-bdf0-1e13a5d2d435")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP113")
 					(unit 1)
@@ -15188,7 +15188,7 @@
 			(uuid "7af1cdd2-6acb-479c-9c2b-e73543c884fb")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R116")
 					(unit 1)
@@ -15264,7 +15264,7 @@
 			(uuid "107c8e8a-663a-4b93-a177-fec35d89a93a")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP101")
 					(unit 1)
@@ -15341,7 +15341,7 @@
 			(uuid "8e42a449-2cbd-43b8-b962-b7231616e145")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP114")
 					(unit 1)
@@ -15597,7 +15597,7 @@
 			(uuid "08eadd63-d636-4781-b39a-33283b92f279")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R107")
 					(unit 1)
@@ -15853,7 +15853,7 @@
 			(uuid "9c57e05b-922c-487f-a68b-300ea0c464e7")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "C102")
 					(unit 1)
@@ -16020,7 +16020,7 @@
 			(uuid "8a61bd5a-b67b-4e45-96c9-ed8c0e8f0e84")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "U107")
 					(unit 1)
@@ -16276,7 +16276,7 @@
 			(uuid "cc96e428-c157-403c-8909-1bc0cd2a193e")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "C104")
 					(unit 1)
@@ -16541,7 +16541,7 @@
 			(uuid "6b2aade7-1645-488d-a235-19eeddf513e3")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R110")
 					(unit 1)
@@ -16618,7 +16618,7 @@
 			(uuid "5af501c4-08b3-455b-bbd4-0f5b15584b98")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP119")
 					(unit 1)
@@ -16733,7 +16733,7 @@
 			(uuid "de68a1f4-ef16-421d-bc34-ac94ed8432d7")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D104")
 					(unit 1)
@@ -16810,7 +16810,7 @@
 			(uuid "4c410c35-46e6-4661-9307-cf209f141833")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP115")
 					(unit 1)
@@ -16977,7 +16977,7 @@
 			(uuid "583fd0f1-631f-42bc-a051-1acc4d27372d")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "U106")
 					(unit 1)
@@ -17233,7 +17233,7 @@
 			(uuid "81a6a8e4-9572-42e5-8305-3309336f4f66")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "C103")
 					(unit 1)
@@ -17347,7 +17347,7 @@
 			(uuid "ccae2f21-be3c-4cd8-9e4e-596af06abfe1")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R122")
 					(unit 1)
@@ -17612,7 +17612,7 @@
 			(uuid "075b9124-043e-4277-a7e1-9e1169434052")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R114")
 					(unit 1)
@@ -17690,7 +17690,7 @@
 			(uuid "171a09ea-1905-41ef-842b-dbb3d1d42da6")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP104")
 					(unit 1)
@@ -17948,7 +17948,7 @@
 			(uuid "f163b1a3-d9f0-4e1c-989a-b8fcf6fa6804")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "C101")
 					(unit 1)
@@ -18209,7 +18209,7 @@
 			(uuid "e2e18ded-7764-4a70-aebe-abbbca7a349c")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "CN104")
 					(unit 1)
@@ -18471,7 +18471,7 @@
 			(uuid "face4424-02e7-4ac6-b090-b959a631ed1a")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "U102")
 					(unit 1)
@@ -18548,7 +18548,7 @@
 			(uuid "4e352f62-3ff0-411e-a763-3da98adea89f")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP106")
 					(unit 1)
@@ -18810,7 +18810,7 @@
 			(uuid "51c9e7fa-c48d-41dc-920b-79a9b6fbf59f")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "U105")
 					(unit 1)
@@ -18900,7 +18900,7 @@
 			(uuid "7ec17070-9169-444d-bec1-1718a3859333")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D108")
 					(unit 1)
@@ -18982,7 +18982,7 @@
 			(uuid "d449aa0d-c9c7-4746-88c3-624918b752d8")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R121")
 					(unit 1)
@@ -19258,7 +19258,7 @@
 			(uuid "0fc97095-6d95-4c26-9cd9-d4b95a43a112")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "CN101")
 					(unit 1)
@@ -19335,7 +19335,7 @@
 			(uuid "259360bb-1a60-493b-9457-d504db531e42")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP107")
 					(unit 1)
@@ -19412,7 +19412,7 @@
 			(uuid "355cae9b-5cba-464d-a425-cc0bcc8389be")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP117")
 					(unit 1)
@@ -19494,7 +19494,7 @@
 			(uuid "c7e7130a-c5bb-4203-a040-f0be17b3f647")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R124")
 					(unit 1)
@@ -19750,7 +19750,7 @@
 			(uuid "f224cdbc-d873-4f0c-b723-aa1a7f0cb046")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R105")
 					(unit 1)
@@ -19827,7 +19827,7 @@
 			(uuid "20b3cad4-d771-407c-af9d-d67f5d016e11")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP105")
 					(unit 1)
@@ -19904,7 +19904,7 @@
 			(uuid "8a93ddf4-19e9-4217-bb0b-03e201a14f67")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP103")
 					(unit 1)
@@ -20019,7 +20019,7 @@
 			(uuid "dec003a5-82c1-4d47-b011-ef01f9d84c45")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "C107")
 					(unit 1)
@@ -20109,7 +20109,7 @@
 			(uuid "f904a083-e132-491b-9a58-ce83881a6637")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D106")
 					(unit 1)
@@ -20224,7 +20224,7 @@
 			(uuid "89d4271f-c9eb-4fd2-951e-ce21aae7a3a7")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "D103")
 					(unit 1)
@@ -20301,7 +20301,7 @@
 			(uuid "3ec60787-8b04-4ada-a590-00812e4c8129")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP112")
 					(unit 1)
@@ -20557,7 +20557,7 @@
 			(uuid "33369531-e82e-47f5-aefb-a6e4e06a5ccd")
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "R106")
 					(unit 1)
@@ -20750,7 +20750,7 @@
 			)
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(page "3")
 				)
@@ -21097,7 +21097,7 @@
 			)
 		)
 		(instances
-			(project "IOT_LC_PROTOTYPE_V1"
+			(project "IOT_LC_PROTOTYPE_V2"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(page "4")
 				)

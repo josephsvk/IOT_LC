@@ -74,7 +74,6 @@ def section(lines, filename, title, page_overrides=None):
             img = render(pdf, page, prefix)
             caption = f'Page {page}'
         lines.extend([f'**{caption}**', '', f'![{title} — {caption.lower()}]({img})', ''])
-    lines.extend([f'[View vector PDF]({pdf.relative_to(ROOT).as_posix()})', ''])
 
 
 def main():
@@ -90,12 +89,6 @@ def main():
         3: ('3D view from above', 'top', 'pcb-3d-top.png'),
         4: ('3D view from below', 'bottom', 'pcb-3d-bottom.png'),
     })
-    lines.extend([
-        '## 3D model downloads', '',
-        '[GLB model](docs/models/iot-lc-prototype-v2.glb) — interactive preview and web use.', '',
-        '[STEP assembly](docs/models/iot-lc-prototype-v2.step) — mechanical CAD integration.', '',
-        '[Interactive 3D PDF](docs/models/iot-lc-prototype-v2-3d.pdf) — shareable model review.', '',
-    ])
     generated = f'{START}\n' + '\n'.join(lines).rstrip() + f'\n{END}'
     if README.exists():
         data = README.read_text(encoding='utf-8')

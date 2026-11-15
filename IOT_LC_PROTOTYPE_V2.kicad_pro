@@ -585,7 +585,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "IOT_LC_PROTOTYPE_V1.kicad_pro",
+    "filename": "IOT_LC_PROTOTYPE_V2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1144,8 +1144,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "IOT_LC_PROTOTYPE_V1.kicad_sch",
-        "name": "IOT_LC_PROTOTYPE_V1",
+        "filename": "IOT_LC_PROTOTYPE_V2.kicad_sch",
+        "name": "IOT_LC_PROTOTYPE_V2",
         "uuid": "59331ef0-31b4-4adf-874b-2f71b754f421"
       }
     ],
@@ -1159,7 +1159,7 @@
   "sheets": [
     [
       "59331ef0-31b4-4adf-874b-2f71b754f421",
-      "IOT_LC_PROTOTYPE_V1"
+      "IOT_LC_PROTOTYPE_V2"
     ],
     [
       "bbf86727-13ca-4d7a-958e-e95e47424e84",

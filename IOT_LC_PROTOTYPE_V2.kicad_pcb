@@ -191,7 +191,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/99aa16e1-15c6-4280-be3e-261e60300792")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -561,7 +561,7 @@
 		)
 		(path "/0011cdb9-8ca7-4456-ba36-c8a008379b83")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -838,7 +838,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/5f139b19-0931-457c-ba38-1fcf0b201eef")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3900,7 +3900,7 @@
 		)
 		(path "/b001a410-25a6-4a8b-8d99-bcba5d6fc357")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4125,7 +4125,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/b16bf17f-9c6f-4631-b5eb-293c634f5f7a")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4303,7 +4303,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3f399c26-45f2-4fd0-a46c-6eb2986c75be")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4555,7 +4555,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c5858ca8-6f35-4084-8639-71e23d5925ba")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4725,7 +4725,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5846179d-1b52-49ba-b65b-10b1d6992f5d")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4895,7 +4895,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/85a217b8-b23f-48aa-9f55-c030504f42f9")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5541,7 +5541,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/12f8a9c5-7a8b-4f75-a082-a16b6aa37536")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6019,7 +6019,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/092f253b-b325-41a3-a15d-d3a2517f5d01")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6189,7 +6189,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/fa31166d-f907-443d-873c-c12222204d08")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6359,7 +6359,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/f120cedc-256c-4c44-8a49-099834fb7a39")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6529,7 +6529,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/2abed035-6ccc-425f-8b5d-91eb3a8c66bf")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6729,7 +6729,7 @@
 		)
 		(path "/5db15184-32d7-4f14-a23f-f28530ca145c")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7005,7 +7005,7 @@
 		)
 		(path "/9b7c31d8-c971-45df-a478-6577c0d9fd41")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7846,7 +7846,7 @@
 		)
 		(path "/8a6337cd-eba3-402f-a361-a2ed4b609739")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8188,7 +8188,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/145bd534-152d-4e39-8742-c0f9fe94ba6b")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8366,7 +8366,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f424f518-db6d-4bbf-8f57-28548e32f29b")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8618,7 +8618,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/61ee0eca-2426-4902-bdc6-4b9c52556a28")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8995,7 +8995,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/544b1d80-7ca0-4842-86ea-85a5febf9447")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9743,7 +9743,7 @@
 		)
 		(path "/f3a573e1-ea5f-4aa2-8a22-a49c2513a553")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10189,7 +10189,7 @@
 		)
 		(path "/b04f0fe6-6385-42a3-9b7b-a0f5846ed0b0")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10745,7 +10745,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b51e007b-ca72-430a-b508-6cdcff7b7fb9")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10997,7 +10997,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/a6114a35-df2c-47c0-a234-b906468fd04d")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11337,7 +11337,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/82b49dd2-a8bd-475c-9d61-a030e0caa5ea")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11930,7 +11930,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/11ffb396-c6fd-44a5-8e40-619375692962")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12130,7 +12130,7 @@
 		)
 		(path "/a4a8dbe3-5132-4e06-9460-69333c65ca2b")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12720,7 +12720,7 @@
 		)
 		(path "/0ea80c8a-c053-4b63-9e62-f3dd3a174467")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12989,7 +12989,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/2997d5c4-4dcd-4ec5-8cb5-60fe4a3afc04")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13167,7 +13167,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/5ea28798-4831-467b-afbc-0b10390b0670")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13419,7 +13419,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/cc2f0754-763e-4aaf-8e61-eb3863b60620")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13788,7 +13788,7 @@
 		)
 		(path "/719b48ad-2ff1-4525-93df-6eebc4b65959")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15837,7 +15837,7 @@
 		)
 		(path "/b2542b4a-3cbf-453a-9c72-fab5babf3be7")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16751,7 +16751,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/9b02839d-92d6-4dd6-95d8-06c1ff3dcc81")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16929,7 +16929,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/31499501-0ca5-4c7b-880f-e66d04f061c2")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17181,7 +17181,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e31246cb-a64d-4a7a-8119-d7fc9641b5fc")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17558,7 +17558,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7f289bcd-ad79-45dd-9f1d-8e822a52b729")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18352,7 +18352,7 @@
 		)
 		(path "/c554b40f-93db-47cb-afcc-04d6bf2338fd")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18679,7 +18679,7 @@
 		)
 		(path "/99eb0e1b-f083-48d4-80bb-e0a0088568cc")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20603,7 +20603,7 @@
 		)
 		(path "/3ae1ed38-b493-443b-8f74-a87ced9a58ca")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21741,7 +21741,7 @@
 		)
 		(path "/04029a77-5de6-4b13-8f49-1f11dbd99a50")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22697,7 +22697,7 @@
 		)
 		(path "/8b7565ba-928b-4b44-9d83-c6ebc3992001")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23181,7 +23181,7 @@
 		)
 		(path "/33e9d615-80a8-445d-aa6f-0cc327926110")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23635,7 +23635,7 @@
 		)
 		(path "/4993dd36-e04e-4c4e-a8c3-c2051591d355")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24089,7 +24089,7 @@
 		)
 		(path "/48ab4a99-0d86-40dc-ab0f-af05656ec4ce")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24309,7 +24309,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/258b418a-3f21-4faf-9360-acad8bfd0d92")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24752,7 +24752,7 @@
 		)
 		(path "/2c4f8273-14b9-4f09-8619-04730e8f1111")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25230,7 +25230,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b57c84a7-c18d-465b-9cd4-a4ff2d5c30c1")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26459,7 +26459,7 @@
 		)
 		(path "/73db5869-80c4-4c79-8e2d-a3df3400d43f")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27893,7 +27893,7 @@
 		)
 		(path "/fc2dae9c-33c8-4830-b62f-790805e5e9ea")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28849,7 +28849,7 @@
 		)
 		(path "/78e93329-daaa-47fd-ab87-76d32318439e")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29321,7 +29321,7 @@
 		)
 		(path "/aab92cb8-5217-4791-940e-e74fdcb80ebe")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29805,7 +29805,7 @@
 		)
 		(path "/1f578ae0-d0d7-4b70-81e8-cbeecd016afa")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30245,7 +30245,7 @@
 		)
 		(path "/88ee6595-054e-45a2-9cae-8bd75a1577fd")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31697,7 +31697,7 @@
 		)
 		(path "/2e18f92c-21c6-4a77-bb29-e978c08c6292")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32669,7 +32669,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/524c6f81-dd00-4a6a-9964-f1de66c736cc")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33112,7 +33112,7 @@
 		)
 		(path "/8b85a538-ced2-4224-8687-cb5112b56b00")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35017,7 +35017,7 @@
 		)
 		(path "/7f57962f-ad92-4986-ab10-091027af7cb4")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35897,7 +35897,7 @@
 		)
 		(path "/dec8bba8-5220-44d2-9a10-d3c81d7193ab")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36117,7 +36117,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/db28b726-5acc-4189-83bf-89100bcf665d")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37622,7 +37622,7 @@
 		)
 		(path "/21cb0315-bc3f-428e-9083-4b1ff58e6d2a")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38062,7 +38062,7 @@
 		)
 		(path "/00f3725f-a818-4268-a9a5-292d9cfdde32")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42403,7 +42403,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/35f45a2f-ca63-4177-b3bc-02abea2374fb")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43272,7 +43272,7 @@
 		)
 		(path "/88708679-c98f-4d92-a3f6-1c8ca0490c9f")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -44468,7 +44468,7 @@
 		)
 		(path "/a4d6cd93-8a3f-4caa-b04e-821cba95ca17")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -44908,7 +44908,7 @@
 		)
 		(path "/7560beb0-ae5a-497b-a4b3-25b018493d9e")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -45678,7 +45678,7 @@
 		)
 		(path "/10b8344a-f689-4278-8f55-3ef97a253fb1")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47344,7 +47344,7 @@
 		)
 		(path "/6ffb8a3c-2329-4b99-b407-bc22ea7a9fa7")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48173,7 +48173,7 @@
 		)
 		(path "/f73ead9d-b219-43b3-9fd4-571a26430774")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48969,7 +48969,7 @@
 		)
 		(path "/a1199daf-55a1-47f3-85cf-812ba4ce7cc5")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49271,7 +49271,7 @@
 		)
 		(path "/674c6d2f-f554-484c-8644-2c0324af10ca")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50007,7 +50007,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/305f501e-2939-44d9-94e4-e49e1793b6ae")
 		(sheetname "/")
-		(sheetfile "IOT_LC_PROTOTYPE_V1.kicad_sch")
+		(sheetfile "IOT_LC_PROTOTYPE_V2.kicad_sch")
 		(units
 			(unit
 				(name "A")

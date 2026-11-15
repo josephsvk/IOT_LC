@@ -1,4 +1,4 @@
-# IOT_LC_PROTOTYPE_V1
+# IOT_LC_PROTOTYPE_V2
 
 ## Requirements typically met:
 
@@ -21,10 +21,10 @@ This repository contains the KiCad schematic, PCB layout, design rules, and gene
 
 ## Project Files
 
-- `IOT_LC_PROTOTYPE_V1.kicad_pro` — KiCad project configuration
-- `IOT_LC_PROTOTYPE_V1.kicad_sch` — Main schematic
-- `IOT_LC_PROTOTYPE_V1.kicad_pcb` — PCB layout
-- `IOT_LC_PROTOTYPE_V1.kicad_dru` — Custom design rules
+- `IOT_LC_PROTOTYPE_V2.kicad_pro` — KiCad project configuration
+- `IOT_LC_PROTOTYPE_V2.kicad_sch` — Main schematic
+- `IOT_LC_PROTOTYPE_V2.kicad_pcb` — PCB layout
+- `IOT_LC_PROTOTYPE_V2.kicad_dru` — Custom design rules
 - `*.kicad_sch` — Hierarchical schematic sheets
 
 ## Automation Scripts
@@ -78,8 +78,6 @@ No license has been specified. All rights reserved unless a license is added.
 
 ![Complete active hierarchical schematic — page 3](docs/images/schematic-003.png)
 
-[View vector PDF](docs/pdf/schematic.pdf)
-
 ## PCB documentation
 
 ### PCB front
@@ -88,15 +86,11 @@ No license has been specified. All rights reserved unless a license is added.
 
 ![PCB front — page 1](docs/images/pcb-front-001.png)
 
-[View vector PDF](docs/pdf/pcb-front.pdf)
-
 ### PCB back
 
 **Page 1**
 
 ![PCB back — page 1](docs/images/pcb-back-001.png)
-
-[View vector PDF](docs/pdf/pcb-back.pdf)
 
 ### PCB layers and 3D views
 
@@ -115,14 +109,4 @@ No license has been specified. All rights reserved unless a license is added.
 **3D view from below**
 
 ![PCB layers and 3D views — 3d view from below](docs/images/pcb-3d-bottom.png)
-
-[View vector PDF](docs/pdf/pcb-layers.pdf)
-
-## 3D model downloads
-
-[GLB model](docs/models/iot-lc-prototype-v2.glb) — interactive preview and web use.
-
-[STEP assembly](docs/models/iot-lc-prototype-v2.step) — mechanical CAD integration.
-
-[Interactive 3D PDF](docs/models/iot-lc-prototype-v2-3d.pdf) — shareable model review.
 <!-- AUTO-DOCS-END -->
