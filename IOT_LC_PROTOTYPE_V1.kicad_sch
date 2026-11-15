@@ -20687,7 +20687,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "../IOT_Blocks.kicad_blocks/36v to 5v + 3v3.kicad_block/36v to 5v + 3v3.kicad_sch"
+		(property "Sheetfile" "/home/joseph/Dokumenty/kicad/IOT_V2/IOT_LC_PROTOTYPE_V2/36v to 5v + 3v3.kicad_sch"
 			(at 93.98 121.2346 0)
 			(hide yes)
 			(show_name no)
@@ -20784,7 +20784,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "../IOT_Blocks.kicad_blocks/ESP32-S3-WROOM-1U-N16R8.kicad_block/ESP32-S3-WROOM-1U-N16R8.kicad_sch"
+		(property "Sheetfile" "/home/joseph/Dokumenty/kicad/IOT_V2/IOT_LC_PROTOTYPE_V2/ESP32-S3-WROOM-1U-N16R8.kicad_sch"
 			(at 93.98 78.0546 0)
 			(hide yes)
 			(show_name no)

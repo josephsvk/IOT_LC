@@ -13,6 +13,11 @@ PREVIEW_OVERRIDES = {
     ('pcb-layers', 3): 'pcb-3d-top.png',
     ('pcb-layers', 4): 'pcb-3d-bottom.png',
 }
+MODEL_FILES = (
+    'iot-lc-prototype-v2.glb',
+    'iot-lc-prototype-v2.step',
+    'iot-lc-prototype-v2-3d.pdf',
+)
 errors = []
 for name in NAMES:
     path = PDF / f'{name}.pdf'
@@ -31,6 +36,10 @@ for name in NAMES:
         if not image.is_file() or image.stat().st_size == 0:
             errors.append(f'Missing preview: {image}')
     print(f'{name}.pdf: {count} page(s)')
+for filename in MODEL_FILES:
+    model = ROOT / 'docs/models' / filename
+    if not model.is_file() or model.stat().st_size == 0:
+        errors.append(f'Missing/empty 3D model: {model}')
 if not README.is_file():
     errors.append('README.md missing')
 else:

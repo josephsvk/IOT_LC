@@ -117,4 +117,12 @@ No license has been specified. All rights reserved unless a license is added.
 ![PCB layers and 3D views — 3d view from below](docs/images/pcb-3d-bottom.png)
 
 [View vector PDF](docs/pdf/pcb-layers.pdf)
+
+## 3D model downloads
+
+[GLB model](docs/models/iot-lc-prototype-v2.glb) — interactive preview and web use.
+
+[STEP assembly](docs/models/iot-lc-prototype-v2.step) — mechanical CAD integration.
+
+[Interactive 3D PDF](docs/models/iot-lc-prototype-v2-3d.pdf) — shareable model review.
 <!-- AUTO-DOCS-END -->

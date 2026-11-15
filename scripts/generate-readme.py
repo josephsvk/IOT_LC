@@ -90,6 +90,12 @@ def main():
         3: ('3D view from above', 'top', 'pcb-3d-top.png'),
         4: ('3D view from below', 'bottom', 'pcb-3d-bottom.png'),
     })
+    lines.extend([
+        '## 3D model downloads', '',
+        '[GLB model](docs/models/iot-lc-prototype-v2.glb) — interactive preview and web use.', '',
+        '[STEP assembly](docs/models/iot-lc-prototype-v2.step) — mechanical CAD integration.', '',
+        '[Interactive 3D PDF](docs/models/iot-lc-prototype-v2-3d.pdf) — shareable model review.', '',
+    ])
     generated = f'{START}\n' + '\n'.join(lines).rstrip() + f'\n{END}'
     if README.exists():
         data = README.read_text(encoding='utf-8')
