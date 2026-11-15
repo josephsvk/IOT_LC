@@ -665,7 +665,7 @@
 					)
 				)
 			)
-			(property "Value" "ERJ-3EKF1001V"
+			(property "Value" "1 kΩ"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -819,7 +819,7 @@
 					)
 				)
 			)
-			(property "Value" "ERJPA3F4701V"
+			(property "Value" "4.7 kΩ"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2419,7 +2419,7 @@
 					)
 				)
 			)
-			(property "Value" "CRCW12061M00FKEA"
+			(property "Value" "1 MΩ"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2764,7 +2764,7 @@
 					)
 				)
 			)
-			(property "Value" "ERA-3AEB103V"
+			(property "Value" "10 kΩ"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2918,7 +2918,7 @@
 					)
 				)
 			)
-			(property "Value" "ERJ2RKF4702X"
+			(property "Value" "47 kΩ"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3072,7 +3072,7 @@
 					)
 				)
 			)
-			(property "Value" "ERJ3EKF3300V"
+			(property "Value" "330 Ω"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -9232,7 +9232,7 @@
 				)
 			)
 		)
-		(property "Value" "ERA-3AEB103V"
+		(property "Value" "10 kΩ"
 			(at 68.58 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9826,7 +9826,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ2RKF4702X"
+		(property "Value" "47 kΩ"
 			(at 314.96 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10324,7 +10324,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF1001V"
+		(property "Value" "1 kΩ"
 			(at 209.296 143.256 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10580,7 +10580,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF1001V"
+		(property "Value" "1 kΩ"
 			(at 209.55 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11071,7 +11071,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 314.96 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11337,7 +11337,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJPA3F4701V"
+		(property "Value" "4.7 kΩ"
 			(at 209.55 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11765,7 +11765,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJPA3F4701V"
+		(property "Value" "4.7 kΩ"
 			(at 209.55 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12103,7 +12103,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 123.19 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12448,7 +12448,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 314.96 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12713,7 +12713,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 314.96 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14239,7 +14239,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ2RKF4702X"
+		(property "Value" "47 kΩ"
 			(at 314.96 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14505,7 +14505,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJPA3F4701V"
+		(property "Value" "4.7 kΩ"
 			(at 209.296 133.096 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14952,7 +14952,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ2RKF4702X"
+		(property "Value" "47 kΩ"
 			(at 314.96 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15371,7 +15371,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF1001V"
+		(property "Value" "1 kΩ"
 			(at 209.296 111.506 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16305,7 +16305,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 314.96 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17263,7 +17263,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "CRCW12061M00FKEA"
+		(property "Value" "1 MΩ"
 			(at 47.244 128.778 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17376,7 +17376,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ2RKF4702X"
+		(property "Value" "47 kΩ"
 			(at 314.96 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19524,7 +19524,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF1001V"
+		(property "Value" "1 kΩ"
 			(at 209.55 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20331,7 +20331,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJPA3F4701V"
+		(property "Value" "4.7 kΩ"
 			(at 209.296 101.346 0)
 			(show_name no)
 			(do_not_autoplace no)

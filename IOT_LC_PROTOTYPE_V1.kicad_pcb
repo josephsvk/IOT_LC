@@ -12057,7 +12057,7 @@
 				)
 			)
 		)
-		(property "Value" "CRCW12061M00FKEA"
+		(property "Value" "1 MΩ"
 			(at 0 4 90)
 			(layer "F.Fab")
 			(uuid "b8796837-b336-456c-ad43-9dac2c1a63a8")
@@ -20342,7 +20342,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "ae222b47-c3f8-4e69-86f8-ea5ac8b5f29d")
@@ -20782,7 +20782,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ3EKF1202V"
+		(property "Value" "12 kΩ"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "10c524d7-16b0-4d52-8a08-48ca1efa15dc")
@@ -21040,7 +21040,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERA-3AEB103V"
+		(property "Value" "10 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "a54d8636-4709-48e7-a9b7-a434fe0a0115")
@@ -21480,7 +21480,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERA-3AEB103V"
+		(property "Value" "10 kΩ"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "72012957-3477-4b8e-b5bd-49d5f820ad78")
@@ -22178,7 +22178,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ-3GEY0R00V"
+		(property "Value" "0 Ω"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "3775ef6c-a611-4815-95a3-aea7908985e7")
@@ -22920,7 +22920,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJPA3F4701V"
+		(property "Value" "4.7 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "4bbcf089-55a1-4feb-bef4-da49ac4e0187")
@@ -23360,7 +23360,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "b802fb2e-a65a-4e44-ade5-604f9de74f8c")
@@ -23814,7 +23814,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "de6c98b7-534e-4e5d-9413-943fd1a1913d")
@@ -24477,7 +24477,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "5b313c7f-be0e-484b-ade6-25fc75934a03")
@@ -24931,7 +24931,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "AC0805FR-7W2K2L"
+		(property "Value" "2.2 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "16c816a6-68f7-4e1b-993f-3bbf3d6176ac")
@@ -26184,7 +26184,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ2RKF4702X"
+		(property "Value" "47 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "2f44dc4e-b57f-4a0f-89b2-c8af3f2a813c")
@@ -27632,7 +27632,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJPA3F4701V"
+		(property "Value" "4.7 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "f5b4fa90-cd6a-4218-9890-a53d95f691a5")
@@ -28072,7 +28072,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ-3EKF22R0V"
+		(property "Value" "22 Ω"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "a59f1932-e908-4fa5-928e-9614b341df07")
@@ -28330,7 +28330,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERA-3AEB103V"
+		(property "Value" "10 kΩ"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "8fd001e4-c4fe-4faa-95c2-7162e883a4e5")
@@ -29544,7 +29544,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ-3EKF1001V"
+		(property "Value" "1 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "c94e8bc2-08ce-4507-b281-5e59b8dc763f")
@@ -31436,7 +31436,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJPA3F4701V"
+		(property "Value" "4.7 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "cc25127a-06d7-4a08-9880-79c12e5ded18")
@@ -32837,7 +32837,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ3EKF3300V"
+		(property "Value" "330 Ω"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "e5fb9304-b978-414a-bb39-ff275b2785f4")
@@ -33775,7 +33775,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ3EKF1542V"
+		(property "Value" "15.4 kΩ"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "ea2d7e32-ac7d-47b7-ba19-a1d1d9082cf4")
@@ -34484,7 +34484,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJPA3F5101V"
+		(property "Value" "5.1 kΩ"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "be3cf74d-9984-4de9-8ed5-e80398129937")
@@ -34742,7 +34742,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ2RKF4702X"
+		(property "Value" "47 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "5dcb631f-6578-42f1-b11f-307c0648ed2b")
@@ -35196,7 +35196,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERA-3AEB103V"
+		(property "Value" "10 kΩ"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "a596c5db-1cba-481b-9f95-d539a83707b0")
@@ -35636,7 +35636,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ-3EKF1001V"
+		(property "Value" "1 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "435a2519-53ba-48a5-b4df-1f89ef677c2d")
@@ -36285,7 +36285,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CRCW060360R4FKEA"
+		(property "Value" "60.4 Ω"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "a40214d8-60b6-4bf0-abfb-b33b37da6d34")
@@ -36543,7 +36543,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJPA3F5101V"
+		(property "Value" "5.1 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "b2a17cbe-b70f-4c3f-9e8f-9a3b4d6b2618")
@@ -37103,7 +37103,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "AC0805FR-7W2K2L"
+		(property "Value" "2.2 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "7e72a201-94b0-4a32-a744-b93464cdfc8f")
@@ -37361,7 +37361,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ-3EKF1001V"
+		(property "Value" "1 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "3f530457-6f14-42ad-802d-7b3de162eaa6")
@@ -42571,7 +42571,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ-3EKF1002V"
+		(property "Value" "10 kΩ"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "6a9160ef-8d70-403f-8ac7-669771d526c5")
@@ -43011,7 +43011,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ-3EKF1001V"
+		(property "Value" "1 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "97c8cf36-ef11-4cd0-ab22-edc3bd518c4d")
@@ -43935,7 +43935,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "CRCW060360R4FKEA"
+		(property "Value" "60.4 Ω"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "41364768-d409-4ad5-9462-4defd935e4bb")
@@ -44193,7 +44193,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ2RKF4702X"
+		(property "Value" "47 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "2863c2a5-f5d7-4f45-9efd-f4d3ed1bef82")
@@ -44647,7 +44647,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJPA3F4701V"
+		(property "Value" "4.7 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "2c102637-c1e5-449c-8ebd-b8a3516127e1")
@@ -45403,7 +45403,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ2RKF4702X"
+		(property "Value" "47 kΩ"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "bd4826d1-398c-46f9-875a-ffb5ebcb80ad")
@@ -46341,7 +46341,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ-3GEY0R00V"
+		(property "Value" "0 Ω"
 			(at 0 -4 90)
 			(layer "B.Fab")
 			(uuid "5cb9d67e-f0c6-4800-a4ea-f5e199e3f4de")
@@ -47567,7 +47567,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "ERJ-3EKF22R0V"
+		(property "Value" "22 Ω"
 			(at 0 -4 0)
 			(layer "B.Fab")
 			(uuid "8fa08342-ea41-4758-824b-df6c5315f5a7")
