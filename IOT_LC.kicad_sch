@@ -13490,7 +13490,7 @@
 		)
 		(uuid "3e0bac11-6e0f-410e-860d-d63daec20bf9")
 	)
-	(text_box "1	24V	FIELD 24 V\n2	24V	Paralelné napájanie\n3	GND	FIELD GND\n4	GND	FIELD GND\n5	5V	FIELD 5 V\n6	5V	Paralelné napájanie\n7	NC	Rezerva\n8	NC	Rezerva\n9	+3.3V	LOGIC 24 V\n10	+3.3V	Paralelné napájanie\n11	LOGIC_GND	Logická zem\n12	LOGIC_GND	Logická zem\n13	NC	Rezerva\n14	NC	Rezerva\n15	24V_BATT	Batériová vetva 24 V\n16	5V_BATT	Batériová vetva 5 V\n17	BATT_GND	Batériová zem\n18	BATT_GND	Batériová zem\n19	5V_LOGIC	LOGIC 5 V\n20	LOGIC_GND	Logická zem\n21	NC	Rezerva\n22	NC	Rezerva\n23	I2C_SCL	I²C hodinový signál\n24	I2C_SDA	I²C dátový signál\n25	NC	Rezerva pre budúce IRQ\n26	NC	Rezerva\n27	SPI_SCK	SPI clock\n28	LOGIC_GND	Referenčná zem SPI\n29	SPI_MOSI	SPI controller → periféria\n30	SPI_MISO	SPI periféria → controller\n31	SPI_CS0	Výber SPI zariadenia 0\n32	SPI_CS1	Výber SPI zariadenia 1\n33	SPI_DC	Display Data/Command\n34	LOGIC_GND	Referenčná zem SPI\n35	NC	Rezerva\n36	RS485_GND	Referenčná zem RS-485\n37	RS485_A	Diferenciálna linka A\n38	RS485_B	Diferenciálna linka B\n39	NC	Rezerva\n40	NC	Rezerva"
+	(text_box "1	24V	FIELD 24 V\n2	24V	Paralelné napájanie\n3	GND	FIELD GND\n4	GND	FIELD GND\n5	5V	FIELD 5 V\n6	5V	Paralelné napájanie\n7	NC	Rezerva\n8	NC	Rezerva\n9	+3.3V	LOGIC 24 V\n10	+3.3V	Paralelné napájanie\n11	LOGIC_GND	Logická zem\n12	LOGIC_GND	Logická zem\n13	NC	Rezerva\n14	NC	Rezerva\n15	24V_BATT	Batériová vetva 24 V\n16	5V_BATT	Batériová vetva 5 V\n17	BATT_GND	Batériová zem\n18	BATT_GND	Batériová zem\n19	LOGIC_5V	LOGIC 5 V\n20	LOGIC_GND	Logická zem\n21	NC	Rezerva\n22	NC	Rezerva\n23	I2C_SCL	I²C hodinový signál\n24	I2C_SDA	I²C dátový signál\n25	NC	Rezerva pre budúce IRQ\n26	NC	Rezerva\n27	SPI_SCK	SPI clock\n28	LOGIC_GND	Referenčná zem SPI\n29	SPI_MOSI	SPI controller → periféria\n30	SPI_MISO	SPI periféria → controller\n31	SPI_CS0	Výber SPI zariadenia 0\n32	SPI_CS1	Výber SPI zariadenia 1\n33	SPI_DC	Display Data/Command\n34	LOGIC_GND	Referenčná zem SPI\n35	NC	Rezerva\n36	RS485_GND	Referenčná zem RS-485\n37	RS485_A	Diferenciálna linka A\n38	RS485_B	Diferenciálna linka B\n39	NC	Rezerva\n40	NC	Rezerva"
 		(exclude_from_sim no)
 		(at 17.78 210.82 0)
 		(size 55.88 89.2108)
@@ -13829,6 +13829,12 @@
 		(uuid "b838ba18-4230-4ccb-a04b-51ab9c99ddd6")
 	)
 	(junction
+		(at 474.98 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b89bec50-eefc-4876-adaf-2f54420bcdac")
+	)
+	(junction
 		(at 216.154 270.256)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14072,6 +14078,16 @@
 	)
 	(wire
 		(pts
+			(xy 474.98 182.88) (xy 492.76 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05d8c891-ba5d-4c1d-934c-d324e4541022")
+	)
+	(wire
+		(pts
 			(xy 270.51 193.04) (xy 270.51 195.58)
 		)
 		(stroke
@@ -14239,16 +14255,6 @@
 			(type default)
 		)
 		(uuid "1158de45-3be9-4655-a0ce-5b5d45b9f12f")
-	)
-	(wire
-		(pts
-			(xy 467.36 182.88) (xy 468.63 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "121707ab-a85c-4eb8-91f7-e930c99d63f1")
 	)
 	(wire
 		(pts
@@ -15292,6 +15298,16 @@
 	)
 	(wire
 		(pts
+			(xy 544.83 241.3) (xy 542.29 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "622a064d-0fe5-41a3-a1be-22b2f514eb79")
+	)
+	(wire
+		(pts
 			(xy 284.988 140.462) (xy 284.988 156.972)
 		)
 		(stroke
@@ -15312,7 +15328,7 @@
 	)
 	(wire
 		(pts
-			(xy 449.58 182.88) (xy 458.47 182.88)
+			(xy 449.58 182.88) (xy 462.28 182.88)
 		)
 		(stroke
 			(width 0)
@@ -15579,6 +15595,16 @@
 			(type default)
 		)
 		(uuid "7ccbfd1d-0862-4f8f-bee0-b22f9fa211d5")
+	)
+	(wire
+		(pts
+			(xy 472.44 182.88) (xy 474.98 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d6f1227-03ec-484a-b8a2-9dcc952adc6e")
 	)
 	(wire
 		(pts
@@ -16169,16 +16195,6 @@
 			(type default)
 		)
 		(uuid "a72f4143-5073-4823-ac99-58e913c78bbe")
-	)
-	(wire
-		(pts
-			(xy 461.01 241.3) (xy 462.28 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8781540-d5f2-4562-89e4-38b6eb6cb7f4")
 	)
 	(wire
 		(pts
@@ -16852,16 +16868,6 @@
 	)
 	(wire
 		(pts
-			(xy 471.17 241.3) (xy 477.52 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc854f55-8aab-4fc8-a504-6d6f3348874b")
-	)
-	(wire
-		(pts
 			(xy 252.73 314.452) (xy 270.51 314.452)
 		)
 		(stroke
@@ -16932,7 +16938,7 @@
 	)
 	(wire
 		(pts
-			(xy 515.62 241.3) (xy 528.32 241.3)
+			(xy 515.62 241.3) (xy 534.67 241.3)
 		)
 		(stroke
 			(width 0)
@@ -17209,16 +17215,6 @@
 			(type default)
 		)
 		(uuid "f8ea106d-1933-429c-b1d6-f9e6cc840480")
-	)
-	(wire
-		(pts
-			(xy 492.76 182.88) (xy 474.98 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9fbdfd0-3b3f-409f-bb3a-33ec76d38b97")
 	)
 	(wire
 		(pts
@@ -17593,7 +17589,7 @@
 		(uuid "8ef562f9-911b-4935-9599-0d332195d3a9")
 	)
 	(label "VCC"
-		(at 537.21 241.3 0)
+		(at 544.83 241.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18381,7 +18377,7 @@
 			)
 		)
 	)
-	(global_label "5V_LOGIC"
+	(global_label "LOGIC_5V"
 		(shape input)
 		(at 135.382 239.268 180)
 		(fields_autoplaced yes)
@@ -20637,7 +20633,7 @@
 			)
 		)
 	)
-	(global_label "5V_LOGIC"
+	(global_label "LOGIC_5V"
 		(shape input)
 		(at 164.846 397.256 0)
 		(fields_autoplaced yes)
@@ -20903,7 +20899,7 @@
 			)
 		)
 	)
-	(global_label "5V_LOGIC"
+	(global_label "LOGIC_5V"
 		(shape input)
 		(at 298.45 205.74 180)
 		(fields_autoplaced yes)
@@ -21243,7 +21239,7 @@
 			)
 		)
 	)
-	(global_label "5V_LOGIC"
+	(global_label "LOGIC_5V"
 		(shape input)
 		(at 150.622 239.268 0)
 		(fields_autoplaced yes)
@@ -22211,7 +22207,7 @@
 			)
 		)
 	)
-	(global_label "5V_LOGIC"
+	(global_label "LOGIC_5V"
 		(shape input)
 		(at 275.59 205.74 0)
 		(fields_autoplaced yes)
@@ -31216,7 +31212,7 @@
 	)
 	(symbol
 		(lib_id "C0805C104K5RACTU:CC1206KKX7R8BB105")
-		(at 532.13 241.3 0)
+		(at 538.48 241.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -31227,7 +31223,7 @@
 		(fields_autoplaced yes)
 		(uuid "63ed247f-d0df-43f2-a51a-0255b609ddb9")
 		(property "Reference" "C311"
-			(at 532.13 234.95 0)
+			(at 538.48 234.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31237,7 +31233,7 @@
 			)
 		)
 		(property "Value" "CC1206KKX7R8BB105"
-			(at 532.13 237.49 0)
+			(at 538.48 237.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31247,7 +31243,7 @@
 			)
 		)
 		(property "Footprint" "C0805C104K5RACTU:C1206"
-			(at 532.13 248.92 0)
+			(at 538.48 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31258,7 +31254,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_1uF-105-10-25V_C107184.html"
-			(at 532.13 251.46 0)
+			(at 538.48 251.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31269,7 +31265,7 @@
 			)
 		)
 		(property "Description" "1 µF ±10%, 25 V DC"
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31280,7 +31276,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO(国巨)"
-			(at 532.13 254 0)
+			(at 538.48 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31291,7 +31287,7 @@
 			)
 		)
 		(property "MPN" "CC1206KKX7R8BB105"
-			(at 532.13 256.54 0)
+			(at 538.48 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31302,7 +31298,7 @@
 			)
 		)
 		(property "LCSC Part" "C107184"
-			(at 532.13 259.08 0)
+			(at 538.48 259.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31313,7 +31309,7 @@
 			)
 		)
 		(property "Field10" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31324,7 +31320,7 @@
 			)
 		)
 		(property "Field9" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31335,7 +31331,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31346,7 +31342,7 @@
 			)
 		)
 		(property "Part Type" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31357,7 +31353,7 @@
 			)
 		)
 		(property "Priority" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31368,7 +31364,7 @@
 			)
 		)
 		(property "Rating" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31379,7 +31375,7 @@
 			)
 		)
 		(property "SKU" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31390,7 +31386,7 @@
 			)
 		)
 		(property "Status" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31401,7 +31397,7 @@
 			)
 		)
 		(property "Supplier" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31412,7 +31408,7 @@
 			)
 		)
 		(property "Supplier PN" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31423,7 +31419,7 @@
 			)
 		)
 		(property "Temperature" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31434,7 +31430,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31445,7 +31441,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 532.13 241.3 0)
+			(at 538.48 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38789,7 +38785,7 @@
 	)
 	(symbol
 		(lib_id "EasyEDA:NXH50VB100M8*11.5_LO")
-		(at 466.09 241.3 270)
+		(at 467.36 182.88 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -38800,7 +38796,7 @@
 		(fields_autoplaced yes)
 		(uuid "a74db773-7511-4d9e-bc5e-4c6617126df0")
 		(property "Reference" "C106"
-			(at 465.455 233.68 90)
+			(at 466.725 175.26 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38810,7 +38806,7 @@
 			)
 		)
 		(property "Value" "NXH50VB100M8*11.5_LO"
-			(at 465.455 236.22 90)
+			(at 466.725 177.8 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38820,7 +38816,7 @@
 			)
 		)
 		(property "Footprint" "EasyEDA:CAP-TH_BD8.0-P3.50-D0.6-FD"
-			(at 453.39 241.3 0)
+			(at 454.66 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38831,7 +38827,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Others_SamYoung-Electronics-NXH50VB100M8-11-5-LO_C371282.html"
-			(at 450.85 241.3 0)
+			(at 452.12 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38842,7 +38838,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 466.09 241.3 0)
+			(at 467.36 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38853,7 +38849,7 @@
 			)
 		)
 		(property "Manufacturer" "SAMYOUNG(韩国三莹)"
-			(at 448.31 241.3 0)
+			(at 449.58 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38864,7 +38860,7 @@
 			)
 		)
 		(property "MPN" "NXH50V100M8*11.5 LO"
-			(at 445.77 241.3 0)
+			(at 447.04 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38875,7 +38871,7 @@
 			)
 		)
 		(property "LCSC Part" "C371282"
-			(at 443.23 241.3 0)
+			(at 444.5 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45615,6 +45611,60 @@
 		)
 	)
 	(group ""
+		(uuid "0f966734-8d27-495d-be06-ccee90855fe9")
+		(members "039c9806-8773-448f-8d10-22b6574323ac" "04acc454-2043-401f-8eeb-0df98ea631ad"
+			"05d8c891-ba5d-4c1d-934c-d324e4541022" "07b16a7b-e7f7-4bd0-bcaf-a92d15094786"
+			"0922423d-3f14-41ee-bb42-2343a97a2b7a" "0a1bfb6f-96d9-4164-86f6-6d5147e7567d"
+			"0c30edc3-491f-450d-9e98-69482a138955" "0d39aaf0-349a-4137-8a70-6b115a1e0b43"
+			"0e3e8105-23e0-414e-a8c2-e74e5cb2ccfc" "0f705a18-2316-4318-a166-eb0464c95203"
+			"10026ef0-d51b-461f-8c36-56bb363cf55d" "1158de45-3be9-4655-a0ce-5b5d45b9f12f"
+			"1304ac0f-245e-4201-bf00-43dfda17e350" "14e5c059-fff8-4188-b0ee-8b8be37dcc2d"
+			"1c48fc48-71b7-48c4-a35d-5f7a27a108d3" "2167f1b7-aa75-4cab-9fa3-53ad39aa3d84"
+			"237a73ca-2240-4c6c-896a-1b3561520cac" "242e9ff9-e72c-440d-8373-f8a5ab07fe7c"
+			"2438adfd-bb1c-4842-979d-cc9f196b08c8" "279f6fd0-c1dc-4e4e-ae20-e3587a23424c"
+			"282139f6-0019-4994-9a16-e2e2a02908c3" "2a5d4d70-acbe-40e8-bc37-4449fc6f72f8"
+			"2db82bd6-dea0-427e-8d4b-e9e9170fa0fe" "33549aa5-b1d1-490e-8021-0ee8d23f5213"
+			"3541ac47-05ef-4a2e-8c4e-dd2233c5e0dc" "35e40890-9d27-4c7f-83a3-d331ab4dc8d4"
+			"35ffcbec-5a35-4832-99ab-6c71dbc7bb19" "4b806a63-997a-41b9-b8e6-c2c98a68101e"
+			"4d978548-9410-4b52-bb56-ca6230ae7225" "5493b5a7-6c85-4453-a7f5-d38c15dbf77e"
+			"55e8ab7a-942f-4d30-93c6-ad3a9f6de740" "57de319a-7f28-416a-ad23-92bc284424dc"
+			"5c76e12d-188a-467c-a8fc-e33ce07a8dd0" "5dc50da5-8252-40fb-84f4-90e66f1ebc28"
+			"622a064d-0fe5-41a3-a1be-22b2f514eb79" "63ed247f-d0df-43f2-a51a-0255b609ddb9"
+			"648266b7-dc14-4566-9284-40d22efa567e" "6580655a-0d7a-4d13-9a23-e53b4c27f9cc"
+			"65cd2394-3a28-45d8-8fa0-09bc811198f5" "67a43b30-7e8d-45b6-96ad-40a147771110"
+			"67cc3094-a00e-47d1-b8a0-4675dc107a4d" "685f6594-12e4-4a23-9c13-43619160aa17"
+			"6ba70dd3-854c-4fc6-ab67-13b9807b631d" "6c41cf2c-b0ce-411e-8b9b-2dc15e61e9ec"
+			"73514829-5683-4226-a4d3-5c42c551aa2e" "76557598-7ab1-4e85-9d3a-b7cc80a22f19"
+			"78ef5847-6d4f-4c32-93ec-e5b97a92af96" "791d2866-1654-46ea-89f4-218a7d7c3472"
+			"798fcc8d-1586-4944-8faa-9f47d04b0b72" "7ac48cf2-c869-49eb-874a-0517638a9d4c"
+			"7aeb9e43-53b6-4035-8196-31cda20528da" "7d6f1227-03ec-484a-b8a2-9dcc952adc6e"
+			"7e8e729e-6b56-4a27-b563-b3883509a4c2" "80900ce9-4d12-4965-bb2b-a1fc298e289e"
+			"82cdc452-b096-481c-a379-df46793d8873" "835bf1a0-3829-4c5b-8629-ea828c4dc50e"
+			"83f105da-731c-45c9-bf21-80e11a9c5e3b" "8694ac64-f182-4061-a41d-90e336701de0"
+			"8a4397a3-a4e9-48ef-8179-efe82924c899" "8e704f5b-850a-440a-8748-110c728e517e"
+			"8f346c87-8cb3-488e-ba76-d97e7b213f3d" "945b565a-607f-4f09-8ad6-59d750973fd2"
+			"966c6af7-53e1-4646-9bef-0765362b3292" "9e5b07ee-df5c-41b2-92e8-e4b0c082bd3a"
+			"9f9059b7-d2b9-46d1-a40a-fe1820d77938" "a1313748-8159-47b8-bf66-dda247cf21be"
+			"a204aed2-80e6-47f6-9f2f-a2f1e1c3a990" "a250ed4c-6275-41ad-b572-81aee0af73e1"
+			"a4e37830-da17-460c-933a-13c1d9385027" "a74db773-7511-4d9e-bc5e-4c6617126df0"
+			"a9f5771e-d130-4f03-98ee-fc4e18f2447a" "aad5a531-609a-4238-8e83-412926579875"
+			"adfaa735-17d9-4014-b432-8dc0f78c1e59" "af4dc6a1-2916-4103-afa5-b88eb5fad0f9"
+			"af766d3e-669a-47b1-8d56-650165555c04" "af9fe930-e642-4547-a73e-79be960413d6"
+			"b3f87120-705a-42b7-953b-ad0afd26c861" "b4dc6220-215a-4290-863f-cf5796f1d674"
+			"b7a91444-036c-4db2-b699-66b1fe5a695a" "b89bec50-eefc-4876-adaf-2f54420bcdac"
+			"baf1b684-9c4a-4357-8aac-ff0541dc2678" "bdaa2028-850c-4abf-aea9-3b02e6a6598d"
+			"bfddc0ef-2a3a-43e8-91f3-840e6af97a0d" "c10182e9-620e-45fc-8cd3-cd9353e9b3ae"
+			"c589c5d2-0b35-4183-a7e2-cbc21c58dc87" "c76d81a6-c31f-451d-a320-58c39f3c7d8f"
+			"cc804776-1b1b-4365-92ef-d3be8c59e8d5" "ceca879b-8495-4d7b-a0a6-f223e51f1213"
+			"d5b2c8db-d62d-47da-8dc7-3794822611b1" "d915388f-4c39-4693-809c-e4dad96ffde6"
+			"db5e797b-12c0-4dba-9db7-1cdaf79c27a7" "e2c52329-a606-42d2-83f8-4f24fccf544c"
+			"e434f73a-d8d5-4851-8168-87e46008d0f1" "e7fa6261-165e-45ee-bf3e-667714bc3a72"
+			"ec307197-e8ee-42da-bbe1-7ab2661b4dd4" "ee224ae9-2e88-41a3-b7f3-dc7442767b91"
+			"fd76dc9b-ecd3-4aba-93a0-c21081331931" "fd7a78e7-cdc4-4e7e-b629-9a5765488d8e"
+			"ffd231e5-f7b8-4b92-a557-2357cac3be9a"
+		)
+	)
+	(group ""
 		(uuid "5634ecd0-2814-4f53-b6cd-25fdcd34968b")
 		(members "007ae4dc-4bb3-4d80-bee9-e7efecb3028c" "02b51061-6969-447e-95b1-b84d2fa0349e"
 			"043b7511-5179-4efa-8057-7c81b6dcc866" "06f0b820-c31e-4a37-bdf7-9fb78b7d00e7"
@@ -45776,58 +45826,6 @@
 			"f424f518-db6d-4bbf-8f57-28548e32f29b" "f509300f-2a8f-4201-9252-187c057d3994"
 			"fa31166d-f907-443d-873c-c12222204d08" "fafd4e06-2c88-4c49-a627-b046a939f183"
 			"fd9d06f7-38c1-4b74-bd0f-48dbcd756ab8"
-		)
-	)
-	(group ""
-		(uuid "82ec1551-5216-443f-9dda-9ebd905ca447")
-		(members "039c9806-8773-448f-8d10-22b6574323ac" "04acc454-2043-401f-8eeb-0df98ea631ad"
-			"07b16a7b-e7f7-4bd0-bcaf-a92d15094786" "0922423d-3f14-41ee-bb42-2343a97a2b7a"
-			"0a1bfb6f-96d9-4164-86f6-6d5147e7567d" "0c30edc3-491f-450d-9e98-69482a138955"
-			"0d39aaf0-349a-4137-8a70-6b115a1e0b43" "0e3e8105-23e0-414e-a8c2-e74e5cb2ccfc"
-			"0f705a18-2316-4318-a166-eb0464c95203" "10026ef0-d51b-461f-8c36-56bb363cf55d"
-			"1158de45-3be9-4655-a0ce-5b5d45b9f12f" "121707ab-a85c-4eb8-91f7-e930c99d63f1"
-			"1304ac0f-245e-4201-bf00-43dfda17e350" "14e5c059-fff8-4188-b0ee-8b8be37dcc2d"
-			"1c48fc48-71b7-48c4-a35d-5f7a27a108d3" "2167f1b7-aa75-4cab-9fa3-53ad39aa3d84"
-			"237a73ca-2240-4c6c-896a-1b3561520cac" "242e9ff9-e72c-440d-8373-f8a5ab07fe7c"
-			"2438adfd-bb1c-4842-979d-cc9f196b08c8" "279f6fd0-c1dc-4e4e-ae20-e3587a23424c"
-			"282139f6-0019-4994-9a16-e2e2a02908c3" "2a5d4d70-acbe-40e8-bc37-4449fc6f72f8"
-			"2db82bd6-dea0-427e-8d4b-e9e9170fa0fe" "33549aa5-b1d1-490e-8021-0ee8d23f5213"
-			"3541ac47-05ef-4a2e-8c4e-dd2233c5e0dc" "35e40890-9d27-4c7f-83a3-d331ab4dc8d4"
-			"35ffcbec-5a35-4832-99ab-6c71dbc7bb19" "4b806a63-997a-41b9-b8e6-c2c98a68101e"
-			"4d978548-9410-4b52-bb56-ca6230ae7225" "5493b5a7-6c85-4453-a7f5-d38c15dbf77e"
-			"55e8ab7a-942f-4d30-93c6-ad3a9f6de740" "57de319a-7f28-416a-ad23-92bc284424dc"
-			"5c76e12d-188a-467c-a8fc-e33ce07a8dd0" "5dc50da5-8252-40fb-84f4-90e66f1ebc28"
-			"63ed247f-d0df-43f2-a51a-0255b609ddb9" "648266b7-dc14-4566-9284-40d22efa567e"
-			"6580655a-0d7a-4d13-9a23-e53b4c27f9cc" "65cd2394-3a28-45d8-8fa0-09bc811198f5"
-			"67a43b30-7e8d-45b6-96ad-40a147771110" "67cc3094-a00e-47d1-b8a0-4675dc107a4d"
-			"685f6594-12e4-4a23-9c13-43619160aa17" "6ba70dd3-854c-4fc6-ab67-13b9807b631d"
-			"6c41cf2c-b0ce-411e-8b9b-2dc15e61e9ec" "73514829-5683-4226-a4d3-5c42c551aa2e"
-			"76557598-7ab1-4e85-9d3a-b7cc80a22f19" "78ef5847-6d4f-4c32-93ec-e5b97a92af96"
-			"791d2866-1654-46ea-89f4-218a7d7c3472" "798fcc8d-1586-4944-8faa-9f47d04b0b72"
-			"7ac48cf2-c869-49eb-874a-0517638a9d4c" "7aeb9e43-53b6-4035-8196-31cda20528da"
-			"7e8e729e-6b56-4a27-b563-b3883509a4c2" "80900ce9-4d12-4965-bb2b-a1fc298e289e"
-			"82cdc452-b096-481c-a379-df46793d8873" "835bf1a0-3829-4c5b-8629-ea828c4dc50e"
-			"83f105da-731c-45c9-bf21-80e11a9c5e3b" "8694ac64-f182-4061-a41d-90e336701de0"
-			"8a4397a3-a4e9-48ef-8179-efe82924c899" "8e704f5b-850a-440a-8748-110c728e517e"
-			"8f346c87-8cb3-488e-ba76-d97e7b213f3d" "945b565a-607f-4f09-8ad6-59d750973fd2"
-			"966c6af7-53e1-4646-9bef-0765362b3292" "9e5b07ee-df5c-41b2-92e8-e4b0c082bd3a"
-			"9f9059b7-d2b9-46d1-a40a-fe1820d77938" "a1313748-8159-47b8-bf66-dda247cf21be"
-			"a204aed2-80e6-47f6-9f2f-a2f1e1c3a990" "a250ed4c-6275-41ad-b572-81aee0af73e1"
-			"a4e37830-da17-460c-933a-13c1d9385027" "a9f5771e-d130-4f03-98ee-fc4e18f2447a"
-			"aad5a531-609a-4238-8e83-412926579875" "adfaa735-17d9-4014-b432-8dc0f78c1e59"
-			"af4dc6a1-2916-4103-afa5-b88eb5fad0f9" "af766d3e-669a-47b1-8d56-650165555c04"
-			"af9fe930-e642-4547-a73e-79be960413d6" "b3f87120-705a-42b7-953b-ad0afd26c861"
-			"b4dc6220-215a-4290-863f-cf5796f1d674" "b7a91444-036c-4db2-b699-66b1fe5a695a"
-			"baf1b684-9c4a-4357-8aac-ff0541dc2678" "bdaa2028-850c-4abf-aea9-3b02e6a6598d"
-			"bfddc0ef-2a3a-43e8-91f3-840e6af97a0d" "c10182e9-620e-45fc-8cd3-cd9353e9b3ae"
-			"c589c5d2-0b35-4183-a7e2-cbc21c58dc87" "c76d81a6-c31f-451d-a320-58c39f3c7d8f"
-			"cc804776-1b1b-4365-92ef-d3be8c59e8d5" "ceca879b-8495-4d7b-a0a6-f223e51f1213"
-			"d5b2c8db-d62d-47da-8dc7-3794822611b1" "d915388f-4c39-4693-809c-e4dad96ffde6"
-			"db5e797b-12c0-4dba-9db7-1cdaf79c27a7" "e2c52329-a606-42d2-83f8-4f24fccf544c"
-			"e434f73a-d8d5-4851-8168-87e46008d0f1" "e7fa6261-165e-45ee-bf3e-667714bc3a72"
-			"ec307197-e8ee-42da-bbe1-7ab2661b4dd4" "ee224ae9-2e88-41a3-b7f3-dc7442767b91"
-			"f9fbdfd0-3b3f-409f-bb3a-33ec76d38b97" "fd76dc9b-ecd3-4aba-93a0-c21081331931"
-			"fd7a78e7-cdc4-4e7e-b629-9a5765488d8e" "ffd231e5-f7b8-4b92-a557-2357cac3be9a"
 		)
 	)
 	(group ""
