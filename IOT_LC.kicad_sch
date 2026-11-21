@@ -13843,6 +13843,12 @@
 		(uuid "40c5a086-fe4c-4599-84dd-b0e49af49cb0")
 	)
 	(junction
+		(at 39.37 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "414f55c5-32a0-46c6-b234-1e68c725c48a")
+	)
+	(junction
 		(at 41.91 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14257,6 +14263,16 @@
 			(type default)
 		)
 		(uuid "04b32fef-3afc-4aa4-8300-c89909edc44a")
+	)
+	(wire
+		(pts
+			(xy 39.37 25.4) (xy 41.91 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04c3beb8-c2a0-430c-805c-ae45e393456c")
 	)
 	(wire
 		(pts
@@ -16390,7 +16406,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 25.4) (xy 41.91 25.4)
+			(xy 36.83 25.4) (xy 39.37 25.4)
 		)
 		(stroke
 			(width 0)
@@ -18391,7 +18407,7 @@
 			)
 		)
 	)
-	(global_label "+3.3V"
+	(global_label "LOGIC_24V"
 		(shape input)
 		(at 150.622 234.188 0)
 		(fields_autoplaced yes)
@@ -20549,7 +20565,7 @@
 			)
 		)
 	)
-	(global_label "+3.3V"
+	(global_label "LOGIC_24V"
 		(shape input)
 		(at 135.382 234.188 180)
 		(fields_autoplaced yes)
@@ -22515,7 +22531,7 @@
 			)
 		)
 	)
-	(global_label "SPI_SC1"
+	(global_label "SPI_CS1"
 		(shape input)
 		(at 150.622 259.588 0)
 		(fields_autoplaced yes)
@@ -23851,7 +23867,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "05a974d4-642c-4878-94cc-1cfce6363ff3")
-		(property "Reference" "U?"
+		(property "Reference" "U108"
 			(at 60.198 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23951,7 +23967,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "U?")
+					(reference "U108")
 					(unit 1)
 				)
 			)
@@ -28475,7 +28491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35887483-222f-40ea-86d2-91dc89644a1c")
-		(property "Reference" "R?"
+		(property "Reference" "R126"
 			(at 44.45 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28561,7 +28577,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "R?")
+					(reference "R126")
 					(unit 1)
 				)
 			)
@@ -34354,6 +34370,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 39.37 25.4 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "709c6dfd-93a0-447c-ac49-058bd3275a68")
+		(property "Reference" "TP119"
+			(at 35.814 30.734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 41.91 28.702 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
+			(at 44.45 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 39.37 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 39.37 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "71054218-e4a8-4093-8582-2fd8e5035227")
+		)
+		(instances
+			(project "IOT_LC"
+				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
+					(reference "TP119")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "C0805C104K5RACTU:1990067")
 		(at 397.764 323.596 0)
 		(unit 1)
@@ -38556,7 +38660,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "95e4b597-c0cb-4216-8276-9bcacaa8a5ea")
-		(property "Reference" "C?"
+		(property "Reference" "C108"
 			(at 74.93 25.3999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38807,7 +38911,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C108")
 					(unit 1)
 				)
 			)
