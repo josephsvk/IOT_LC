@@ -1,37 +1,4 @@
-# KiCad local settings
 *.kicad_prl
-
-# KiCad history and backups
-.history/
-*-backups/
-_restore_backup_*/
-_autosave-*
 *.lck
-*.lck~
-
-# KiCad temporary files
-*.tmp
-*.bak
-*~
-
-# Generated Gerber files
-*.gbr
-*.gbrjob
-*.drl
-
-# Generated manufacturing archives
-production/
-*.kicad_pcb.zip
-
-# Generated documentation exports kept locally
-docs/models/
-docs/pdf/*.pdf
-
-# Operating system
-.DS_Store
-Thumbs.db
-.~lock.*#
-
-# Python
-__pycache__/
-*.pyc
+~*
+.history/

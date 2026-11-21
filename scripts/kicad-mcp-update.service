@@ -1,9 +1,0 @@
-[Unit]
-Description=Check for and build KiCAD MCP Server updates
-After=network-online.target
-Wants=network-online.target
-
-[Service]
-Type=oneshot
-Environment=KICAD_MCP_REPO=%h/KiCAD-MCP-Server
-ExecStart=%h/Dokumenty/kicad/IOT_V2/IOT_LC_PROTOTYPE_V2/scripts/update-kicad-mcp.sh

@@ -1,104 +1,15 @@
-# IOT_LC_PROTOTYPE_V2
+# IOT_LC
 
-## Requirements typically met:
+KiCad hardware project for the modular IoT controller.
 
-	- USB Pair > 92.51 ohm Zd
-	- AC insulation using 2 mm cutouts in the board; the rest is 3 mm , OVC III, PD2
-	- Option to install two different 24V power sources
-	- Properly designed GND boards and VIAS , zone minimum width 0.3 mm
-	- The area under the antenna connector has been cleaned
-	-
+## Project files
 
+- `IOT_LC.kicad_pro` — KiCad project settings
+- `IOT_LC.kicad_sch` — schematic
+- `IOT_LC.kicad_pcb` — PCB layout
+- `IOT_LC.kicad_dru` — custom design rules
+- `IOT_LC.csv` — component list
 
+**Status:** Work in progress; not validated for production.
 
-Modular IoT controller — custom PCB hardware project designed in KiCad 10.
-
-**Status:** Work in progress — prototype, not validated for production.
-
-This repository contains the KiCad schematic, PCB layout, design rules, and generated technical documentation.
-
-> **Safety:** The design includes mains-voltage circuitry. It has not been certified or validated for safe mains operation. Do not assume that the published design is safe to manufacture or energize.
-
-## Project Files
-
-- `IOT_LC_PROTOTYPE_V2.kicad_pro` — KiCad project configuration
-- `IOT_LC_PROTOTYPE_V2.kicad_sch` — Main schematic
-- `IOT_LC_PROTOTYPE_V2.kicad_pcb` — PCB layout
-- `IOT_LC_PROTOTYPE_V2.kicad_dru` — Custom design rules
-- `*.kicad_sch` — Hierarchical schematic sheets
-
-## Automation Scripts
-
-### `scripts/export-pdf.sh`
-
-Generates vector PDF documentation and PNG previews for this README.
-
-```bash
-./scripts/export-pdf.sh
-```
-
-Requirements: KiCad CLI 10 and `poppler-utils`.
-
-### `scripts/auto-git.sh`
-
-Automatically commits saved project changes and pushes them to GitHub.
-
-- Runs through a local systemd user timer.
-- Checks for changes approximately every 15 minutes.
-- Respects `.gitignore`.
-- Creates commits only when changes exist.
-- Does not use force push.
-
-The timer is configured locally and is not installed automatically when cloning this repository.
-
-## Documentation
-
-PDF and PNG files in `docs/` are generated from the KiCad source files.
-
-The README displays PNG previews. The linked PDF files provide vector-quality documentation.
-
-## License
-
-No license has been specified. All rights reserved unless a license is added.
-
-<!-- AUTO-DOCS-START -->
-## Schematic documentation
-
-### Complete active hierarchical schematic
-
-**Page 1**
-
-![Complete active hierarchical schematic — page 1](docs/images/schematic-001.png)
-
-## PCB documentation
-
-### PCB front
-
-**Page 1**
-
-![PCB front — page 1](docs/images/pcb-front-001.png)
-
-### PCB back
-
-**Page 1**
-
-![PCB back — page 1](docs/images/pcb-back-001.png)
-
-### PCB layers and 3D views
-
-**Page 1**
-
-![PCB layers and 3D views — page 1](docs/images/pcb-layers-001.png)
-
-**Page 2**
-
-![PCB layers and 3D views — page 2](docs/images/pcb-layers-002.png)
-
-**3D view from above**
-
-![PCB layers and 3D views — 3d view from above](docs/images/pcb-3d-top.png)
-
-**3D view from below**
-
-![PCB layers and 3D views — 3d view from below](docs/images/pcb-3d-bottom.png)
-<!-- AUTO-DOCS-END -->
+**Safety:** The design includes mains voltage. It has not been certified or validated for safe mains operation. Do not assume it is safe to manufacture or energize.
