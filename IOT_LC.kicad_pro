@@ -1123,6 +1123,31 @@
           "name": "Assembly",
           "url": false,
           "visible": false
+        },
+        {
+          "name": "Tolerance",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Dielectric",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Rated Voltage",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Package",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Circuit Function",
+          "url": false,
+          "visible": true
         }
       ],
       "hop_over_size_choice": 0,
