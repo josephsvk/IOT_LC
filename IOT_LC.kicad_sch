@@ -22594,6 +22594,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 359.664 347.726 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "ae0037a8-1b77-42b4-b615-ee7088318055")
 		)
@@ -22846,6 +22857,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 255.27 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
 			(at 255.27 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -23121,6 +23143,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 220.98 217.17 180)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "52655f33-b2f7-4a0c-b7e4-6b65c5cc243c")
 		)
@@ -23158,7 +23191,7 @@
 				)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 505.46 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23377,6 +23410,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 505.46 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1989bd6b-d96a-4022-820d-1636eecb2e73")
 		)
@@ -23457,6 +23501,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 67.056 397.256 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "495f09f7-38a0-4105-9c93-d087a9c390dc")
 		)
@@ -23491,7 +23546,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJPA3F5101V"
+		(property "Value" "5.1 kΩ"
 			(at 324.104 55.118 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23558,6 +23613,17 @@
 		)
 		(property "LCSC Part" "C543366"
 			(at 324.104 41.148 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 324.104 58.928 180)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23813,6 +23879,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 359.664 267.716 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
 			(at 359.664 267.716 0)
 			(hide yes)
 			(show_name no)
@@ -24094,6 +24171,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 332.994 249.936 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e6071a20-90f4-4cca-ae6e-c47be0737239")
 		)
@@ -24175,6 +24263,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 213.614 309.626 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a7416019-8397-4307-8430-102ae8766857")
 		)
@@ -24210,7 +24309,7 @@
 				)
 			)
 		)
-		(property "Value" "ERA-3AEB103V"
+		(property "Value" "10 kΩ"
 			(at 354.584 192.278 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24429,6 +24528,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 354.584 196.088 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9d4b4791-a47c-4b30-91b2-f1ea9f41fae2")
 		)
@@ -24500,6 +24610,17 @@
 		)
 		(property "Description" "test point"
 			(at 155.448 98.298 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 155.448 98.298 270)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24762,6 +24883,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 464.82 274.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e6fe1e11-c16d-4853-b4a7-13e8cd1add83")
 		)
@@ -24842,6 +24974,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 87.376 397.256 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fc9c3887-5138-418f-b4d5-a09984578a39")
 		)
@@ -24877,7 +25020,7 @@
 				)
 			)
 		)
-		(property "Value" "ERA-3AEB103V"
+		(property "Value" "10 kΩ"
 			(at 224.028 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25096,6 +25239,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 224.028 158.242 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6bcef93a-70cb-4f34-a8da-388ec67808be")
 		)
@@ -25166,6 +25320,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 181.61 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
 			(at 181.61 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -25429,6 +25594,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.33 365.252 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "28c21124-b64b-4c44-89e4-5822711f0092")
 		)
@@ -25533,6 +25709,17 @@
 		)
 		(property "LCSC Part" "C3096093"
 			(at 458.47 345.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 458.47 323.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25801,6 +25988,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.584 270.256 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2169585b-d7c5-40d5-9af0-abb91748fff9")
 		)
@@ -25883,6 +26081,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 44.196 371.856 180)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1f7506a3-0596-418a-81b9-dbbe12ec3c4c")
 		)
@@ -25919,7 +26128,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 551.18 203.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25995,6 +26204,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 551.18 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "507b47b7-5658-42d0-be11-7266e4038cfc")
 		)
@@ -26032,7 +26252,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3GEY0R00V"
+		(property "Value" "0 Ω"
 			(at 271.018 168.402 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26099,6 +26319,17 @@
 		)
 		(property "LCSC Part" "C122704"
 			(at 271.018 189.992 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 271.018 172.212 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26188,6 +26419,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 319.024 382.016 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bf22585e-98af-46f5-89bb-82ed2fb077a4")
 		)
@@ -26255,6 +26497,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 56.896 374.396 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
 			(at 56.896 374.396 0)
 			(hide yes)
 			(show_name no)
@@ -26527,6 +26780,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 332.994 302.006 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3d9b5d06-90db-4e3e-9ff7-4acea846a406")
 		)
@@ -26564,7 +26828,7 @@
 				)
 			)
 		)
-		(property "Value" "C0603C104K4RACTU"
+		(property "Value" "100 nF"
 			(at 262.128 131.572 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26631,6 +26895,17 @@
 		)
 		(property "LCSC Part" "C2181816"
 			(at 262.128 153.162 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 262.128 135.382 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26896,6 +27171,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.584 260.096 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d759eed3-2ffb-4dfe-8932-7bdbbdec4e7b")
 		)
@@ -26968,6 +27254,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 67.056 371.856 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
 			(at 67.056 371.856 0)
 			(hide yes)
 			(show_name no)
@@ -27059,6 +27356,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 87.376 385.826 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 87.376 385.826 270)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27314,6 +27622,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 357.124 210.058 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
 			(at 357.124 210.058 0)
 			(hide yes)
 			(show_name no)
@@ -27586,6 +27905,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.584 291.846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8e6c1c18-c24e-4f89-9c1d-7cb5880a2950")
 		)
@@ -27659,6 +27989,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 163.576 371.856 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 163.576 371.856 180)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27924,6 +28265,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 275.59 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b7959966-3671-49e2-a419-e44234aad37d")
 		)
@@ -27961,7 +28313,7 @@
 				)
 			)
 		)
-		(property "Value" "CRCW060360R4FKEA"
+		(property "Value" "60.4 Ω"
 			(at 295.148 153.162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28028,6 +28380,17 @@
 		)
 		(property "LCSC Part" "C844801"
 			(at 295.148 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 295.148 156.972 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28293,6 +28656,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 412.75 195.326 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "99704316-9489-4d56-b480-9bb2b42c587c")
 		)
@@ -28389,6 +28763,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 163.576 385.826 270)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f0a5230a-271f-4c32-8b9e-1dbb9f53b4d0")
 		)
@@ -28427,7 +28812,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ERA-3APB153V"
+		(property "Value" "15 kΩ"
 			(at 244.094 105.9179 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28495,6 +28880,17 @@
 		)
 		(property "LCSC Part" "C2089596"
 			(at 259.334 104.648 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 241.554 104.648 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28729,6 +29125,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 354.584 104.648 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "No footprint"
 			(at 354.584 104.648 0)
 			(hide yes)
 			(show_name no)
@@ -29004,6 +29411,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 332.994 382.016 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dfded4bf-fca1-4e08-9942-a2bfa5cd9103")
 		)
@@ -29269,6 +29687,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 332.994 342.646 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7eb413f2-1fdc-4e17-b3f8-864026c56dd2")
 		)
@@ -29306,7 +29735,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJPA3F5101V"
+		(property "Value" "5.1 kΩ"
 			(at 240.284 47.498 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29382,6 +29811,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 240.284 51.308 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5952cdc2-26a6-4423-b684-570e61aadc07")
 		)
@@ -29419,7 +29859,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3GEY0R00V"
+		(property "Value" "0 Ω"
 			(at 271.018 143.002 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29486,6 +29926,17 @@
 		)
 		(property "LCSC Part" "C122704"
 			(at 271.018 164.592 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 271.018 146.812 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29577,6 +30028,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 112.776 371.856 180)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "44c42e73-8c62-4de8-8f28-8f13729bacb9")
 		)
@@ -29657,6 +30119,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 130.048 98.298 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8d4ca34e-1ca1-474e-b342-23e43465606f")
 		)
@@ -29691,7 +30164,7 @@
 				)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 504.19 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29900,6 +30373,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 504.19 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
 			(at 504.19 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -30135,6 +30619,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 344.424 215.138 180)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "99fb6873-3cbd-49ab-bed7-d8e6ec0d02ac")
 		)
@@ -30203,6 +30698,17 @@
 		)
 		(property "Description" "test point"
 			(at 155.448 95.758 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 155.448 95.758 270)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30463,6 +30969,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 499.11 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "856de07d-c385-45df-9e5b-3eeead4792ee")
 		)
@@ -30584,6 +31101,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 141.732 287.528 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "b24580fb-130e-49ca-8879-4c9922a88b98")
 		)
@@ -30671,6 +31199,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 44.196 385.826 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 44.196 385.826 270)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30784,6 +31323,17 @@
 		)
 		(property "LCSC Part" "C7095263"
 			(at 282.194 23.368 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 282.194 56.388 180)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30928,6 +31478,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 136.906 385.826 270)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "01bcbc55-ebdb-4036-a2b2-a7fb7d9c0663")
 		)
@@ -30998,6 +31559,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 181.61 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
 			(at 181.61 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -31085,6 +31657,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 112.776 397.256 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9c77cc9b-5023-4baa-bb57-a0f5d3dec0e9")
 		)
@@ -31119,7 +31702,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF22R0V"
+		(property "Value" "22 Ω"
 			(at 346.964 28.448 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31195,6 +31778,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 346.964 32.258 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "78424700-4e10-4b4f-8d39-4088dea63bfc")
 		)
@@ -31232,7 +31826,7 @@
 				)
 			)
 		)
-		(property "Value" "CC1206KKX7R8BB105"
+		(property "Value" "1 µF"
 			(at 538.48 237.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31451,6 +32045,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 538.48 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6d99dc16-99e9-4472-b656-f5e8051991ea")
 		)
@@ -31488,7 +32093,7 @@
 				)
 			)
 		)
-		(property "Value" "CRCW060360R4FKEA"
+		(property "Value" "60.4 Ω"
 			(at 272.288 153.162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31555,6 +32160,17 @@
 		)
 		(property "LCSC Part" "C844801"
 			(at 272.288 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 272.288 156.972 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31945,6 +32561,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 495.3 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "13"
 			(uuid "c95b251e-de6d-42f3-9a8c-ad6302faf8fb")
 		)
@@ -32061,7 +32688,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SMBJ26CA_C83332"
+		(property "Value" "SMBJ26CA"
 			(at 382.524 268.9859 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32129,6 +32756,17 @@
 		)
 		(property "LCSC Part" "C83332"
 			(at 397.764 267.716 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 379.984 267.716 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32370,6 +33008,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 499.11 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ce56df65-55f5-44d3-8adf-9d8928e1e9f2")
 		)
@@ -32413,7 +33062,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "CC0805JKX7R9BB105"
+		(property "Value" "1 µF"
 			(at 518.16 289.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32633,6 +33282,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 514.35 288.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "46cd9816-b439-4aef-88c9-8d1b1a67394e")
 		)
@@ -32737,6 +33397,17 @@
 		)
 		(property "LCSC Part" "C5215922"
 			(at 245.618 179.832 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 245.618 158.242 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33020,6 +33691,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.33 375.412 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b9316d46-0ca5-483a-9e1e-4dfdd5dd3fe8")
 		)
@@ -33268,6 +33950,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 397.764 323.596 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
 			(at 397.764 323.596 0)
 			(hide yes)
 			(show_name no)
@@ -33561,6 +34254,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 332.994 289.306 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cbcf14b7-3edd-413f-9bd6-2a4c514e5936")
 		)
@@ -33817,6 +34521,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.33 355.092 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "51db73f1-8798-41b2-af0d-dcf93c1a3221")
 		)
@@ -33855,7 +34570,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SMBJ26CA_C83332"
+		(property "Value" "SMBJ26CA"
 			(at 382.524 308.3559 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33932,6 +34647,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 379.984 307.086 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "aaa5aba4-6f00-4452-a381-fc87fd83b116")
 		)
@@ -33969,7 +34695,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 551.18 213.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34045,6 +34771,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 551.18 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2704e4a2-30a0-4ee6-818c-ac94da4665db")
 		)
@@ -34082,7 +34819,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ3EKF1542V"
+		(property "Value" "15.4 kΩ"
 			(at 466.09 233.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34301,6 +35038,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 466.09 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3e7886ef-6199-4931-88cf-5c9121fbdbf1")
 		)
@@ -34338,7 +35086,7 @@
 				)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 482.6 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34557,6 +35305,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 482.6 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7a61d8a1-0e8e-4fa7-8890-a2a2148d0cd5")
 		)
@@ -34628,6 +35387,17 @@
 		)
 		(property "Description" "test point"
 			(at 319.024 262.636 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 319.024 262.636 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34899,6 +35669,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 332.994 369.316 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fbb4d1d0-3f31-4786-a8fb-dcaaeebafa79")
 		)
@@ -34936,7 +35717,7 @@
 				)
 			)
 		)
-		(property "Value" "FCC0603B105K160CT"
+		(property "Value" "1 µF"
 			(at 147.828 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35155,6 +35936,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 151.638 51.308 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7e6e64b7-5f67-45a8-be91-9f8144bec575")
 		)
@@ -35234,6 +36026,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 212.344 280.416 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "107c8e8a-663a-4b93-a177-fec35d89a93a")
 		)
@@ -35270,7 +36073,7 @@
 				)
 			)
 		)
-		(property "Value" "test"
+		(property "Value" "10 kΩ"
 			(at 412.75 206.756 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35489,6 +36292,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 412.75 210.566 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "48ad0893-94bd-45e0-95bc-f8b09c3b1ab7")
 		)
@@ -35526,7 +36340,7 @@
 				)
 			)
 		)
-		(property "Value" "AC0805FR-7W2K2L"
+		(property "Value" "2.2 kΩ"
 			(at 386.08 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35593,6 +36407,17 @@
 		)
 		(property "LCSC Part" "C5545398"
 			(at 386.08 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 386.08 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35673,6 +36498,17 @@
 		)
 		(property "Description" "test point"
 			(at 319.024 302.006 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 319.024 302.006 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35925,6 +36761,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 227.33 333.502 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
 			(at 227.33 333.502 0)
 			(hide yes)
 			(show_name no)
@@ -36191,6 +37038,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.584 280.416 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d955983a-77ba-44aa-9f03-4bdf86a9a710")
 		)
@@ -36295,6 +37153,17 @@
 		)
 		(property "LCSC Part" "C5908768"
 			(at 143.002 257.048 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 143.002 227.838 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36614,6 +37483,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.33 343.662 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e556fb65-8c7a-4547-9142-cdf2a501d757")
 		)
@@ -36879,6 +37759,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 332.994 262.636 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0eda7215-5823-4039-9d63-aae13fb5e40f")
 		)
@@ -36916,7 +37807,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF22R0V"
+		(property "Value" "22 Ω"
 			(at 349.504 95.758 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36992,6 +37883,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 349.504 99.568 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "787166b7-f4f6-49f6-9b1b-c6c33e9d36cc")
 		)
@@ -37029,7 +37931,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 551.18 180.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37096,6 +37998,17 @@
 		)
 		(property "LCSC Part" "C21397"
 			(at 551.18 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 551.18 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37185,6 +38098,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 130.048 93.218 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5af501c4-08b3-455b-bbd4-0f5b15584b98")
 		)
@@ -37220,7 +38144,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SMBJ26CA_C83332"
+		(property "Value" "SMBJ26CA"
 			(at 382.524 388.3659 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37288,6 +38212,17 @@
 		)
 		(property "LCSC Part" "C83332"
 			(at 397.764 387.096 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 379.984 387.096 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37368,6 +38303,17 @@
 		)
 		(property "Description" "test point"
 			(at 319.024 342.646 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 319.024 342.646 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37487,6 +38433,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 143.002 263.398 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "13"
 			(uuid "90b75c03-37f8-4e9c-a71f-efd9f693862c")
 		)
@@ -37579,7 +38536,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C1206C105K5RACTU"
+		(property "Value" "1 µF"
 			(at 403.098 218.694 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37799,6 +38756,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 412.75 215.646 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "edff8eda-415f-44d6-af03-2bf4723fd79d")
 		)
@@ -37836,7 +38804,7 @@
 				)
 			)
 		)
-		(property "Value" "C0603C104K4RACTU"
+		(property "Value" "100 nF"
 			(at 159.258 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38046,6 +39014,17 @@
 		)
 		(property "Voltage" ""
 			(at 163.068 51.308 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 163.068 51.308 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38311,6 +39290,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.584 312.166 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d44d9c16-c3cf-45c0-831f-cbc5d22bc1c0")
 		)
@@ -38416,6 +39406,17 @@
 		)
 		(property "LCSC Part" "C844869"
 			(at 431.8 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 414.02 58.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38690,6 +39691,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 332.994 329.946 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7107a69e-00d1-4b97-8e54-ef55858884c9")
 		)
@@ -38771,6 +39783,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 204.724 375.666 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "171a09ea-1905-41ef-842b-dbb3d1d42da6")
 		)
@@ -38805,7 +39828,7 @@
 				)
 			)
 		)
-		(property "Value" "NXH50VB100M8*11.5_LO"
+		(property "Value" "100 µF, 50 V"
 			(at 466.725 177.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38872,6 +39895,17 @@
 		)
 		(property "LCSC Part" "C371282"
 			(at 444.5 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 467.36 182.88 270)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39139,6 +40173,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 270.51 200.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "12adfdfc-ec41-4e3c-8ccd-b90404254cdd")
 		)
@@ -39176,7 +40221,7 @@
 				)
 			)
 		)
-		(property "Value" "12105C106KAT2A"
+		(property "Value" "10 µF"
 			(at 482.6 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39395,6 +40440,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 482.6 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "340ea489-0c91-49df-96da-503ab9380ae3")
 		)
@@ -39432,7 +40488,7 @@
 				)
 			)
 		)
-		(property "Value" "CC1206KKX7R8BB105"
+		(property "Value" "1 µF"
 			(at 551.18 198.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39651,6 +40707,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 551.18 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "18d01324-fb1f-4eee-bb15-a67eb2e3cfab")
 		)
@@ -39755,6 +40822,17 @@
 		)
 		(property "LCSC Part" "C151296"
 			(at 240.284 66.548 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 240.284 84.328 180)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40012,6 +41090,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 302.26 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
 			(at 302.26 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -40281,6 +41370,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 359.664 307.086 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "4e6e8f23-70d9-4bdf-ab5b-1b8835ca0616")
 		)
@@ -40358,6 +41458,17 @@
 		)
 		(property "Description" "test point"
 			(at 136.906 397.256 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 136.906 397.256 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40580,6 +41691,17 @@
 		)
 		(property "Voltage" ""
 			(at 91.44 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 91.44 123.19 180)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40842,6 +41964,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 359.664 387.096 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "36ba0c33-1623-4eef-b164-8841c0fc1f20")
 		)
@@ -41083,6 +42216,17 @@
 				)
 			)
 		)
+		(property "Mounting" "No footprint"
+			(at 352.044 37.338 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "50b2ea5a-f8ae-416d-96d1-355284dbe44d")
 		)
@@ -41164,6 +42308,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 112.776 385.826 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 112.776 385.826 270)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41286,6 +42441,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 314.198 159.512 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "9b548687-6398-438c-91bf-9054f55ef51d")
 		)
@@ -41371,6 +42537,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 87.376 371.856 180)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1d3ce16f-3362-417f-be4e-b26ccbe02cf9")
 		)
@@ -41408,7 +42585,7 @@
 				)
 			)
 		)
-		(property "Value" "GRM32ER71E226KE15L"
+		(property "Value" "22 µF"
 			(at 551.18 168.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41484,6 +42661,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 551.18 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0d4c74b3-6bbf-41d3-8e84-4849738504ee")
 		)
@@ -41521,7 +42709,7 @@
 				)
 			)
 		)
-		(property "Value" "C2012X7R1A106K125AC"
+		(property "Value" "10 µF"
 			(at 136.398 50.038 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41740,6 +42928,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 140.208 50.038 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6de08964-a01d-4ab2-b132-4ca04a400edd")
 		)
@@ -41777,7 +42976,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ3EKF1202V"
+		(property "Value" "12 kΩ"
 			(at 235.204 94.488 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41853,6 +43052,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 235.204 98.298 180)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1cb5aed5-fa63-4c49-a9c6-07ac2ecb125a")
 		)
@@ -41890,7 +43100,7 @@
 				)
 			)
 		)
-		(property "Value" "CC0603KRX7R9BB472"
+		(property "Value" "4.7 nF"
 			(at 296.418 136.652 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41968,6 +43178,17 @@
 		)
 		(property "label" ""
 			(at 296.418 140.462 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 296.418 140.462 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -42234,6 +43455,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 274.32 313.182 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "98cef6ed-58b4-4503-a974-3b666b494124")
 		)
@@ -42365,6 +43597,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 447.04 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "d5ef500a-9693-4d75-b596-7a906c1f0570")
 		)
@@ -42438,6 +43681,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 102.616 373.126 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
 			(at 102.616 373.126 0)
 			(hide yes)
 			(show_name no)
@@ -42525,6 +43779,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 96.52 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a5de91f4-247f-44f5-9af2-22961cb24743")
 		)
@@ -42593,6 +43858,17 @@
 		)
 		(property "Description" "test point"
 			(at 130.048 95.758 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 130.048 95.758 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42845,6 +44121,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 287.274 102.108 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
 			(at 287.274 102.108 0)
 			(hide yes)
 			(show_name no)
@@ -43116,6 +44403,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 469.9 288.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6574c01e-6715-41e3-a8a4-fb149d7e0284")
 		)
@@ -43154,7 +44452,7 @@
 				)
 			)
 		)
-		(property "Value" "CC1206KKX7R8BB105"
+		(property "Value" "1 µF"
 			(at 551.18 231.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43373,6 +44671,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 551.18 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a20db437-360a-4ced-b384-fbec21960f88")
 		)
@@ -43455,6 +44764,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 136.906 371.856 180)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a509fb72-3df8-4593-a0d1-84e8fb602497")
 		)
@@ -43492,7 +44812,7 @@
 				)
 			)
 		)
-		(property "Value" "AC0805FR-7W2K2L"
+		(property "Value" "2.2 kΩ"
 			(at 386.08 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43559,6 +44879,17 @@
 		)
 		(property "LCSC Part" "C5545398"
 			(at 386.08 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 386.08 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43639,6 +44970,17 @@
 		)
 		(property "Description" "test point"
 			(at 116.84 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 116.84 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43901,6 +45243,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 227.584 302.006 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9f4490eb-920c-414e-8343-64c9946d9842")
 		)
@@ -43972,6 +45325,17 @@
 		)
 		(property "Description" "test point"
 			(at 163.576 397.256 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 163.576 397.256 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44236,6 +45600,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 514.35 276.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "73009750-926f-44ea-9c98-be7e4841afb4")
 		)
@@ -44273,7 +45648,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-3EKF1002V"
+		(property "Value" "10 kΩ"
 			(at 452.12 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44482,6 +45857,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 452.12 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
 			(at 452.12 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -44748,6 +46134,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 140.97 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "19"
 			(uuid "63c42eab-c48d-40dd-ad6a-7a9e136bf5f9")
 		)
@@ -44945,6 +46342,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 208.534 343.916 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8a93ddf4-19e9-4217-bb0b-03e201a14f67")
 		)
@@ -44980,7 +46388,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1 nF"
+		(property "Value" "1 nF, 250 V AC (X1/Y1)"
 			(at 410.464 26.924 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45048,6 +46456,17 @@
 		)
 		(property "LCSC Part" "C373381"
 			(at 391.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 408.94 58.42 270)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45147,6 +46566,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 67.056 385.826 270)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dac68cc2-2b33-4810-ac61-40d63ae4a0d3")
 		)
@@ -45185,7 +46615,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SMBJ26CA_C83332"
+		(property "Value" "SMBJ26CA"
 			(at 382.524 348.9959 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45253,6 +46683,17 @@
 		)
 		(property "LCSC Part" "C83332"
 			(at 397.764 347.726 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 379.984 347.726 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45333,6 +46774,17 @@
 		)
 		(property "Description" "test point"
 			(at 40.386 397.256 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "THT"
+			(at 40.386 397.256 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45585,6 +47037,17 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 227.33 323.342 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
 			(at 227.33 323.342 0)
 			(hide yes)
 			(show_name no)
