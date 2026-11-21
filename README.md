@@ -43,23 +43,11 @@ KiCad hardware project for the modular IoT controller.
 
 [View vector PDF](docs/pdf/pcb-back.pdf)
 
-### Individual PCB layers
+### 3D render — pohľad zhora
 
-**Page 1**
+![PCB 3D render from top, with F.SilkS](docs/images/pcb-3d-top.png)
 
-![Individual PCB layers — page 1](docs/images/pcb-layers-001.png)
+### 3D render — pohľad zdola
 
-**Page 2**
-
-![Individual PCB layers — page 2](docs/images/pcb-layers-002.png)
-
-**Page 3**
-
-![Individual PCB layers — page 3](docs/images/pcb-layers-003.png)
-
-**Page 4**
-
-![Individual PCB layers — page 4](docs/images/pcb-layers-004.png)
-
-[View vector PDF](docs/pdf/pcb-layers.pdf)
+![PCB 3D render from bottom, with B.SilkS](docs/images/pcb-3d-bottom.png)
 <!-- AUTO-DOCS-END -->
