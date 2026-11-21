@@ -45,9 +45,9 @@ KiCad hardware project for the modular IoT controller.
 
 ### 3D render — pohľad zhora
 
-![PCB 3D render from top, with F.SilkS](docs/images/pcb-3d-top.png)
+![PCB 3D render from top with green solder mask, visible copper traces, and F.SilkS](docs/images/pcb-3d-top.png)
 
 ### 3D render — pohľad zdola
 
-![PCB 3D render from bottom, with B.SilkS](docs/images/pcb-3d-bottom.png)
+![PCB 3D render from bottom with green solder mask, visible copper traces, and B.SilkS](docs/images/pcb-3d-bottom.png)
 <!-- AUTO-DOCS-END -->
