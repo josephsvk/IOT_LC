@@ -1,4 +1,38 @@
+# KiCad local state and history
 *.kicad_prl
 *.lck
 ~*
 .history/
+*-backups/
+*.kicad-automation.conf
+.kicad-automation.conf
+
+# Temporary and editor files
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated manufacturing and documentation outputs
+/production/
+*.gbr
+*.gbrjob
+*.drl
+*.pos
+*.dxf
+*.kicad_pcb.zip
+/docs/pdf/
+/docs/models/
+
+# Local automation sources and installed automation package
+/scripts/
+/automation/
+/kicad-auto-installer/
+*.service
+*.timer
