@@ -29453,8 +29453,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45af73b1-b03e-4f13-b761-358aca22d981")
-		(property "Reference" "U403"
-			(at 244.094 103.3779 90)
+		(property "Reference" "R127"
+			(at 243.84 103.3779 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29465,7 +29465,7 @@
 			)
 		)
 		(property "Value" "15 kΩ"
-			(at 244.094 105.9179 90)
+			(at 243.84 105.9179 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29561,7 +29561,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "U403")
+					(reference "R127")
 					(unit 1)
 				)
 			)
