@@ -25626,10 +25626,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2128d89d-b861-4184-824a-18327716f4dc")
 		(property "Reference" "DC1"
@@ -25719,6 +25719,17 @@
 			)
 		)
 		(property "Mounting" "THT"
+			(at 458.47 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pole bez názvu" ""
 			(at 458.47 323.85 0)
 			(hide yes)
 			(show_name no)
