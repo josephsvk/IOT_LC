@@ -35065,7 +35065,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "64089d4c-14fc-498a-8261-0bd1ad50cd0a")
-		(property "Reference" "L?"
+		(property "Reference" "L101"
 			(at 530.606 199.898 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35236,7 +35236,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "L?")
+					(reference "L101")
 					(unit 1)
 				)
 			)
@@ -47471,7 +47471,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc7d0525-9f30-4d9b-b306-1b8649fc8c75")
-		(property "Reference" "L?"
+		(property "Reference" "L102"
 			(at 533.654 143.764 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47566,7 +47566,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "L?")
+					(reference "L102")
 					(unit 1)
 				)
 			)
