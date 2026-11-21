@@ -2380,184 +2380,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:L"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "L"
-				(at -1.27 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "L"
-				(at 1.905 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Inductor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "inductor choke coil reactor magnetic"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "L_0_1"
-				(arc
-					(start 0 2.54)
-					(mid 0.6323 1.905)
-					(end 0 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 1.27)
-					(mid 0.6323 0.635)
-					(end 0 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 0)
-					(mid 0.6323 -0.635)
-					(end 0 -1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -1.27)
-					(mid 0.6323 -1.905)
-					(end 0 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "L_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:LED"
 			(pin_numbers
 				(hide yes)
@@ -4283,6 +4105,186 @@
 				(pin unspecified line
 					(at 5.08 0 180)
 					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "EasyEDA:APH0550C-5R6M-TCD5"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "L"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "APH0550C-5R6M-TCD5"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "EasyEDA:IND-SMD_L5.5-W5.3_APS0550M"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C54123766.pdf"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "APV(爱普微)"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "APH0550C-5R6M-TCD5"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C54123766"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "APH0550C-5R6M-TCD5_0_1"
+				(arc
+					(start -4.06 0.01)
+					(mid -3.035 1.0102)
+					(end -2.03 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.03 0.01)
+					(mid -1.005 1.0102)
+					(end 0 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0.01)
+					(mid 1.0249 1.0101)
+					(end 2.03 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.03 0.01)
+					(mid 3.0549 1.0101)
+					(end 4.06 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 1.27)
 					(name "2"
 						(effects
 							(font
@@ -8786,6 +8788,186 @@
 				(pin unspecified line
 					(at 5.08 0 180)
 					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "EasyEDA:FSA0630-6R8MT"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "L"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "FSA0630-6R8MT"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "EasyEDA:IND-SMD_L7.0-W6.6_CMKD-0630A"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C41384282.pdf"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Magnetsyc(元磁)"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "FSA0630-6R8MT"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C41384282"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "FSA0630-6R8MT_0_1"
+				(arc
+					(start -4.06 0.01)
+					(mid -3.035 1.0102)
+					(end -2.03 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.03 0.01)
+					(mid -1.005 1.0102)
+					(end 0 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0.01)
+					(mid 1.0249 1.0101)
+					(end 2.03 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.03 0.01)
+					(mid 3.0549 1.0101)
+					(end 4.06 -0.01)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 1.27)
 					(name "2"
 						(effects
 							(font
@@ -14410,6 +14592,12 @@
 		(uuid "7f4c114e-d7a7-4c1b-b2ee-e7ad381ff28e")
 	)
 	(junction
+		(at 538.48 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "807d6550-e9d0-4a1e-b8ed-f264ccf5a3a1")
+	)
+	(junction
 		(at 379.984 312.166)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14630,6 +14818,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db612730-10cc-4515-bb52-f38eea902916")
+	)
+	(junction
+		(at 535.94 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dcdb6d7d-63ac-4593-a2a7-73654213b120")
 	)
 	(junction
 		(at 509.27 294.64)
@@ -15133,7 +15327,7 @@
 	)
 	(wire
 		(pts
-			(xy 534.67 198.12) (xy 539.75 198.12)
+			(xy 534.67 198.12) (xy 535.94 198.12)
 		)
 		(stroke
 			(width 0)
@@ -16083,7 +16277,7 @@
 	)
 	(wire
 		(pts
-			(xy 537.21 142.24) (xy 542.29 142.24)
+			(xy 537.21 142.24) (xy 538.48 142.24)
 		)
 		(stroke
 			(width 0)
@@ -16390,6 +16584,16 @@
 			(type default)
 		)
 		(uuid "66f11c1e-d3ec-4b5f-84d5-1a63f9f2770b")
+	)
+	(wire
+		(pts
+			(xy 538.48 142.24) (xy 542.29 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "676c26eb-2b5d-4380-90f7-1e51703db010")
 	)
 	(wire
 		(pts
@@ -18670,6 +18874,16 @@
 			(type default)
 		)
 		(uuid "f8ea106d-1933-429c-b1d6-f9e6cc840480")
+	)
+	(wire
+		(pts
+			(xy 535.94 198.12) (xy 539.75 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9587ae5-7aa0-409a-86cf-8aa3b50a9a84")
 	)
 	(wire
 		(pts
@@ -28095,7 +28309,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "244c90dd-7c39-4cb6-9214-4d2f64cbeb56")
-		(property "Reference" "U?"
+		(property "Reference" "U110"
 			(at 509.27 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28202,7 +28416,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "U?")
+					(reference "U110")
 					(unit 1)
 				)
 			)
@@ -29586,164 +29800,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:L")
-		(at 530.86 198.12 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3154bea8-3b19-4ee8-b38b-2427e8eefc62")
-		(property "Reference" "L?"
-			(at 528.574 200.66 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5.6uH"
-			(at 537.718 200.66 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 530.86 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 530.86 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Inductor"
-			(at 530.86 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting" ""
-			(at 530.86 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Assembly" ""
-			(at 530.86 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" "Irms ≥ 4 A, Isat ≥ 5 A"
-			(at 530.86 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Dielectric" ""
-			(at 530.86 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Voltage" ""
-			(at 530.86 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" ""
-			(at 530.86 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Circuit Function" "POWER_INDUCTOR"
-			(at 534.924 203.708 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "150608ae-2b22-4661-9dfa-f8f5804f3820")
-		)
-		(pin "1"
-			(uuid "0f0b4364-774c-4611-a6d8-7adbc0892348")
-		)
-		(instances
-			(project "IOT_LC"
-				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "L?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "EasyEDA:1825027-5")
 		(at 357.124 210.058 0)
 		(unit 1)
@@ -30491,7 +30547,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "376ba481-c4ee-4724-b39c-cbca3b73ed03")
-		(property "Reference" "C?"
+		(property "Reference" "C113"
 			(at 482.6 196.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30631,7 +30687,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C113")
 					(unit 1)
 				)
 			)
@@ -31312,7 +31368,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e706d7d-9877-4262-ab80-b3882c8c3f01")
-		(property "Reference" "C?"
+		(property "Reference" "C117"
 			(at 557.53 212.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31452,7 +31508,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C117")
 					(unit 1)
 				)
 			)
@@ -34285,7 +34341,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f7c14aa-6e71-4a32-8b60-5ee0c30e5b2a")
-		(property "Reference" "R?"
+		(property "Reference" "R130"
 			(at 544.83 148.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34425,7 +34481,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "R?")
+					(reference "R130")
 					(unit 1)
 				)
 			)
@@ -34514,164 +34570,6 @@
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "TP404")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L")
-		(at 533.4 142.24 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "612d2e63-87b9-406c-8468-ad1e9d1f6a09")
-		(property "Reference" "L?"
-			(at 531.114 144.78 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "6,8 µH"
-			(at 540.258 144.78 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 533.4 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 533.4 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Inductor"
-			(at 533.4 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting" ""
-			(at 533.4 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Assembly" ""
-			(at 533.4 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" "Irms ≥ 4 A, Isat ≥ 5 A"
-			(at 533.4 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Dielectric" ""
-			(at 533.4 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Rated Voltage" ""
-			(at 533.4 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" ""
-			(at 533.4 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Circuit Function" "POWER_INDUCTOR"
-			(at 537.464 147.828 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e25e2cea-8334-4e87-b1d4-f6b62f882283")
-		)
-		(pin "1"
-			(uuid "f43f0e80-2fe8-4435-90f4-e0ce0e9faebb")
-		)
-		(instances
-			(project "IOT_LC"
-				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "L?")
 					(unit 1)
 				)
 			)
@@ -35151,6 +35049,194 @@
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
 					(reference "C311")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EasyEDA:APH0550C-5R6M-TCD5")
+		(at 530.86 198.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "64089d4c-14fc-498a-8261-0bd1ad50cd0a")
+		(property "Reference" "L?"
+			(at 530.606 199.898 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5,6 µH"
+			(at 531.622 202.438 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "EasyEDA:IND-SMD_L5.5-W5.3_APS0550M"
+			(at 530.86 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C54123766.pdf"
+			(at 530.86 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 530.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "APV(爱普微)"
+			(at 530.86 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "APH0550C-5R6M-TCD5"
+			(at 530.86 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C54123766"
+			(at 530.86 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" ""
+			(at 530.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" ""
+			(at 530.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 530.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" ""
+			(at 530.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Voltage" ""
+			(at 530.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 530.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Circuit Function" ""
+			(at 530.86 198.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2d83093a-bfbd-419d-b587-c51ccf3e7886")
+		)
+		(pin "1"
+			(uuid "a99e374a-df76-4f46-b7da-bdf979dbb017")
+		)
+		(instances
+			(project "IOT_LC"
+				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
+					(reference "L?")
 					(unit 1)
 				)
 			)
@@ -37464,7 +37550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "743c0856-8b74-44a1-8421-64c4daa69759")
-		(property "Reference" "C?"
+		(property "Reference" "C110"
 			(at 458.47 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37604,7 +37690,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C110")
 					(unit 1)
 				)
 			)
@@ -37888,7 +37974,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "75d244c4-c25c-4541-8dc6-ef901428666e")
-		(property "Reference" "C?"
+		(property "Reference" "C116"
 			(at 532.13 133.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38028,7 +38114,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C116")
 					(unit 1)
 				)
 			)
@@ -43608,7 +43694,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa2d085e-1382-43eb-aee5-81e8d09cb9fe")
-		(property "Reference" "C?"
+		(property "Reference" "C111"
 			(at 468.63 196.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43748,7 +43834,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C111")
 					(unit 1)
 				)
 			)
@@ -46305,7 +46391,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b56914db-860b-4358-8f59-3aff588ff695")
-		(property "Reference" "C?"
+		(property "Reference" "C118"
 			(at 560.07 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46445,7 +46531,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C118")
 					(unit 1)
 				)
 			)
@@ -46555,7 +46641,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b648e4f7-5378-40ee-9155-b362d249c5a1")
-		(property "Reference" "R?"
+		(property "Reference" "R131"
 			(at 544.83 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46695,7 +46781,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "R?")
+					(reference "R131")
 					(unit 1)
 				)
 			)
@@ -46712,7 +46798,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b752b33d-9633-41b7-9450-96b482f3c4bb")
-		(property "Reference" "R?"
+		(property "Reference" "R128"
 			(at 542.29 204.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46852,7 +46938,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "R?")
+					(reference "R128")
 					(unit 1)
 				)
 			)
@@ -46994,7 +47080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba6ba0a0-6f06-4812-a91e-dec1e2eb9e2a")
-		(property "Reference" "U?"
+		(property "Reference" "U109"
 			(at 506.73 186.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47101,7 +47187,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "U?")
+					(reference "U109")
 					(unit 1)
 				)
 			)
@@ -47375,6 +47461,118 @@
 		)
 	)
 	(symbol
+		(lib_id "EasyEDA:FSA0630-6R8MT")
+		(at 533.4 142.24 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bc7d0525-9f30-4d9b-b306-1b8649fc8c75")
+		(property "Reference" "L?"
+			(at 533.654 143.764 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "6,8 µH"
+			(at 533.4 145.542 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "EasyEDA:IND-SMD_L7.0-W6.6_CMKD-0630A"
+			(at 533.4 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41384282.pdf"
+			(at 533.4 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 533.4 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Magnetsyc(元磁)"
+			(at 533.4 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "FSA0630-6R8MT"
+			(at 533.4 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C41384282"
+			(at 533.4 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4d3d5d77-9d72-48d9-aa7c-5839cd976cd3")
+		)
+		(pin "1"
+			(uuid "cad34741-1d65-46c4-be99-59b645ba26a5")
+		)
+		(instances
+			(project "IOT_LC"
+				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
+					(reference "L?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 467.36 142.24 0)
 		(unit 1)
@@ -47385,7 +47583,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bcde3ed5-fc60-47b4-aea1-cda35d6b4146")
-		(property "Reference" "C?"
+		(property "Reference" "C112"
 			(at 471.17 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47525,7 +47723,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C112")
 					(unit 1)
 				)
 			)
@@ -47542,7 +47740,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "be53ae39-03e0-4761-806b-7997e2fef905")
-		(property "Reference" "C?"
+		(property "Reference" "C109"
 			(at 455.93 196.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47682,7 +47880,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C109")
 					(unit 1)
 				)
 			)
@@ -50638,7 +50836,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec8ebeba-45b0-4bd4-9c56-4b1fc1160200")
-		(property "Reference" "R?"
+		(property "Reference" "R129"
 			(at 542.29 214.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50778,7 +50976,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "R?")
+					(reference "R129")
 					(unit 1)
 				)
 			)
@@ -51179,7 +51377,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed4406fb-2475-4c95-9285-f306d50974e9")
-		(property "Reference" "C?"
+		(property "Reference" "C115"
 			(at 529.59 189.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51191,7 +51389,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 529.59 191.7699 0)
+			(at 529.59 191.516 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -51319,7 +51517,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C115")
 					(unit 1)
 				)
 			)
@@ -51651,7 +51849,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5d59605-6ddb-4aba-b0f2-39113b8d21c6")
-		(property "Reference" "C?"
+		(property "Reference" "C114"
 			(at 485.14 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51791,7 +51989,7 @@
 		(instances
 			(project "IOT_LC"
 				(path "/59331ef0-31b4-4adf-874b-2f71b754f421"
-					(reference "C?")
+					(reference "C114")
 					(unit 1)
 				)
 			)
@@ -52392,27 +52590,26 @@
 			"499dd3fb-4055-4c3b-9bcb-dacbd9ed3091" "4ba35866-024d-45e8-bc60-34055fb88ba3"
 			"4d6c75ee-d1db-4ea2-80d9-53122290e731" "50afdcb9-d3d0-44f7-b37f-c9a1f94aa873"
 			"57232cef-adca-4cb8-9bbc-568d72f070bc" "5f7c14aa-6e71-4a32-8b60-5ee0c30e5b2a"
-			"612d2e63-87b9-406c-8468-ad1e9d1f6a09" "66f11c1e-d3ec-4b5f-84d5-1a63f9f2770b"
-			"743c0856-8b74-44a1-8421-64c4daa69759" "75d244c4-c25c-4541-8dc6-ef901428666e"
-			"76322db3-e55c-473c-af8a-676589330726" "79bf5315-9871-492f-bf49-2cd00017e752"
-			"84e83174-8896-4c5e-b17a-7f23e2497560" "85aecc78-79cd-4bbb-bc88-5ac5306c7899"
-			"8d933b8d-41b2-4008-a24e-f95063244d70" "90a44b6d-afb2-4090-be48-728d47199b8b"
-			"93740d32-d78c-435f-b94b-e9d4f6ff63fc" "9e171b65-6b8b-425a-bfb5-4565be18103a"
-			"9f016363-017e-4ccd-940f-6d3e71e030a8" "a2300748-193d-425e-b149-44891922faab"
-			"a30cf87c-3716-4104-8377-9f7734dcab37" "ae5f9055-b1e2-4cc5-9292-1f3de852cd55"
-			"af87c1d2-5a6b-47bb-883a-3bf82de40e8b" "b56914db-860b-4358-8f59-3aff588ff695"
-			"b5edcd0e-bdaf-4a70-bc31-20c4e75f5780" "b648e4f7-5378-40ee-9155-b362d249c5a1"
-			"b6a90eef-decd-434a-8c5b-a9a99890835f" "b7d5358a-5708-4152-ac09-b3ac2066c693"
-			"b82c0f16-3858-4379-ada2-1f4ea8d70105" "bcde3ed5-fc60-47b4-aea1-cda35d6b4146"
-			"c3ee1156-8a2a-4fa1-8238-5bbc0486ab40" "c4940e4a-750c-40ac-82f9-0408b2d78615"
-			"ce5bd5b5-df7f-43a4-9adc-b3d29f032ef5" "cf5bb4aa-046c-44e4-9580-33e61fcaa707"
-			"d0f8bbf8-7156-400c-95c7-2d21298fe98b" "d4db9420-67a6-435a-9521-a9fc6da968bc"
-			"d69c25b6-f1d0-457d-9364-34d0f0320c1d" "daf09e31-3e5a-4afa-bd3f-72f6661a6e94"
-			"dc3408f3-6f2c-495d-b02a-3aa1b8569f49" "e0bb910c-21de-4909-ad9a-2c44c694aa81"
-			"e6e57e21-f3a4-4e5f-8c6d-0e0417d7b0d9" "e7feb826-2206-4965-a9be-f97e93a328ed"
-			"f5d59605-6ddb-4aba-b0f2-39113b8d21c6" "f8001f90-1aa4-4baf-9d3c-3472aa3b5b87"
-			"fd476e9b-04c7-4f0f-af74-b55f42296a85" "ff0f078f-b196-4a5a-8882-17af2e2678b1"
-			"ffe6f8a1-23c0-47fa-b63b-534dbb568684"
+			"66f11c1e-d3ec-4b5f-84d5-1a63f9f2770b" "743c0856-8b74-44a1-8421-64c4daa69759"
+			"75d244c4-c25c-4541-8dc6-ef901428666e" "76322db3-e55c-473c-af8a-676589330726"
+			"79bf5315-9871-492f-bf49-2cd00017e752" "84e83174-8896-4c5e-b17a-7f23e2497560"
+			"85aecc78-79cd-4bbb-bc88-5ac5306c7899" "8d933b8d-41b2-4008-a24e-f95063244d70"
+			"90a44b6d-afb2-4090-be48-728d47199b8b" "93740d32-d78c-435f-b94b-e9d4f6ff63fc"
+			"9e171b65-6b8b-425a-bfb5-4565be18103a" "9f016363-017e-4ccd-940f-6d3e71e030a8"
+			"a2300748-193d-425e-b149-44891922faab" "a30cf87c-3716-4104-8377-9f7734dcab37"
+			"ae5f9055-b1e2-4cc5-9292-1f3de852cd55" "af87c1d2-5a6b-47bb-883a-3bf82de40e8b"
+			"b56914db-860b-4358-8f59-3aff588ff695" "b5edcd0e-bdaf-4a70-bc31-20c4e75f5780"
+			"b648e4f7-5378-40ee-9155-b362d249c5a1" "b6a90eef-decd-434a-8c5b-a9a99890835f"
+			"b7d5358a-5708-4152-ac09-b3ac2066c693" "b82c0f16-3858-4379-ada2-1f4ea8d70105"
+			"bcde3ed5-fc60-47b4-aea1-cda35d6b4146" "c3ee1156-8a2a-4fa1-8238-5bbc0486ab40"
+			"c4940e4a-750c-40ac-82f9-0408b2d78615" "ce5bd5b5-df7f-43a4-9adc-b3d29f032ef5"
+			"cf5bb4aa-046c-44e4-9580-33e61fcaa707" "d0f8bbf8-7156-400c-95c7-2d21298fe98b"
+			"d4db9420-67a6-435a-9521-a9fc6da968bc" "d69c25b6-f1d0-457d-9364-34d0f0320c1d"
+			"daf09e31-3e5a-4afa-bd3f-72f6661a6e94" "dc3408f3-6f2c-495d-b02a-3aa1b8569f49"
+			"e0bb910c-21de-4909-ad9a-2c44c694aa81" "e6e57e21-f3a4-4e5f-8c6d-0e0417d7b0d9"
+			"e7feb826-2206-4965-a9be-f97e93a328ed" "f5d59605-6ddb-4aba-b0f2-39113b8d21c6"
+			"f8001f90-1aa4-4baf-9d3c-3472aa3b5b87" "fd476e9b-04c7-4f0f-af74-b55f42296a85"
+			"ff0f078f-b196-4a5a-8882-17af2e2678b1" "ffe6f8a1-23c0-47fa-b63b-534dbb568684"
 		)
 	)
 	(group ""
@@ -52719,31 +52916,30 @@
 			"15b4b39a-4e82-47f1-9d26-a93aa219463e" "19406a04-f4b1-4bb8-824a-fcc633ee753a"
 			"1ae26240-83e8-43e5-90d6-d1ed3df69d0e" "273a89f3-3221-454c-8c16-b093f572aabe"
 			"2a0ec28e-e962-429f-ab4d-c4a17f4fe89f" "30997cf4-61dc-4acb-9b3b-a3d16710c283"
-			"3154bea8-3b19-4ee8-b38b-2427e8eefc62" "32617763-9104-4397-9337-3a59cb40b3e9"
-			"36c6a105-7c0f-46dd-8d8d-136b5e1acc3b" "3721aaa5-0058-4562-b465-5264b5c2442a"
-			"376ba481-c4ee-4724-b39c-cbca3b73ed03" "3e706d7d-9877-4262-ab80-b3882c8c3f01"
-			"43fbe01d-51d3-40a3-86c4-f18a3bae3976" "465fa969-ac82-4920-9ec3-55b76334880b"
-			"51ce3265-edbc-4024-b9ba-524158e8f090" "575ffc3a-b216-47a5-b03a-96dfa3cc5bc2"
-			"5e0349a2-c32c-4534-bc39-91044a49f12f" "64704fe1-4352-4622-a700-82211fd99558"
-			"67855e83-439c-42b7-887d-57884ac6b695" "67ab7188-9b3a-4641-ab47-1005f20d9944"
-			"6dbc7c9e-b131-4721-af9e-54e6e199df10" "85f2676a-dc5c-4f1a-a1c4-5f346e820065"
-			"88b61557-006d-4b41-a289-27271423fff5" "8a19b42b-3e51-453b-8fa2-94a00bf0c7e6"
-			"8c11fd6e-d7ba-4610-b420-52a3d4e789c2" "91d34b0d-6927-472a-93cb-402bfeb9c26e"
-			"937e7513-fd8b-4f38-b9e5-919d0b893b1a" "a067524a-2069-4cfc-9b8e-d8b14913793d"
-			"a067ea4a-bd41-44e4-bf97-c68077ef066a" "a8577a6a-0cb2-4257-bf0d-d00177589107"
-			"aa2d085e-1382-43eb-aee5-81e8d09cb9fe" "b16b55c2-1796-457f-b7d8-5d566e3dccd3"
-			"b72c96dc-366b-41e4-b5da-3873e7a9781b" "b752b33d-9633-41b7-9450-96b482f3c4bb"
-			"ba6ba0a0-6f06-4812-a91e-dec1e2eb9e2a" "be53ae39-03e0-4761-806b-7997e2fef905"
-			"c1e07045-82a6-4261-afb7-aec6fe229f77" "cea8898a-a23d-45a0-82aa-634da40554ff"
-			"d234699d-9679-4a84-a510-ca876beb14a4" "d721a806-61ee-4807-8a01-47bc30ed271f"
-			"d849e5b2-3b2c-4f0b-b976-5ae7b7e91b57" "dff851aa-829e-49db-9a94-11781e72f91e"
-			"e055ab86-ad82-448c-819b-9de00a66751a" "e3613c49-7219-4f8b-a7db-83c9ab11f55a"
-			"ec8ebeba-45b0-4bd4-9c56-4b1fc1160200" "ed4406fb-2475-4c95-9285-f306d50974e9"
-			"ef0a05fc-dc5d-4ee5-b67a-3e74e2c7d25e" "f15ca821-6764-4b79-ab0e-599e0784088e"
-			"f2fbe377-350e-4622-9733-216f1d6fc38b" "f47fa60b-ca5e-401c-94ea-37f1fda7c9c3"
-			"f4df8416-1649-411c-8abd-964cee0f9899" "f5279c9b-a5df-44fa-80e4-f3d9f9449eb0"
-			"fb2f95fb-5030-4e5f-bbdf-a6155ba2daa7" "fdbfc172-4bcf-44fc-97d4-390f73c64a8e"
-			"fe565f82-9226-472e-9ace-79ae90fa633a"
+			"32617763-9104-4397-9337-3a59cb40b3e9" "36c6a105-7c0f-46dd-8d8d-136b5e1acc3b"
+			"3721aaa5-0058-4562-b465-5264b5c2442a" "376ba481-c4ee-4724-b39c-cbca3b73ed03"
+			"3e706d7d-9877-4262-ab80-b3882c8c3f01" "43fbe01d-51d3-40a3-86c4-f18a3bae3976"
+			"465fa969-ac82-4920-9ec3-55b76334880b" "51ce3265-edbc-4024-b9ba-524158e8f090"
+			"575ffc3a-b216-47a5-b03a-96dfa3cc5bc2" "5e0349a2-c32c-4534-bc39-91044a49f12f"
+			"64704fe1-4352-4622-a700-82211fd99558" "67855e83-439c-42b7-887d-57884ac6b695"
+			"67ab7188-9b3a-4641-ab47-1005f20d9944" "6dbc7c9e-b131-4721-af9e-54e6e199df10"
+			"85f2676a-dc5c-4f1a-a1c4-5f346e820065" "88b61557-006d-4b41-a289-27271423fff5"
+			"8a19b42b-3e51-453b-8fa2-94a00bf0c7e6" "8c11fd6e-d7ba-4610-b420-52a3d4e789c2"
+			"91d34b0d-6927-472a-93cb-402bfeb9c26e" "937e7513-fd8b-4f38-b9e5-919d0b893b1a"
+			"a067524a-2069-4cfc-9b8e-d8b14913793d" "a067ea4a-bd41-44e4-bf97-c68077ef066a"
+			"a8577a6a-0cb2-4257-bf0d-d00177589107" "aa2d085e-1382-43eb-aee5-81e8d09cb9fe"
+			"b16b55c2-1796-457f-b7d8-5d566e3dccd3" "b72c96dc-366b-41e4-b5da-3873e7a9781b"
+			"b752b33d-9633-41b7-9450-96b482f3c4bb" "ba6ba0a0-6f06-4812-a91e-dec1e2eb9e2a"
+			"be53ae39-03e0-4761-806b-7997e2fef905" "c1e07045-82a6-4261-afb7-aec6fe229f77"
+			"cea8898a-a23d-45a0-82aa-634da40554ff" "d234699d-9679-4a84-a510-ca876beb14a4"
+			"d721a806-61ee-4807-8a01-47bc30ed271f" "d849e5b2-3b2c-4f0b-b976-5ae7b7e91b57"
+			"dff851aa-829e-49db-9a94-11781e72f91e" "e055ab86-ad82-448c-819b-9de00a66751a"
+			"e3613c49-7219-4f8b-a7db-83c9ab11f55a" "ec8ebeba-45b0-4bd4-9c56-4b1fc1160200"
+			"ed4406fb-2475-4c95-9285-f306d50974e9" "ef0a05fc-dc5d-4ee5-b67a-3e74e2c7d25e"
+			"f15ca821-6764-4b79-ab0e-599e0784088e" "f2fbe377-350e-4622-9733-216f1d6fc38b"
+			"f47fa60b-ca5e-401c-94ea-37f1fda7c9c3" "f4df8416-1649-411c-8abd-964cee0f9899"
+			"f5279c9b-a5df-44fa-80e4-f3d9f9449eb0" "fb2f95fb-5030-4e5f-bbdf-a6155ba2daa7"
+			"fdbfc172-4bcf-44fc-97d4-390f73c64a8e" "fe565f82-9226-472e-9ace-79ae90fa633a"
 		)
 	)
 	(sheet_instances
