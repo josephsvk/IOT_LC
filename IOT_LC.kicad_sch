@@ -31177,7 +31177,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4,7 kΩ"
+		(property "Value" "4.7 kΩ"
 			(at 44.45 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39330,7 +39330,7 @@
 				)
 			)
 		)
-		(property "Value" "5,6 µH"
+		(property "Value" "5.6 µH"
 			(at 531.622 202.438 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42872,7 +42872,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4,7 µF"
+		(property "Value" "4.7 µF"
 			(at 458.47 143.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51963,7 +51963,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4,7 µF"
+		(property "Value" "4.7 µF"
 			(at 468.63 199.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57488,7 +57488,7 @@
 				)
 			)
 		)
-		(property "Value" "6,8 µH"
+		(property "Value" "6.8 µH"
 			(at 533.4 145.542 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57744,7 +57744,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4,7 µF"
+		(property "Value" "4.7 µF"
 			(at 471.17 143.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58033,7 +58033,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4,7 µF"
+		(property "Value" "4.7 µF"
 			(at 455.93 199.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
