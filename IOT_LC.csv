@@ -31,6 +31,7 @@
 "C107","1","1 nF, 250 V AC (X1/Y1)","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:CAP-TH_L7.0-W4.0-P10.00-D0.6","https://www.lcsc.com/datasheet/C373381.pdf","DE1E3RA102MA4BN01F","1 nF ±20%, 250 V AC (X1/Y1 safety capacitor)","THT"
 "R122","1","1 MΩ","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R1206","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Vishay-Intertech-CRCW12061M00FKEA_C844869.html","CRCW12061M00FKEA","1 MΩ ±1%","SMD"
 "R103,R105,R107,R109","4","1 kΩ","","","","","${EXCLUDE_FROM_POS_FILES}","C0805C104K5RACTU:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ-3EKF1001V_C118155.html","ERJ3EKF1001V","1 kΩ ±1%","SMD"
+"R102,R104,R106,R108","4","4.7 kΩ","","","","","${EXCLUDE_FROM_POS_FILES}","C0805C104K5RACTU:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJPA3F4701V_C441924.html","ERJPA3F4701V","4.7 kΩ ±1%","SMD"
 "R407,R413","2","0 Ω","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC_ERJ-3GEY0R00V_0R-0R_C122704.html","ERJ3GEY0R00V","0 Ω jumper","SMD"
 "USB401","1","USB4085-GF-A","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:USC-C-SMD_USB4085-GF-A","https://www.lcsc.com/datasheet/C7095263.pdf","USB4085-GF-A","","SMD"
 "U402","1","THVD1426DRLR","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BR","https://www.lcsc.com/datasheet/C5215922.pdf","THVD1426DRLR","","SMD"

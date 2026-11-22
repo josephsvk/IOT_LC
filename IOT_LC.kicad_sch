@@ -21972,7 +21972,7 @@
 				)
 			)
 		)
-		(property "Mounting" "THT"
+		(property "Mounting" "SMD"
 			(at 359.664 347.726 0)
 			(hide yes)
 			(show_name no)
@@ -22987,17 +22987,6 @@
 				)
 			)
 		)
-		(property "Mounting" "THT"
-			(at 59.69 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Temperature-Sensors_MAXIM_DS18B20_DS18B20_C9753.html"
 			(at 59.69 38.1 0)
 			(hide yes)
@@ -23920,7 +23909,7 @@
 				)
 			)
 		)
-		(property "Mounting" "THT"
+		(property "Mounting" "SMD"
 			(at 359.664 267.716 0)
 			(hide yes)
 			(show_name no)
@@ -27683,17 +27672,6 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
-			(at 509.27 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5185863.pdf"
 			(at 509.27 156.21 0)
 			(hide yes)
@@ -31139,6 +31117,71 @@
 				)
 			)
 		)
+		(property "Assembly" ""
+			(at 227.584 291.846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" ""
+			(at 227.584 291.846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Voltage" ""
+			(at 227.584 291.846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 227.584 291.846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Circuit Function" ""
+			(at 227.584 291.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 227.584 291.846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8e6c1c18-c24e-4f89-9c1d-7cb5880a2950")
 		)
@@ -31221,7 +31264,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" ""
 			(at 41.91 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -31365,6 +31408,71 @@
 			)
 		)
 		(property "VERIFIER" ""
+			(at 41.91 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 41.91 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" ""
+			(at 41.91 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Voltage" ""
+			(at 41.91 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 41.91 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Circuit Function" ""
+			(at 41.91 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 41.91 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -31681,7 +31789,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" ""
 			(at 478.79 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -36492,7 +36600,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" ""
 			(at 528.32 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -39330,7 +39438,7 @@
 				)
 			)
 		)
-		(property "Value" "5.6 µH"
+		(property "Value" "5,6 µH"
 			(at 531.622 202.438 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39406,7 +39514,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" ""
 			(at 530.86 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -42872,7 +42980,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7 µF"
+		(property "Value" "4,7 µF"
 			(at 458.47 143.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43604,7 +43712,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" ""
 			(at 528.32 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -51963,7 +52071,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7 µF"
+		(property "Value" "4,7 µF"
 			(at 468.63 199.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53608,7 +53716,7 @@
 				)
 			)
 		)
-		(property "Mounting" "THT"
+		(property "Mounting" "SMD"
 			(at 359.664 307.086 0)
 			(hide yes)
 			(show_name no)
@@ -54598,7 +54706,7 @@
 				)
 			)
 		)
-		(property "Mounting" "THT"
+		(property "Mounting" "SMD"
 			(at 359.664 387.096 0)
 			(hide yes)
 			(show_name no)
@@ -56954,7 +57062,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" ""
 			(at 506.73 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -57488,7 +57596,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8 µH"
+		(property "Value" "6,8 µH"
 			(at 533.4 145.542 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57500,17 +57608,6 @@
 		)
 		(property "Footprint" "EasyEDA:IND-SMD_L7.0-W6.6_CMKD-0630A"
 			(at 533.4 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting" "SMD"
-			(at 533.4 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57744,7 +57841,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7 µF"
+		(property "Value" "4,7 µF"
 			(at 471.17 143.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58033,7 +58130,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7 µF"
+		(property "Value" "4,7 µF"
 			(at 455.93 199.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63766,7 +63863,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" ""
 			(at 525.78 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -64766,7 +64863,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" ""
 			(at 481.33 142.24 0)
 			(hide yes)
 			(show_name no)
