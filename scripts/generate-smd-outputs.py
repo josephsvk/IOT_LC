@@ -41,7 +41,7 @@ def jlc_footprint(value):
 
 
 def jlc_comment(value):
-    return value.replace("µ", "u").replace("Ω", "ohm").strip()
+    return value.replace("µ", "u").strip()
 
 
 def main():
@@ -50,8 +50,8 @@ def main():
             raise SystemExit(f"Required source file not found: {path.relative_to(ROOT)}")
 
     master_fields, master_rows = read_csv(MASTER_BOM)
-    if "Mounting" not in master_fields:
-        raise SystemExit("IOT_LC.csv is missing the Mounting column")
+    if not {"Mounting", "Description", "LCSC Part #"}.issubset(master_fields):
+        raise SystemExit("IOT_LC.csv must have Mounting, Description, and LCSC Part # columns")
     smd_refs = {
         ref
         for row in master_rows
@@ -91,12 +91,16 @@ def main():
             continue
         for ref in refs:
             part = part_by_ref[ref]
-            lcsc = part["LCSC Part #"].strip()
+            # Prefer the normalized project field; retain production BOM data
+            # as a fallback for older project rows.
+            lcsc = (row["LCSC Part #"].strip() or part["LCSC Part #"].strip())
             if lcsc and not re.fullmatch(r"C\d+", lcsc):
                 # A manufacturer part number is not a JLC/LCSC library number.
                 lcsc = ""
             footprint = jlc_footprint(part["Footprint"] or row["Footprint"].split(":")[-1])
-            comment = jlc_comment(row["Value"])
+            # JLCPCB uses Comment as the human-readable component description.
+            # Fall back to Value only where the project has no description.
+            comment = jlc_comment(row["Description"].strip() or row["Value"])
             key = (comment, footprint, lcsc)
             grouped.setdefault(key, []).append(ref)
             assembly_refs.add(ref)
