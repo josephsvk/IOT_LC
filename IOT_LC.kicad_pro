@@ -882,7 +882,7 @@
           "group_by": false,
           "label": "MPN",
           "name": "MPN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -900,7 +900,7 @@
           "group_by": false,
           "label": "Package",
           "name": "Package",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -954,13 +954,13 @@
           "group_by": false,
           "label": "Tolerance",
           "name": "Tolerance",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Voltage",
           "name": "Voltage",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -972,7 +972,7 @@
           "group_by": false,
           "label": "LCSC Part",
           "name": "LCSC Part",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1050,7 +1050,7 @@
           "group_by": false,
           "label": "MANUFACTURER",
           "name": "MANUFACTURER",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1086,19 +1086,19 @@
           "group_by": false,
           "label": "Assembly",
           "name": "Assembly",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Mounting",
           "name": "Mounting",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Rated Voltage",
           "name": "Rated Voltage",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1117,6 +1117,12 @@
           "label": "Dielectric",
           "name": "Dielectric",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": true
         }
       ],
       "filter_string": "",
