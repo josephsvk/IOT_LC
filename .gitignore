@@ -32,6 +32,9 @@ venv/
 
 # Local automation sources and installed automation package
 /scripts/
+!/scripts/
+/scripts/*
+!/scripts/generate-smd-outputs.py
 /automation/
 /kicad-auto-installer/
 *.service
