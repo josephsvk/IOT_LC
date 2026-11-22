@@ -21972,7 +21972,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" "THT"
 			(at 359.664 347.726 0)
 			(hide yes)
 			(show_name no)
@@ -22987,6 +22987,17 @@
 				)
 			)
 		)
+		(property "Mounting" "THT"
+			(at 59.69 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Temperature-Sensors_MAXIM_DS18B20_DS18B20_C9753.html"
 			(at 59.69 38.1 0)
 			(hide yes)
@@ -23909,7 +23920,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" "THT"
 			(at 359.664 267.716 0)
 			(hide yes)
 			(show_name no)
@@ -27672,6 +27683,17 @@
 				)
 			)
 		)
+		(property "Mounting" "SMD"
+			(at 509.27 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5185863.pdf"
 			(at 509.27 156.21 0)
 			(hide yes)
@@ -31199,7 +31221,7 @@
 				)
 			)
 		)
-		(property "Mounting" ""
+		(property "Mounting" "SMD"
 			(at 41.91 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -31659,7 +31681,7 @@
 				)
 			)
 		)
-		(property "Mounting" ""
+		(property "Mounting" "SMD"
 			(at 478.79 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -36470,7 +36492,7 @@
 				)
 			)
 		)
-		(property "Mounting" ""
+		(property "Mounting" "SMD"
 			(at 528.32 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -39384,7 +39406,7 @@
 				)
 			)
 		)
-		(property "Mounting" ""
+		(property "Mounting" "SMD"
 			(at 530.86 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -43582,7 +43604,7 @@
 				)
 			)
 		)
-		(property "Mounting" ""
+		(property "Mounting" "SMD"
 			(at 528.32 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -53586,7 +53608,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" "THT"
 			(at 359.664 307.086 0)
 			(hide yes)
 			(show_name no)
@@ -54576,7 +54598,7 @@
 				)
 			)
 		)
-		(property "Mounting" "SMD"
+		(property "Mounting" "THT"
 			(at 359.664 387.096 0)
 			(hide yes)
 			(show_name no)
@@ -56932,7 +56954,7 @@
 				)
 			)
 		)
-		(property "Mounting" ""
+		(property "Mounting" "SMD"
 			(at 506.73 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -57478,6 +57500,17 @@
 		)
 		(property "Footprint" "EasyEDA:IND-SMD_L7.0-W6.6_CMKD-0630A"
 			(at 533.4 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mounting" "SMD"
+			(at 533.4 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63733,7 +63766,7 @@
 				)
 			)
 		)
-		(property "Mounting" ""
+		(property "Mounting" "SMD"
 			(at 525.78 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -64733,7 +64766,7 @@
 				)
 			)
 		)
-		(property "Mounting" ""
+		(property "Mounting" "SMD"
 			(at 481.33 142.24 0)
 			(hide yes)
 			(show_name no)
