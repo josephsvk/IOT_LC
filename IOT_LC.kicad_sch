@@ -36481,7 +36481,7 @@
 				)
 			)
 		)
-		(property "Assembly" ""
+		(property "Assembly" "PCBA"
 			(at 528.32 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -40952,7 +40952,7 @@
 				)
 			)
 		)
-		(property "Assembly" ""
+		(property "Assembly" "PCBA"
 			(at 528.32 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -56932,6 +56932,93 @@
 				)
 			)
 		)
+		(property "Mounting" ""
+			(at 506.73 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Assembly" "PCBA"
+			(at 506.73 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 506.73 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" ""
+			(at 506.73 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated Voltage" ""
+			(at 506.73 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 506.73 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Circuit Function" ""
+			(at 506.73 198.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 506.73 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "f71d92c9-b65e-4b55-a55d-9204f1043d33")
 		)
@@ -60328,6 +60415,17 @@
 		)
 		(property "VERIFIER" ""
 			(at 515.62 283.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 515.62 283.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65808,16 +65906,15 @@
 			"b648e4f7-5378-40ee-9155-b362d249c5a1" "b6a90eef-decd-434a-8c5b-a9a99890835f"
 			"b7d5358a-5708-4152-ac09-b3ac2066c693" "b82c0f16-3858-4379-ada2-1f4ea8d70105"
 			"bcde3ed5-fc60-47b4-aea1-cda35d6b4146" "c3ee1156-8a2a-4fa1-8238-5bbc0486ab40"
-			"c4940e4a-750c-40ac-82f9-0408b2d78615" "cdc03a4f-1ae3-46ec-ae95-be14f842167e"
-			"ce5bd5b5-df7f-43a4-9adc-b3d29f032ef5" "cf5bb4aa-046c-44e4-9580-33e61fcaa707"
-			"cf7a559b-71ba-4bab-88ae-04d2fb6caf6c" "d0f8bbf8-7156-400c-95c7-2d21298fe98b"
-			"d4db9420-67a6-435a-9521-a9fc6da968bc" "d69c25b6-f1d0-457d-9364-34d0f0320c1d"
-			"daf09e31-3e5a-4afa-bd3f-72f6661a6e94" "e0bb910c-21de-4909-ad9a-2c44c694aa81"
-			"e6e57e21-f3a4-4e5f-8c6d-0e0417d7b0d9" "e7feb826-2206-4965-a9be-f97e93a328ed"
-			"e940e083-646a-46ff-9907-463ccd06f9ea" "f316c010-85d4-4356-9434-babeba0a00c2"
-			"f5d59605-6ddb-4aba-b0f2-39113b8d21c6" "f8001f90-1aa4-4baf-9d3c-3472aa3b5b87"
-			"fd476e9b-04c7-4f0f-af74-b55f42296a85" "ff0f078f-b196-4a5a-8882-17af2e2678b1"
-			"ffe6f8a1-23c0-47fa-b63b-534dbb568684"
+			"c4940e4a-750c-40ac-82f9-0408b2d78615" "ce5bd5b5-df7f-43a4-9adc-b3d29f032ef5"
+			"cf5bb4aa-046c-44e4-9580-33e61fcaa707" "cf7a559b-71ba-4bab-88ae-04d2fb6caf6c"
+			"d0f8bbf8-7156-400c-95c7-2d21298fe98b" "d4db9420-67a6-435a-9521-a9fc6da968bc"
+			"d69c25b6-f1d0-457d-9364-34d0f0320c1d" "daf09e31-3e5a-4afa-bd3f-72f6661a6e94"
+			"e0bb910c-21de-4909-ad9a-2c44c694aa81" "e6e57e21-f3a4-4e5f-8c6d-0e0417d7b0d9"
+			"e7feb826-2206-4965-a9be-f97e93a328ed" "e940e083-646a-46ff-9907-463ccd06f9ea"
+			"f316c010-85d4-4356-9434-babeba0a00c2" "f5d59605-6ddb-4aba-b0f2-39113b8d21c6"
+			"f8001f90-1aa4-4baf-9d3c-3472aa3b5b87" "fd476e9b-04c7-4f0f-af74-b55f42296a85"
+			"ff0f078f-b196-4a5a-8882-17af2e2678b1" "ffe6f8a1-23c0-47fa-b63b-534dbb568684"
 		)
 	)
 	(group ""
