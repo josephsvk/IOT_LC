@@ -3,7 +3,7 @@
 "TP101","1","DIGITUS_MEDIUS","","","","","${EXCLUDE_FROM_POS_FILES}","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","","","test point","THT"
 "R303","1","TMOV20RP275E","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:RES-TH_L23.0-W9.5-P8.50-D0.9-S4.50","https://lcsc.com/product-detail/Varistors_Littelfuse_TMOV20RP275E_Littelfuse-TMOV20RP275E_C187710.html","TMOV20RP275E","MOV, 275 V AC maximum","THT"
 "D105,D106,D107,D108,D109,D110","6","Kingbright WP4060GD","","","","","${EXCLUDE_FROM_POS_FILES}","LED_THT:LED_D1.8mm_W3.3mm_H2.4mm","https://octopart.com/datasheet/kingbright/WP4060GD","","Light emitting diode","THT"
-"C107","1","1 nF, 250 V AC (X1/Y1)","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:CAP-TH_L7.0-W4.0-P10.00-D0.6","https://www.lcsc.com/datasheet/C373381.pdf","DE1E3RA102MA4BN01F","1 nF ±20%, 250 V AC (X1/Y1 safety capacitor)","THT"
+"C107","1","1nF,250VAC(X1/Y1)","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:CAP-TH_L7.0-W4.0-P10.00-D0.6","https://www.lcsc.com/datasheet/C373381.pdf","DE1E3RA102MA4BN01F","1 nF +/-20%, 250 V AC (X1/Y1 safety capacitor)","THT"
 "U302","1","HLK-15M24C","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:PWRM-TH_4P-L47.5-W28.5_HLK-15MXXC","https://www.lcsc.com/datasheet/C18203066.pdf","HLK-15M24C","","THT"
 "U108","1","DS18B20+","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:TO-92-3_L4.9-W3.7-P1.27-L","https://lcsc.com/product-detail/Temperature-Sensors_MAXIM_DS18B20_DS18B20_C9753.html","DS18B20+","","THT"
 "U106,U107","2","SSQ-110-02-T-D","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:HDR-TH_ESQ-110-23-G-D","https://www.lcsc.com/datasheet/C5908768.pdf","SSQ-110-02-T-D","","THT"

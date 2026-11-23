@@ -44,18 +44,27 @@ def jlc_comment(value):
     return value.replace("µ", "u").strip()
 
 
+def jlc_resistor_comment(value):
+    value = value.replace("Ω", "").replace(" ", "")
+    return re.sub(
+        r"(?<![\w.])(\d+)\.(\d+)(k|M)\b",
+        lambda match: match.group(1) + match.group(3) + match.group(2),
+        value,
+        flags=re.IGNORECASE,
+    )
+
+
 def main():
     for path in (MASTER_BOM, SMD_BOM_SOURCE, POSITIONS_SOURCE):
         if not path.is_file():
             raise SystemExit(f"Required source file not found: {path.relative_to(ROOT)}")
 
     master_fields, master_rows = read_csv(MASTER_BOM)
-    if not {"Mounting", "Description", "LCSC Part #"}.issubset(master_fields):
-        raise SystemExit("IOT_LC.csv must have Mounting, Description, and LCSC Part # columns")
-    smd_refs = {
-        ref
+    # The production SMD BOM is the assembly membership source. Project CSV
+    # mounting labels can be stale after a KiCad BOM export.
+    master_by_ref = {
+        ref: row
         for row in master_rows
-        if row.get("Mounting", "").strip().upper() == "SMD"
         for ref in designators(row["Reference"])
     }
 
@@ -73,45 +82,35 @@ def main():
                 raise SystemExit(f"Duplicate reference in production/bom-smd.csv: {ref}")
             part_by_ref[ref] = row
 
-    if set(part_by_ref) != smd_refs:
-        missing = sorted(smd_refs - set(part_by_ref))
-        extra = sorted(set(part_by_ref) - smd_refs)
-        raise SystemExit(f"SMD BOM differs from Mounting fields; missing={missing}, extra={extra}")
-
-    # Use the project BOM for membership and comments, and the production SMD
-    # BOM only for its package and LCSC part-number data.
+    # Use production BOM membership, footprint and LCSC data. Keep project
+    # Value and LCSC fields when available; Description stays a separate field.
     grouped = {}
     no_lcsc = []
     assembly_refs = set()
-    for row in master_rows:
-        refs = designators(row["Reference"])
-        if row["Mounting"].strip().upper() != "SMD":
+    for ref, part in part_by_ref.items():
+        if PAD_ONLY_FOOTPRINT in part["Footprint"].lower():
             continue
-        if PAD_ONLY_FOOTPRINT in row["Footprint"].lower():
-            continue
-        for ref in refs:
-            part = part_by_ref[ref]
-            # Prefer the normalized project field; retain production BOM data
-            # as a fallback for older project rows.
-            lcsc = (row["LCSC Part #"].strip() or part["LCSC Part #"].strip())
-            if lcsc and not re.fullmatch(r"C\d+", lcsc):
-                # A manufacturer part number is not a JLC/LCSC library number.
-                lcsc = ""
-            footprint = jlc_footprint(part["Footprint"] or row["Footprint"].split(":")[-1])
-            # JLCPCB uses Comment as the human-readable component description.
-            # Fall back to Value only where the project has no description.
-            comment = jlc_comment(row["Description"].strip() or row["Value"])
-            key = (comment, footprint, lcsc)
-            grouped.setdefault(key, []).append(ref)
-            assembly_refs.add(ref)
+        project = master_by_ref.get(ref, {})
+        lcsc = project.get("LCSC Part #", "").strip() or part["LCSC Part #"].strip()
+        if lcsc and not re.fullmatch(r"C\d+", lcsc):
+            lcsc = ""
+        footprint = jlc_footprint(part["Footprint"])
+        comment = jlc_comment(project.get("Value", "").strip() or part["Value"].strip())
+        description = project.get("Description", "").strip()
+        if ref.upper().startswith("R"):
+            comment = jlc_resistor_comment(comment)
+        key = (comment, description, footprint, lcsc)
+        grouped.setdefault(key, []).append(ref)
+        assembly_refs.add(ref)
     jlc_bom_rows = [
         {
             "Comment": comment,
+            "Description": description,
             "Designator": ",".join(refs),
             "Footprint": footprint,
             "LCSC Part #": lcsc,
         }
-        for (comment, footprint, lcsc), refs in grouped.items()
+        for (comment, description, footprint, lcsc), refs in grouped.items()
     ]
     no_lcsc = [row["Designator"] for row in jlc_bom_rows if not row["LCSC Part #"]]
 
@@ -132,7 +131,7 @@ def main():
     cpl_fields = ["Designator", "Mid X", "Mid Y", "Rotation", "Layer"]
     jlc_cpl_rows = [{field: row[field] for field in cpl_fields} for row in jlc_cpl_rows]
 
-    write_csv(JLC_BOM, ["Comment", "Designator", "Footprint", "LCSC Part #"], jlc_bom_rows)
+    write_csv(JLC_BOM, ["Comment", "Description", "Designator", "Footprint", "LCSC Part #"], jlc_bom_rows)
     write_csv(JLC_CPL, cpl_fields, jlc_cpl_rows)
 
     print(

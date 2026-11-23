@@ -1,0 +1,9 @@
+[Unit]
+Description=Watch IOT_LC PCB for changes
+
+[Path]
+PathChanged=/home/joseph/Dokumenty/kicad/IOT_V2/IOT_LC/IOT_LC.kicad_pcb
+Unit=kicad-pcb-render.service
+
+[Install]
+WantedBy=default.target

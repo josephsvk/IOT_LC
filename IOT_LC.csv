@@ -1,60 +1,63 @@
-Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Exclude from Simulation,Exclude from Position Files,Footprint,Datasheet,MPN,Description,Mounting,LCSC Part #
-"C113,C114,C115,C116",4,100nF,,,,,${EXCLUDE_FROM_POS_FILES},Capacitor_SMD:C_0603_1608Metric,,,Unpolarized capacitor,SMD,
-"C109,C110,C111,C112",4,4.7 µF,,,,,${EXCLUDE_FROM_POS_FILES},Capacitor_SMD:C_1206_3216Metric,±10 %,,"4.7uF, ±10%, 50V, 1206, MLCC",SMD,
-"C106,C117,C118,C119",4,22uF,,,,,${EXCLUDE_FROM_POS_FILES},Capacitor_SMD:C_1210_3225Metric,,,"22uF, ±10%, 25V, 1210, MLCC",SMD,
-"TP403,TP406",2,TestPoint,,,,,${EXCLUDE_FROM_POS_FILES},TestPoint:TestPoint_Pad_D1.0mm,,,test point,SMD,
-"TP102,TP103,TP104,TP105,TP106,TP107,TP108,TP109,TP110,TP111,TP112,TP113,TP114,TP115,TP116,TP117,TP118,TP119,TP120,TP121,TP401,TP402,TP404,TP405",24,,,,,,${EXCLUDE_FROM_POS_FILES},TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,test point,THT,
-TP101,1,DIGITUS_MEDIUS,,,,,${EXCLUDE_FROM_POS_FILES},TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm,,,test point,THT,
-D403,1,SM712.TCT,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR,https://lcsc.com/product-detail/TVS_SEMTECH_SM712-TCT_SM712-TCT_C12067.html,SM712.TCT,SM712.TCT,SMD,C12067
-R131,1,13.7k,,,,,${EXCLUDE_FROM_POS_FILES},PCM_4ms_Resistor:R_0603,,,"13.7kΩ, ±1%, 0.1W, 0603, Thick Film",SMD,
-R129,1,22.1k,,,,,${EXCLUDE_FROM_POS_FILES},PCM_4ms_Resistor:R_0603,,,"22.1kΩ, ±1%, 0.1W, 0603, Thick Film",SMD,
-"R128,R130",2,100k,,,,,${EXCLUDE_FROM_POS_FILES},PCM_4ms_Resistor:R_0603,,,"100kΩ, ±1%, 0.1W, 0603, Thick Film",SMD,
-R126,1,4.7 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},PCM_4ms_Resistor:R_0603,,,Resistor,SMD,
-"R120,R123,R125",3,5.6 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},PCM_4ms_Resistor:R_0805_2012Metric,,,Resistor,SMD,
-"R119,R121,R124",3,47 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},PCM_4ms_Resistor:R_0805_2012Metric,,,Resistor,SMD,
-R303,1,TMOV20RP275E,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:RES-TH_L23.0-W9.5-P8.50-D0.9-S4.50,https://lcsc.com/product-detail/Varistors_Littelfuse_TMOV20RP275E_Littelfuse-TMOV20RP275E_C187710.html,TMOV20RP275E,"MOV, 275 V AC maximum",THT,C187710
-"D105,D106,D107,D108,D109,D110",6,Kingbright WP4060GD,,,,,${EXCLUDE_FROM_POS_FILES},LED_THT:LED_D1.8mm_W3.3mm_H2.4mm,https://octopart.com/datasheet/kingbright/WP4060GD,,Light emitting diode,THT,
-F101,1,1.25A,,,,,${EXCLUDE_FROM_POS_FILES},Fuse:Fuse_1206_3216Metric,,F1206SB1250V063TM,Fuse,SMD,F1206SB1250V063TM
-"R409,R410",2,60.4 Ω,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Vishay-Intertech-CRCW060360R4FKEA_C844801.html,CRCW060360R4FKEA,"60.4Ω, ±1%, 0.1W, 0603, Thick Film",SMD,C844801
-"R111,R112,R114,R116",4,47 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0402,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ2RKF4702X_C413103.html,ERJ2RKF4702X,"47kΩ, ±1%, 0.1W, 0402, Thick Film",SMD,C413103
-C407,1,4.7 nF,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:C0603,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_4-7nF-472-10-50V_C106218.html,CC0603KRX7R9BB472,"4.7nF, ±10%, 50V, X7R, 0603, MLCC",SMD,C106218
-"R101,R110,R113,R115,R117",5,330 Ω,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ3EKF3300V_C278617.html,ERJ3EKF3300V,"330Ω, ±1%, 0.1W, 0603, Thick Film",SMD,C278617
-"R411,R412",2,2.2 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0805,https://www.lcsc.com/datasheet/C5545398.pdf,AC0805FR-7W2K2L,"2.2kΩ, ±1%, 0.125W, 0805, Thick Film",SMD,C5545398
-C101,1,100 nF,,,,,${EXCLUDE_FROM_POS_FILES},C0805C104K5RACTU:C0805,https://www.lcsc.com/datasheet/C3018562.pdf,C0805C104K5RACTU,"100nF, ±10%, 50V, X7R, 0805, MLCC",SMD,C3018562
-"C108,C404,C408",3,100 nF,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:C0603,https://www.lcsc.com/datasheet/C2181816.pdf,C0603C104K4RACTU,"100nF, ±10%, 16V, X7R, 0603, MLCC",SMD,C2181816
-C402,1,10 µF,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:C0805,https://www.lcsc.com/datasheet/C2167452.pdf,C2012X7R1A106K125AC,"10uF, ±10%, 10V, X7R, 0805, MLCC",SMD,C2167452
-"C102,C103,C104,C105",4,10 nF,,,,,${EXCLUDE_FROM_POS_FILES},C0805C104K5RACTU:C0603,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_KEMET_C0603C103K5RACTU_10nF-103-10-50V_C116378.html,C0603C103K5RACTU,"10nF, ±10%, 50V, X7R, 0603, MLCC",SMD,C116378
-"R118,R402,R406,R408",4,10 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERA-3AEB103V_C190610.html,ERA3AEB103V,"10kΩ, ±0.1%, 0.1W, 0603, Thick Film",SMD,C190610
-C313,1,1 µF,,,,Vylúčené ze simulace,${EXCLUDE_FROM_POS_FILES},EasyEDA:C0805,https://lcsc.com/product-detail/presales_YAGEO-CC0805JKX7R9BB105_C541528.html,CC0805JKX7R9BB105,"1uF, ±5%, 50V, X7R, 0805, MLCC",SMD,C541528
-C401,1,1 µF,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:C1206,https://www.lcsc.com/datasheet/C2167287.pdf,C1206C105K5RACTU,"1uF, ±10%, 50V, X7R, 1206, MLCC",SMD,C2167287
-C403,1,1 µF,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:C0603,https://www.lcsc.com/datasheet/C7419418.pdf,FCC0603B105K160CT,"1uF, ±10%, 16V, 0603, MLCC",SMD,C7419418
-C107,1,"1 nF, 250 V AC (X1/Y1)",,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:CAP-TH_L7.0-W4.0-P10.00-D0.6,https://www.lcsc.com/datasheet/C373381.pdf,DE1E3RA102MA4BN01F,"1 nF ±20%, 250 V AC (X1/Y1 safety capacitor)",THT,C373381
-R122,1,1 MΩ,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R1206,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Vishay-Intertech-CRCW12061M00FKEA_C844869.html,CRCW12061M00FKEA,"1MΩ, ±1%, 0.25W, 1206, Thick Film",SMD,C844869
-"R103,R105,R107,R109",4,1 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},C0805C104K5RACTU:R0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ-3EKF1001V_C118155.html,ERJ3EKF1001V,"1kΩ, ±1%, 0.1W, 0603, Thick Film",SMD,C118155
-"R102,R104,R106,R108",4,4.7 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},C0805C104K5RACTU:R0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJPA3F4701V_C441924.html,ERJPA3F4701V,"4.7kΩ, ±1%, 0.33W, 0603, Thick Film",SMD,C441924
-"R407,R413",2,0 Ω,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC_ERJ-3GEY0R00V_0R-0R_C122704.html,ERJ3GEY0R00V,"0Ω, 0603, Thick Film Jumper",SMD,C122704
-USB401,1,USB4085-GF-A,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:USC-C-SMD_USB4085-GF-A,https://www.lcsc.com/datasheet/C7095263.pdf,USB4085-GF-A,,SMD,C7095263
-U402,1,THVD1426DRLR,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BR,https://www.lcsc.com/datasheet/C5215922.pdf,THVD1426DRLR,,SMD,C5215922
-U401,1,ESP32-S3-WROOM-1U-N16R8,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:WIRELM-SMD_ESP32-S3-WROOM-1U,https://www.lcsc.com/datasheet/C3013946.pdf,ESP32-S3-WROOM-1U-N16R8,,SMD,C3013946
-U302,1,HLK-15M24C,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:PWRM-TH_4P-L47.5-W28.5_HLK-15MXXC,https://www.lcsc.com/datasheet/C18203066.pdf,HLK-15M24C,,THT,C18203066
-"U109,U110",2,LMR51430XDDCR,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL,https://www.lcsc.com/datasheet/C5185863.pdf,LMR51430XDDCR,,SMD,C5185863
-U108,1,DS18B20+,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:TO-92-3_L4.9-W3.7-P1.27-L,https://lcsc.com/product-detail/Temperature-Sensors_MAXIM_DS18B20_DS18B20_C9753.html,DS18B20+,,THT,C9753
-"U106,U107",2,SSQ-110-02-T-D,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:HDR-TH_ESQ-110-23-G-D,https://www.lcsc.com/datasheet/C5908768.pdf,SSQ-110-02-T-D,,THT,C5908768
-U103,1,SN74AHCT1G125DBVR,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR,https://lcsc.com/product-detail/74-Series_TI_SN74AHCT1G125DBVR_SN74AHCT1G125DBVR_C7484.html,SN74AHCT1G125DBVR,,SMD,C7484
-"U101,U102,U104,U105",4,AQY211EH,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:DIP-4_L6.4-W4.8-P2.54-LS7.6-BL,https://www.lcsc.com/datasheet/C719541.pdf,AQY211EH,,THT,C719541
-"SW401,SW402",2,1825027-5,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:KEY-TH_4P-L7.5-W6.8-P4.50-LS7.2,https://lcsc.com/product-detail/Tactile-Switches_TE-Connectivity_1825027-5_Side-press_C86476.html,1825027-5,,THT,C86476
-"R415,R416",2,22 Ω,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ-3EKF22R0V_C122707.html,ERJ3EKF22R0V,"22Ω, ±1%, 0.1W, 0603, Thick Film",SMD,C122707
-"R404,R405",2,5.1 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJPA3F5101V_C543366.html,ERJPA3F5101V,"5.1kΩ, ±1%, 0.33W, 0603, Thick Film",SMD,C543366
-R401,1,12 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ3EKF1202V_C400645.html,ERJ3EKF1202V,"12kΩ, ±1%, 0.1W, 0603, Thick Film",SMD,C400645
-R127,1,15 kΩ,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:R0603,https://www.lcsc.com/datasheet/C2089596.pdf,ERA-3APB153V,"15kΩ, ±0.1%, 0.1W, 0603, Thick Film",SMD,C2089596
-L102,1,6.8 µH,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:IND-SMD_L7.0-W6.6_CMKD-0630A,https://www.lcsc.com/datasheet/C41384282.pdf,FSA0630-6R8MT,"6.8uH, ±20%, Isat 6A, SMD Power Inductor",SMD,C41384282
-L101,1,5.6 µH,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:IND-SMD_L5.5-W5.3_APS0550M,https://www.lcsc.com/datasheet/C54123766.pdf,APH0550C-5R6M-TCD5,"5.6uH, ±20%, Isat 7.4A, SMD Power Inductor",SMD,C54123766
-FH301,1,65600001009,,,,,${EXCLUDE_FROM_POS_FILES},C0805C104K5RACTU:FUSE-TH_65600001009,https://www.lcsc.com/datasheet/C187510.pdf,65600001009,,THT,C187510
-D402,1,SMF5.0A,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:SOD-123F_L2.8-W1.8-LS3.7-RD,https://lcsc.com/product-detail/TVS_Littelfuse_SMF5-0A_Littelfuse-SMF5-0A_C151296.html,SMF5.0A,,SMD,C151296
-D401,1,TPD2EUSB30ADRTR,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:SOT-9X3-3_L1.0-W0.8-P0.35-LS1.0-BR,https://lcsc.com/product-detail/Others_Texas-Instruments_TPD2EUSB30ADRTR_Texas-Instruments-TI-TPD2EUSB30ADRTR_C94934.html,TPD2EUSB30ADRTR,,SMD,C94934
-D111,1,SMBJ24A,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:SMB_L4.3-W3.6-LS5.4-RD,https://lcsc.com/product-detail/Others_Littelfuse_SMBJ24A_Littelfuse-SMBJ24A_C224017.html,SMBJ24A,,SMD,C224017
-"D101,D102,D103,D104",4,SMBJ26CA,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:SMB_L4.6-W3.6-LS5.3-BI,https://lcsc.com/product-detail/Others_Littelfuse_SMBJ26CA_Littelfuse-SMBJ26CA_C83332.html,SMBJ26CA,,SMD,C83332
-CN302,1,1985205,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:CONN-TH_3P-P3.50_PHOENIX-CONTACT_1985205,https://www.lcsc.com/datasheet/C3817619.pdf,1985205,,THT,C3817619
-CN105,1,1990025,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:CONN-TH_4P-P2.50_1990025,https://www.lcsc.com/datasheet/C3020058.pdf,1990025,,THT,C3020058
-CN104,1,1989751,,,,,${EXCLUDE_FROM_POS_FILES},EasyEDA:CONN-TH_3P-P2.50_1989751,https://www.lcsc.com/datasheet/C17585029.pdf,1989751,,THT,C17585029
-"CN101,CN102",2,1990067,,,,,${EXCLUDE_FROM_POS_FILES},C0805C104K5RACTU:CONN-TH_8P-P2.50_1990067,https://www.lcsc.com/datasheet/C17327671.pdf,1990067,,THT,C17327671
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet","MPN","Popis","Mounting"
+"TP102,TP103,TP104,TP105,TP106,TP107,TP108,TP109,TP110,TP111,TP112,TP113,TP114,TP115,TP116,TP117,TP118,TP119,TP120,TP121,TP401,TP402,TP404,TP405","24","~","","","","","${EXCLUDE_FROM_POS_FILES}","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","","","test point","THT"
+"TP101","1","DIGITUS_MEDIUS","","","","","${EXCLUDE_FROM_POS_FILES}","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","","","test point","THT"
+"U109,U110","2","TPS5430DDAR","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:ESOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP","https://www.lcsc.com/datasheet/lcsc_datasheet_1811081920_Texas-Instruments-TPS5430DDAR_C9864.pdf","","Step-down type Adjustable 1.221V~32.04V 3A 5.5V~36V SOIC-8-EP DC-DC Converters ROHS",""
+"R303","1","TMOV20RP275E","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:RES-TH_L23.0-W9.5-P8.50-D0.9-S4.50","https://lcsc.com/product-detail/Varistors_Littelfuse_TMOV20RP275E_Littelfuse-TMOV20RP275E_C187710.html","TMOV20RP275E","MOV, 275VACmaximum","THT"
+"D105,D106,D107,D108,D109,D110","6","Kingbright WP4060GD","","","","","${EXCLUDE_FROM_POS_FILES}","LED_THT:LED_D1.8mm_W3.3mm_H2.4mm","https://octopart.com/datasheet/kingbright/WP4060GD","","Light emitting diode","THT"
+"R407,R413","2","0","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC_ERJ-3GEY0R00V_0R-0R_C122704.html","ERJ3GEY0R00V","Jumper","SMD"
+"D112,D113","2","SS36","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:D_SMA","https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2402010525_hongjiacheng-SS36_C7420367.pdf","","60V Independent Type 3A 700mV@3.0A SMA(DO-214AC) Schottky Diodes ROHS",""
+"C113","1","100uF","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:C_1206","https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL31A107MQHNNNE_C15008.pdf","","6.3V 100uF X5R ±20% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",""
+"R128","1","549Ω_0603_0.1%","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_4ms_Resistor:R_0603","","","549Ω, 0.1%, 1/10W, 0603",""
+"C106,C114,C115","3","4.7uF","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:C_1206","https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B475K500NT_C29823.pdf","","50V 4.7uF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",""
+"C110","1","150pF","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:C_0603","https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603B151K500NT_C1594.pdf","","50V 150pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",""
+"C109,C116","2","10nF","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:C_0603","https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603B103K500NT_C57112.pdf","","50V 10nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",""
+"C111","1","100nF","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:C_0603","https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf","","50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",""
+"C112","1","1.5nF","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:C_0805","https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0805B152K500NT_C1717.pdf","","50V 1.5nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",""
+"R129","1","5.9k_0603","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_4ms_Resistor:R_0603","","","5.9k, 1%, 1/10W, 0603",""
+"L101,L102","2","15uH","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:IND-SMD_L11.6-W10.1","https://www.lcsc.com/datasheet/C2921232.pdf","BCIHP1040SC-150M","45mΩ 5.25A 6A ±20%","SMD"
+"R133","1","3.24k_0603","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_4ms_Resistor:R_0603","","","3.24k, 1%, 1/10W, 0603",""
+"D111","1","SMBJ24A","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:D_SMB","https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312280935_hongjiacheng-SMBJ24A_C19077578.pdf","","15.42A 600W 38.9V 29.5V Unidirectional 24V SMB ESD and Surge Protection (TVS/ESD) ROHS",""
+"R132","1","120","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:R_0603","https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1200T5E_C22787.pdf","","100mW Thick Film Resistors 75V ±100ppm/°C ±1% 120Ω 0603 Chip Resistor - Surface Mount ROHS",""
+"R130,R131","2","10kΩ","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_JLCPCB:R_0603","https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf","","100mW Thick Film Resistors 75V ±100ppm/°C ±1% 10kΩ 0603 Chip Resistor - Surface Mount ROHS",""
+"C117","1","220UF","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:CAP-SMD_BD6.3-L6.6-W6.6-LS7.2-FD","https://www.lcsc.com/datasheet/C970694.pdf","RVT1A221M0605 220UF 10V","-55℃~+105℃ 10V 220uF 2800hrs@105℃ 5.4mm 6.3mm 69mA@120Hz ±20% SMD,D6.3xL5.4mm Aluminum Electrolytic Capacitors - SMD ROHS",""
+"R118,R402,R406,R408","4","10k","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERA-3AEB103V_C190610.html","ERA3AEB103V","+/-0.1%, 100mW,10 kΩ ±0.1%","SMD"
+"C313","1","1uF","","","","Vylúčené ze simulace","${EXCLUDE_FROM_POS_FILES}","EasyEDA:C0805","https://lcsc.com/product-detail/presales_YAGEO-CC0805JKX7R9BB105_C541528.html","CC0805JKX7R9BB105","+/-5%, 50V, X7R, MLCC","SMD"
+"C107","1","1nF,250VAC(X1/Y1)","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:CAP-TH_L7.0-W4.0-P10.00-D0.6","https://www.lcsc.com/datasheet/C373381.pdf","DE1E3RA102MA4BN01F","+/-20%, 250 V AC (X1/Y1 safety capacitor)","THT"
+"C401","1","1uF","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:C0805","https://www.lcsc.com/datasheet/C2167287.pdf","C1206C105K5RACTU","+/-10%, 50V, X7R, MLCC","SMD"
+"C102,C103,C104,C105","4","10nF","","","","","${EXCLUDE_FROM_POS_FILES}","C0805C104K5RACTU:C0603","https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_KEMET_C0603C103K5RACTU_10nF-103-10-50V_C116378.html","C0603C103K5RACTU","+/-10%, 50V, X7R, MLCC","SMD"
+"C101","1","100nF","","","","","${EXCLUDE_FROM_POS_FILES}","C0805C104K5RACTU:C0805","https://www.lcsc.com/datasheet/C3018562.pdf","C0805C104K5RACTU","+/-10%, 50V, X7R, MLCC","SMD"
+"C403","1","1uF","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:C0603","https://www.lcsc.com/datasheet/C7419418.pdf","FCC0603B105K160CT","+/-10%, 16V, X7R, MLCC","SMD"
+"C108,C404,C408","3","100nF","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:C0603","https://www.lcsc.com/datasheet/C2181816.pdf","C0603C104K4RACTU","+/-10%, 16V, X7R, MLCC","SMD"
+"C402","1","10uF","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:C0805","https://www.lcsc.com/datasheet/C2167452.pdf","C2012X7R1A106K125AC","+/-10%, 10V, X7R, MLCC","SMD"
+"R404,R405","2","5.1k","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJPA3F5101V_C543366.html","","+/-1%, 330mW","SMD"
+"R122","1","1M","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R1206","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Vishay-Intertech-CRCW12061M00FKEA_C844869.html","CRCW12061M00FKEA","+/-1%, 250mW","SMD"
+"R411,R412","2","2.2k","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0805","https://www.lcsc.com/datasheet/C5545398.pdf","AC0805FR-7W2K2L","+/-1%, 125mW","SMD"
+"R415,R416","2","22","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ-3EKF22R0V_C122707.html","ERJ3EKF22R0V","+/-1%, 100mW","SMD"
+"R401","1","12k","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ3EKF1202V_C400645.html","ERJ3EKF1202V","+/-1%, 100mW","SMD"
+"R111,R112,R114,R116","4","47k","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0402","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ2RKF4702X_C413103.html","ERJ2RKF4702X","+/-1%, 100mW","SMD"
+"R103,R105,R107,R109","4","1k","","","","","${EXCLUDE_FROM_POS_FILES}","C0805C104K5RACTU:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ-3EKF1001V_C118155.html","ERJ3EKF1001V","+/-1%, 100mW","SMD"
+"R101,R110,R113,R115,R117","5","330","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0603","https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ3EKF3300V_C278617.html","ERJ3EKF3300V","+/-1%, 100mW","SMD"
+"R127","1","15k","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:R0603","https://www.lcsc.com/datasheet/C2089596.pdf","ERA-3APB153V","+/-0.1%, 100mW","SMD"
+"F101","1","1.25A","","","","","${EXCLUDE_FROM_POS_FILES}","Fuse:Fuse_1206_3216Metric","","F1206SB1250V063TM","63V, SMD Fuse","SMD"
+"USB401","1","USB4085-GF-A","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:USC-C-SMD_USB4085-GF-A","https://www.lcsc.com/datasheet/C7095263.pdf","USB4085-GF-A","","SMD"
+"U402","1","THVD1426DRLR","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BR","https://www.lcsc.com/datasheet/C5215922.pdf","THVD1426DRLR","","SMD"
+"U401","1","ESP32-S3-WROOM-1U-N16R8","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:WIRELM-SMD_ESP32-S3-WROOM-1U","https://www.lcsc.com/datasheet/C3013946.pdf","ESP32-S3-WROOM-1U-N16R8","","SMD"
+"U302","1","HLK-15M24C","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:PWRM-TH_4P-L47.5-W28.5_HLK-15MXXC","https://www.lcsc.com/datasheet/C18203066.pdf","HLK-15M24C","","THT"
+"U108","1","DS18B20+","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:TO-92-3_L4.9-W3.7-P1.27-L","https://lcsc.com/product-detail/Temperature-Sensors_MAXIM_DS18B20_DS18B20_C9753.html","DS18B20+","",""
+"U106,U107","2","SSQ-110-02-T-D","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:HDR-TH_ESQ-110-23-G-D","https://www.lcsc.com/datasheet/C5908768.pdf","SSQ-110-02-T-D","","THT"
+"U103","1","SN74AHCT1G125DBVR","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR","https://lcsc.com/product-detail/74-Series_TI_SN74AHCT1G125DBVR_SN74AHCT1G125DBVR_C7484.html","SN74AHCT1G125DBVR","","SMD"
+"U101,U102,U104,U105","4","AQY211EH","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:DIP-4_L6.4-W4.8-P2.54-LS7.6-BL","https://www.lcsc.com/datasheet/C719541.pdf","AQY211EH","","SMD"
+"TP403,TP406","2","TestPoint","","","","","${EXCLUDE_FROM_POS_FILES}","TestPoint:TestPoint_Pad_D1.0mm","","","","SMD"
+"SW401,SW402","2","1825027-5","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:KEY-TH_4P-L7.5-W6.8-P4.50-LS7.2","https://lcsc.com/product-detail/Tactile-Switches_TE-Connectivity_1825027-5_Side-press_C86476.html","1825027-5","","THT"
+"R126","1","4.7k","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_4ms_Resistor:R_0603","","","",""
+"R120,R123,R125","3","5.6k","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_4ms_Resistor:R_0805_2012Metric","","","","SMD"
+"R119,R121,R124","3","47k","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_4ms_Resistor:R_0805_2012Metric","","","","SMD"
+"FH301","1","65600001009","","","","","${EXCLUDE_FROM_POS_FILES}","C0805C104K5RACTU:FUSE-TH_65600001009","https://www.lcsc.com/datasheet/C187510.pdf","65600001009","","THT"
+"D403","1","SM712.TCT","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR","https://lcsc.com/product-detail/TVS_SEMTECH_SM712-TCT_SM712-TCT_C12067.html","SM712.TCT","","SMD"
+"D402","1","SMF5.0A","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:SOD-123F_L2.8-W1.8-LS3.7-RD","https://lcsc.com/product-detail/TVS_Littelfuse_SMF5-0A_Littelfuse-SMF5-0A_C151296.html","SMF5.0A","","SMD"
+"D401","1","TPD2EUSB30ADRTR","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:SOT-9X3-3_L1.0-W0.8-P0.35-LS1.0-BR","https://lcsc.com/product-detail/Others_Texas-Instruments_TPD2EUSB30ADRTR_Texas-Instruments-TI-TPD2EUSB30ADRTR_C94934.html","TPD2EUSB30ADRTR","","SMD"
+"D101,D102,D103,D104","4","SMBJ26CA","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:SMB_L4.6-W3.6-LS5.3-BI","https://lcsc.com/product-detail/Others_Littelfuse_SMBJ26CA_Littelfuse-SMBJ26CA_C83332.html","SMBJ26CA","","SMD"
+"CN302","1","1985205","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:CONN-TH_3P-P3.50_PHOENIX-CONTACT_1985205","https://www.lcsc.com/datasheet/C3817619.pdf","1985205","","THT"
+"CN105","1","1990025","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:CONN-TH_4P-P2.50_1990025","https://www.lcsc.com/datasheet/C3020058.pdf","1990025","","THT"
+"CN104","1","1989751","","","","","${EXCLUDE_FROM_POS_FILES}","EasyEDA:CONN-TH_3P-P2.50_1989751","https://www.lcsc.com/datasheet/C17585029.pdf","1989751","","THT"
+"CN101,CN102","2","1990067","","","","","${EXCLUDE_FROM_POS_FILES}","C0805C104K5RACTU:CONN-TH_8P-P2.50_1990067","https://www.lcsc.com/datasheet/C17327671.pdf","1990067","","THT"

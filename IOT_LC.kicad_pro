@@ -1123,6 +1123,246 @@
           "label": "LCSC Part #",
           "name": "LCSC Part #",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part #_1",
+          "name": "LCSC Part #_1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Resistance",
+          "name": "Resistance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Process",
+          "name": "Process",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Temperature Coefficient",
+          "name": "Temperature Coefficient",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Stock",
+          "name": "Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Type",
+          "name": "Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Overload Voltage (Max)",
+          "name": "Overload Voltage (Max)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Operating Temperature Range",
+          "name": "Operating Temperature Range",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Class",
+          "name": "Class",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Power(Watts)",
+          "name": "Power(Watts)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part",
+          "name": "Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Attrition Qty",
+          "name": "Attrition Qty",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Category",
+          "name": "Category",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Minimum Qty",
+          "name": "Minimum Qty",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Operating Temperature",
+          "name": "Operating Temperature",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Production Stage",
+          "name": "Production Stage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Number Of Outputs",
+          "name": "Number Of Outputs",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Specifications",
+          "name": "Specifications",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Diode Configuration",
+          "name": "Diode Configuration",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Reverse Voltage (Vr)",
+          "name": "Reverse Voltage (Vr)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Display",
+          "name": "Display",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Peak forward surge current",
+          "name": "Peak forward surge current",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Switch Tube (Built-In/External)",
+          "name": "Switch Tube (Built-In/External)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Switching Frequency",
+          "name": "Switching Frequency",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Synchronous Rectification",
+          "name": "Synchronous Rectification",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part Number",
+          "name": "Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Output Voltage",
+          "name": "Output Voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Forward Voltage (Vf@If)",
+          "name": "Forward Voltage (Vf@If)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Topology",
+          "name": "Topology",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Output Current",
+          "name": "Output Current",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Output Type",
+          "name": "Output Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Function",
+          "name": "Function",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Voltage Rated",
+          "name": "Voltage Rated",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Input Voltage",
+          "name": "Input Voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Average Rectified Current (Io)",
+          "name": "Average Rectified Current (Io)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB ID",
+          "name": "JLCPCB ID",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Reverse Leakage Current (Ir)",
+          "name": "Reverse Leakage Current (Ir)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Capacitance",
+          "name": "Capacitance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Output Current (Max)",
+          "name": "Output Current (Max)",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1149,31 +1389,6 @@
           "name": "Assembly",
           "url": false,
           "visible": false
-        },
-        {
-          "name": "Tolerance",
-          "url": false,
-          "visible": false
-        },
-        {
-          "name": "Dielectric",
-          "url": false,
-          "visible": false
-        },
-        {
-          "name": "Rated Voltage",
-          "url": false,
-          "visible": false
-        },
-        {
-          "name": "Package",
-          "url": false,
-          "visible": false
-        },
-        {
-          "name": "Circuit Function",
-          "url": false,
-          "visible": true
         },
         {
           "name": "LCSC Part #",
@@ -1222,7 +1437,7 @@
         "uuid": "59331ef0-31b4-4adf-874b-2f71b754f421"
       }
     ],
-    "used_designators": "#PWR801,C1-7,C101-119,C201-214,C301-314,C401-408,C501-505,C601-605,C801-802,CN1,CN101-105,CN201,CN301-302,CN401,D1-3,D101-111,D201,D301-302,D401-404,D801,D803,F101,F801-802,FH1,FH201,FH301,FH401-402,H301-304,J301,L1,L101-102,L401,L501,L601,LED1,PS201,PS301,Q801-804,R1-4,R101-131,R201-203,R301-307,R401-416,R501-502,R601-602,R801-809,R901-912,SW401-402,TP101-122,TP401-406,U1-5,U101-110,U201-203,U301-303,U401-404,U501,U601,U801,U901,USB401-403",
+    "used_designators": "#PWR801,C1-7,C101-119,C201-214,C301-314,C401-408,C501-505,C601-605,C801-802,CN1,CN101-105,CN201,CN301-302,CN401,D1-3,D101-111,D201,D301-302,D401-404,D801,D803,F101,F801-802,FH1,FH201,FH301,FH401-402,H301-304,J301,L1,L101-102,L401,L501,L601,LED1,PS201,PS301,Q801-804,R1-4,R101-132,R201-203,R301-307,R401-416,R501-502,R601-602,R801-809,R901-912,SW401-402,TP101-122,TP401-406,U1-5,U101-110,U201-203,U301-303,U401-404,U501,U601,U801,U901,USB401-403",
     "variants": [
       {
         "name": "FULL"

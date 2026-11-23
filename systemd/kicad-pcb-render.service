@@ -1,0 +1,9 @@
+[Unit]
+Description=Render IOT_LC after PCB changes
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/joseph/Dokumenty/kicad/IOT_V2/IOT_LC
+Environment="PATH=%h/.local/bin:/usr/local/bin:/usr/bin:/bin"
+ExecStart=/usr/bin/python3 /home/joseph/Dokumenty/kicad/IOT_V2/IOT_LC/scripts/render-after-board-change.py
+TimeoutStartSec=10min

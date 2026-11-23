@@ -14,6 +14,13 @@ KiCad hardware project for the modular IoT controller.
 
 **Safety:** The design includes mains voltage. It has not been certified or validated for safe mains operation. Do not assume it is safe to manufacture or energize.
 
+## Automatic PCB render
+
+The user systemd path watcher monitors `IOT_LC.kicad_pcb`. After the file has
+been unchanged for 2.5 seconds, it regenerates the top and bottom 3D renders.
+The watcher unit files are in `systemd/`; the manual command is
+`./rychle-spustenie/render.sh`.
+
 <!-- AUTO-DOCS-START -->
 ## Schematic documentation
 

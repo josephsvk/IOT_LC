@@ -34,8 +34,17 @@ venv/
 /scripts/
 !/scripts/
 /scripts/*
+!/scripts/auto-git.sh
+!/scripts/check-docs.py
+!/scripts/export-pdf.sh
+!/scripts/generate-readme.py
 !/scripts/generate-smd-outputs.py
+!/scripts/render-pcb-3d.py
+!/scripts/render-after-board-change.py
 /automation/
 /kicad-auto-installer/
 *.service
 *.timer
+*.path
+!/systemd/kicad-pcb-render.service
+!/systemd/kicad-pcb-render.path
