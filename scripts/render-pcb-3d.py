@@ -161,10 +161,16 @@ def main():
                 str(temporary_board),
             ], check=True)
         print('Generating project-root SMD outputs', flush=True)
-        subprocess.run([
+        result = subprocess.run([
             sys.executable,
             str(ROOT / 'scripts' / 'generate-smd-outputs.py'),
-        ], check=True)
+        ], check=False)
+        if result.returncode:
+            # Stale production BOM/position inputs should not prevent the
+            # documentation render and Git backup from completing. The SMD
+            # generator reports the specific issue; its previous outputs are
+            # left untouched.
+            print('SMD output generation failed; keeping existing SMD files and continuing documentation export.', flush=True)
     finally:
         shutil.rmtree(temporary_root, ignore_errors=True)
 

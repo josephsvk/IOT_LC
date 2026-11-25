@@ -29,6 +29,8 @@ venv/
 *.kicad_pcb.zip
 /docs/pdf/
 /docs/models/
+/jlcpcb/
+/smd/
 
 # Local automation sources and installed automation package
 /scripts/

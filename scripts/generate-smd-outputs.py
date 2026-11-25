@@ -62,11 +62,17 @@ def main():
     master_fields, master_rows = read_csv(MASTER_BOM)
     # The production SMD BOM is the assembly membership source. Project CSV
     # mounting labels can be stale after a KiCad BOM export.
-    master_by_ref = {
-        ref: row
-        for row in master_rows
-        for ref in designators(row["Reference"])
-    }
+    # The project BOM is user-edited and may use localized headers or a
+    # different delimiter. Production BOM data remains the authoritative
+    # assembly source; only use project metadata when the expected header is
+    # present.
+    master_by_ref = {}
+    if "Reference" in master_fields:
+        master_by_ref = {
+            ref: row
+            for row in master_rows
+            for ref in designators(row["Reference"])
+        }
 
     bom_fields, bom_rows = read_csv(SMD_BOM_SOURCE)
     required_bom_fields = {"Designator", "Footprint", "Value", "LCSC Part #", "Mounting"}
