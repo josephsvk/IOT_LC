@@ -73121,15 +73121,14 @@
 		(uuid "f5735b34-d8f7-4a7c-b91e-984666c7bcf0")
 		(at 141.45 67.34 -90)
 		(property "Reference" "U402"
-			(at 2.93 1.98 90)
-			(layer "B.SilkS")
+			(at 2.93 1.98 -90)
+			(layer "F.SilkS")
 			(uuid "83f4f77f-0ec5-4671-b39e-debf86663cc1")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
-				(justify mirror)
 			)
 		)
 		(property "Value" "THVD1426DRLR"
